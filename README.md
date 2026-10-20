@@ -1,1 +1,3 @@
-"# lets-git-it" 
+# lets-git-it
+
+A project with a `backend` and a `frontend`.
