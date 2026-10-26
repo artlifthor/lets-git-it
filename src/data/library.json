@@ -1,0 +1,65 @@
+[
+	{
+		"id": "israetel-2015",
+		"title": "Scientific Principles of Strength Training",
+		"authors": ["Mike Israetel", "James Hoffmann", "Chad Wesley Smith"],
+		"year": 2015,
+		"edition": null,
+		"category": "programming",
+		"chapters": []
+	},
+	{
+		"id": "sheiko-2018",
+		"title": "Powerlifting: Foundations and Methods",
+		"authors": ["Boris Sheiko"],
+		"year": 2018,
+		"edition": null,
+		"category": "programming",
+		"chapters": []
+	},
+	{
+		"id": "rippetoe-2014",
+		"title": "Practical Programming for Strength Training",
+		"authors": ["Mark Rippetoe", "Andy Baker"],
+		"year": 2014,
+		"edition": "3rd ed.",
+		"category": "programming",
+		"chapters": []
+	},
+	{
+		"id": "horschig-2017",
+		"title": "The Squat Bible",
+		"authors": ["Aaron Horschig"],
+		"year": 2017,
+		"edition": null,
+		"category": "technique",
+		"chapters": []
+	},
+	{
+		"id": "siff-2003",
+		"title": "Supertraining",
+		"authors": ["Mel C. Siff"],
+		"year": 2003,
+		"edition": "6th ed.",
+		"category": "technique",
+		"chapters": []
+	},
+	{
+		"id": "tuchscherer-2008",
+		"title": "The Reactive Training Manual",
+		"authors": ["Mike Tuchscherer"],
+		"year": 2008,
+		"edition": null,
+		"category": "autoregulation",
+		"chapters": []
+	},
+	{
+		"id": "schoenfeld-2021",
+		"title": "The Science and Development of Muscle Hypertrophy",
+		"authors": ["Brad Schoenfeld"],
+		"year": 2021,
+		"edition": "2nd ed.",
+		"category": "autoregulation",
+		"chapters": []
+	}
+]

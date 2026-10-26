@@ -1,0 +1,48 @@
+---
+// The book library and every verified study cited in the manual.
+import library from '../data/library.json';
+import studies from '../data/studies.json';
+
+const CATEGORIES = {
+	programming: 'Programming & Scientific Principles',
+	technique: 'Biomechanics, Technique & Injury',
+	autoregulation: 'Autoregulation & Modern Elite Coaching',
+};
+
+const sortedStudies = [...studies].sort((a, b) => a.authors.localeCompare(b.authors));
+---
+
+<h2>Books</h2>
+{
+	Object.entries(CATEGORIES).map(([key, heading]) => (
+		<>
+			<h3>{heading}</h3>
+			<ul>
+				{library
+					.filter((book) => book.category === key)
+					.map((book) => (
+						<li>
+							<em>{book.title}</em>
+							{book.edition && ` (${book.edition})`}. {book.authors.join(', ')} ({book.year}).
+						</li>
+					))}
+			</ul>
+		</>
+	))
+}
+
+<h2>Studies</h2>
+{
+	sortedStudies.length === 0 ? (
+		<p>No studies cited yet.</p>
+	) : (
+		<ul>
+			{sortedStudies.map((s) => (
+				<li>
+					{s.authors} ({s.year}). {s.title}. <em>{s.journal}</em>.{' '}
+					<a href={`https://doi.org/${s.doi}`}>doi:{s.doi}</a>
+				</li>
+			))}
+		</ul>
+	)
+}

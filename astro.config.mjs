@@ -20,6 +20,7 @@ export default defineConfig({
 				{ label: 'Part 3 · Advanced Programming (Advanced)', items: [{ autogenerate: { directory: 'advanced' } }] },
 				{ label: 'Part 4 · Peaking & Competition', items: [{ autogenerate: { directory: 'peaking' } }] },
 				{ label: 'Part 5 · Technique & Injury Management', items: [{ autogenerate: { directory: 'technique-injury' } }] },
+				{ label: 'References', slug: 'references' },
 			],
 		}),
 	],
