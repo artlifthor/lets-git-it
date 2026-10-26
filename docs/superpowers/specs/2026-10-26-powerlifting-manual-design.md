@@ -66,8 +66,29 @@ Part 2 · Building Programs (Intermediate)
 Part 3 · Advanced Programming (Advanced)
 Part 4 · Peaking & Competition
 Part 5 · Technique & Injury Management
+PAP National Records  official Philippine raw (classic) records, linked from Part 1 · Ch. 1
 References .......... every book and study cited, in one place
 ```
+
+### PAP National Records page
+
+- **Source:** PAP's official published Google Sheet, *"Raw Philippine National
+  Powerlifting Records"* (linked from PAP's Instagram bio):
+  `https://docs.google.com/spreadsheets/d/e/2PACX-1vS4JeBSzpYmQs_0DbwAl4_GxRuaJH5PtFIJfi0495yLij-KrwDQ8T7rI1Ioiuh2_NMniiAF9oCuvn-Q/pubhtml`
+- **Coverage:** raw (classic) records only, 11 divisions (Developmental, High School,
+  College, Sub-Junior, Junior, Novice, Open, Master I–IV), men and women, for squat,
+  bench press, deadlift, and total.
+- **Display:** one tab per division, with a Men / Women switch; each table shows weight
+  class, lifter, team, kg, date, and meet. Lifters' birth years are **not** shown (not
+  needed for coaching use).
+- **Header:** "Official PAP records as of [PAP's 'Last Updated' date]. Source: PAP"
+  with a link to the official sheet, plus PAP's record notes (e.g., Sub-Juniors may break
+  Junior records, per IPF rules).
+- **Data is shown exactly as PAP publishes it.** Apparent errors in the sheet are not
+  corrected on our site; they are reported to the owner to raise with PAP.
+- **Snapshot, not live:** the site stores a saved copy of the sheet in
+  `src/data/pap-records/` and builds the page from it, so the site keeps working if the
+  sheet moves or changes format. The monthly updater refreshes the copy (Section 8).
 
 ### File layout
 
@@ -97,7 +118,7 @@ Planned chapters, final wording to be confirmed in sub-project 2. ★ marks the
 owner's own topic idea.
 
 ### Part 1 · Foundations (Beginner)
-1. What powerlifting is: the sport, federations, raw vs. equipped, scoring (DOTS / IPF GL)
+1. What powerlifting is: the sport, federations, raw vs. equipped, scoring (DOTS / IPF GL), and **powerlifting in the Philippines**: the Powerlifting Association of the Philippines (PAP), its IPF affiliation, and its national competitions
 2. Stress, recovery, and adaptation: SRA curve, fitness–fatigue model
 3. The core training principles: specificity, overload, fatigue management, variation, phase potentiation, individual difference
 4. Training variables: volume, intensity, frequency, density, tempo, exercise selection
@@ -106,8 +127,9 @@ owner's own topic idea.
 7. The novice lifter: linear progression and its sample programs
 8. Exercise selection basics: competition lifts, variations, accessories
 9. Session structure and warm-ups
-10. Recovery fundamentals: sleep, nutrition, stress
-11. Tracking training: training logs, estimated 1RM, simple progress metrics
+10. Recovery fundamentals: sleep and stress
+11. Nutrition for powerlifters: energy balance, protein / carbohydrate / fat, hydration, nutrient timing around training, and evidence-based supplements (e.g., creatine, caffeine)
+12. Tracking training: training logs, estimated 1RM, simple progress metrics
 
 ### Part 2 · Building Programs (Intermediate)
 1. Assessing the lifter: needs analysis, training age, strengths and weak points
@@ -252,6 +274,13 @@ A **scheduled cloud agent** (Claude Code routine) runs **monthly**.
 ### Excluded
 Preprints, blogs, podcasts, social media, press releases, non-peer-reviewed articles, and supplement-industry material.
 
+### PAP records refresh
+Each run also downloads PAP's official records sheet and compares it with the saved
+copy. If anything changed (new records, new "Last Updated" date), the pull request
+includes the updated copy and a plain list of the new records. If the sheet can't be
+read (moved, deleted, format changed), the pull request says so instead and the site
+keeps showing the last good copy.
+
 ### Safety
 - The agent **never merges** and never edits `main` directly. The owner reviews and merges.
 - A study contradicting a chapter's existing **Strong evidence** claim is flagged for the owner's review; it is not used to rewrite the claim on its own.
@@ -281,4 +310,5 @@ Sub-project 1 is done when:
 - [ ] Search finds words inside those chapters
 - [ ] Evidence labels and sample-program tables display correctly on phone and desktop
 - [ ] The References page lists the full book library
+- [ ] The PAP National Records page shows all 11 divisions, men and women, from the saved copy of PAP's sheet, with the "as of" date and source link
 - [ ] All three automatic checks run on pull requests
