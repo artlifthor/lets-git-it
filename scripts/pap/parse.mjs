@@ -23,8 +23,13 @@ export function parseNotes(csv) {
 		.map((line) => line.trim());
 	const updated = lines.find((line) => line.startsWith('Last Updated:'));
 	if (!updated) throw new Error('NOTES tab has no "Last Updated:" line');
+	const lastUpdated = updated.slice('Last Updated:'.length).trim();
+	// Only plain date text: this value ends up in commit messages and on the page.
+	if (!/^[A-Za-z0-9 ,./-]+$/.test(lastUpdated)) {
+		throw new Error(`"Last Updated" is not a plain date: ${JSON.stringify(lastUpdated)}`);
+	}
 	return {
-		lastUpdated: updated.slice('Last Updated:'.length).trim(),
+		lastUpdated,
 		notes: lines.filter((line) => /^\d+\.\s/.test(line)).map((line) => line.replace(/^\d+\.\s+/, '')),
 	};
 }
