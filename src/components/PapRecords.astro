@@ -1,0 +1,98 @@
+---
+// PAP's official raw national records, from the saved copy refreshed monthly by scripts/pap/update.mjs.
+import { TabItem, Tabs } from '@astrojs/starlight/components';
+import records from '../data/pap-records/records.json';
+
+const SECTION_TITLES = {
+	squat: 'Squat',
+	bench: 'Bench press',
+	deadlift: 'Deadlift',
+	total: 'Total',
+	benchOnly: 'Single-lift bench press',
+};
+const SEXES = [
+	['men', 'Men'],
+	['women', 'Women'],
+];
+
+const isEmpty = (sections) => Object.values(sections).every((rows) => rows.every((r) => !r.lifter));
+---
+
+<p>
+	Official PAP raw (classic) records as of <strong>{records.lastUpdated}</strong>. Source:{' '}
+	<a href={records.source}>Powerlifting Association of the Philippines</a>. Records are shown exactly as PAP publishes
+	them, and this page updates automatically each month.
+</p>
+
+<details>
+	<summary>PAP record rules</summary>
+	<ol>{records.notes.map((note) => <li>{note}</li>)}</ol>
+</details>
+
+<Tabs>
+	{
+		records.divisions.map((division) => (
+			<TabItem label={division.label}>
+				<Tabs syncKey="pap-sex">
+					{SEXES.map(([sex, sexLabel]) => (
+						<TabItem label={sexLabel}>
+							{isEmpty(division[sex]) ? (
+								<p>No records set yet.</p>
+							) : (
+								Object.entries(SECTION_TITLES).map(([key, title]) => (
+									<>
+										<h3>{title}</h3>
+										<div class="records-table">
+											<table>
+												<thead>
+													<tr>
+														<th>Class (kg)</th>
+														<th>Lifter</th>
+														<th>Team</th>
+														<th>Kg</th>
+														<th>Date</th>
+														<th>Meet</th>
+													</tr>
+												</thead>
+												<tbody>
+													{division[sex][key].map((r) => (
+														<tr>
+															<td>{r.weightClass}</td>
+															<td>{r.lifter ?? '—'}</td>
+															<td>{r.team ?? '—'}</td>
+															<td class="kg">{r.kg ?? '—'}</td>
+															<td>{r.date ?? '—'}</td>
+															<td>{r.venue ?? '—'}</td>
+														</tr>
+													))}
+												</tbody>
+											</table>
+										</div>
+									</>
+								))
+							)}
+						</TabItem>
+					))}
+				</Tabs>
+			</TabItem>
+		))
+	}
+</Tabs>
+
+<style>
+	.records-table {
+		overflow-x: auto;
+	}
+	.records-table table {
+		display: table;
+		width: 100%;
+		font-variant-numeric: tabular-nums;
+	}
+	.records-table td,
+	.records-table th {
+		white-space: nowrap;
+	}
+	.kg {
+		font-weight: 600;
+	}
+</style>
