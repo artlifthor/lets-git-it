@@ -1,0 +1,123 @@
+[
+	{
+		"id": "zourdos-2016",
+		"authors": "Zourdos MC, Klemp A, Dolan C, et al.",
+		"year": 2016,
+		"title": "Novel resistance training–specific rating of perceived exertion scale measuring repetitions in reserve",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001049",
+		"chapters": [
+			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "helms-2016",
+		"authors": "Helms ER, Cronin J, Storey A, Zourdos MC",
+		"year": 2016,
+		"title": "Application of the repetitions in reserve-based rating of perceived exertion scale for resistance training",
+		"journal": "Strength and Conditioning Journal",
+		"doi": "10.1519/SSC.0000000000000218",
+		"chapters": [
+			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "helms-2018",
+		"authors": "Helms ER, Byrnes RK, Cooke DM, et al.",
+		"year": 2018,
+		"title": "RPE vs. percentage 1RM loading in periodized programs matched for sets and repetitions",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2018.00247",
+		"chapters": [
+			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "halperin-2022",
+		"authors": "Halperin I, Malleron T, Har-Nir I, et al.",
+		"year": 2022,
+		"title": "Accuracy in predicting repetitions to task failure in resistance exercise: a scoping review and exploratory meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-021-01559-x",
+		"chapters": [
+			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "richens-2014",
+		"authors": "Richens B, Cleather DJ",
+		"year": 2014,
+		"title": "The relationship between the number of repetitions performed at given intensities is different in endurance and strength trained athletes",
+		"journal": "Biology of Sport",
+		"doi": "10.5604/20831862.1099047",
+		"chapters": [
+			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "nuzzo-2024",
+		"authors": "Nuzzo JL, Pinto MD, Nosaka K, Steele J",
+		"year": 2024,
+		"title": "Maximal number of repetitions at percentages of the one repetition maximum: a meta-regression and moderator analysis of sex, age, training status, and exercise",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-023-01937-7",
+		"chapters": [
+			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "issurin-2010",
+		"authors": "Issurin VB",
+		"year": 2010,
+		"title": "New horizons for the methodology and physiology of training periodization",
+		"journal": "Sports Medicine",
+		"doi": "10.2165/11319770-000000000-00000",
+		"chapters": [
+			"building-programs/06-block-periodization"
+		]
+	},
+	{
+		"id": "painter-2012",
+		"authors": "Painter KB, Haff GG, Ramsey MW, et al.",
+		"year": 2012,
+		"title": "Strength gains: block versus daily undulating periodization weight training among track and field athletes",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.7.2.161",
+		"chapters": [
+			"building-programs/06-block-periodization"
+		]
+	},
+	{
+		"id": "williams-2017",
+		"authors": "Williams TD, Tolusso DV, Fedewa MV, Esco MR",
+		"year": 2017,
+		"title": "Comparison of periodized and non-periodized resistance training on maximal strength: a meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0734-y",
+		"chapters": [
+			"building-programs/06-block-periodization"
+		]
+	},
+	{
+		"id": "harries-2015",
+		"authors": "Harries SK, Lubans DR, Callister R",
+		"year": 2015,
+		"title": "Systematic review and meta-analysis of linear and undulating periodized resistance training programs on muscular strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000712",
+		"chapters": [
+			"building-programs/06-block-periodization"
+		]
+	},
+	{
+		"id": "moesgaard-2022",
+		"authors": "Moesgaard L, Beck MM, Christiansen L, et al.",
+		"year": 2022,
+		"title": "Effects of periodization on strength and muscle hypertrophy in volume-equated resistance training programs: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-021-01636-1",
+		"chapters": [
+			"building-programs/06-block-periodization"
+		]
+	}
+]
