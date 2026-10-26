@@ -5,10 +5,11 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/check-chapters.mjs && astro build",
     "preview": "astro preview",
     "test": "node --test",
-    "astro": "astro"
+    "astro": "astro",
+    "check:chapters": "node scripts/check-chapters.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.7",
