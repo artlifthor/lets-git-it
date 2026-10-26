@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "test": "node --test",
     "astro": "astro",
-    "check:chapters": "node scripts/check-chapters.mjs"
+    "check:chapters": "node scripts/check-chapters.mjs",
+    "pap:update": "node scripts/pap/update.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.7",
