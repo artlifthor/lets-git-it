@@ -1,0 +1,23 @@
+{
+  "name": "powerlifting-manual",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "node --test",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.42.7",
+    "astro": "^7.2.10",
+    "sharp": "^0.35.3"
+  },
+  "devDependencies": {
+    "csv-parse": "^7.0.3",
+    "gray-matter": "^4.0.3",
+    "starlight-links-validator": "^0.27.0"
+  }
+}
