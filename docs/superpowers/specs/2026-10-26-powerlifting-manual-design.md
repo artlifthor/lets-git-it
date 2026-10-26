@@ -40,6 +40,9 @@ plan**, written and approved before it is built.
 | 2 | **The content** | All chapters in Section 5, written in batches (one Part at a time), each reviewed by the owner | 1 |
 | 3 | **Research updater** | Monthly scheduled agent that proposes peer-reviewed research updates as pull requests | 1, 2 |
 
+The automatic monthly **PAP records refresh** (Section 8) is part of sub-project 1,
+since it only needs the records page to exist.
+
 ---
 
 ## 3. Technology
@@ -88,7 +91,8 @@ References .......... every book and study cited, in one place
   corrected on our site; they are reported to the owner to raise with PAP.
 - **Snapshot, not live:** the site stores a saved copy of the sheet in
   `src/data/pap-records/` and builds the page from it, so the site keeps working if the
-  sheet moves or changes format. The monthly updater refreshes the copy (Section 8).
+  sheet moves or changes format. A monthly automatic job refreshes the copy
+  (Section 8, "PAP records refresh").
 
 ### File layout
 
@@ -274,15 +278,24 @@ A **scheduled cloud agent** (Claude Code routine) runs **monthly**.
 ### Excluded
 Preprints, blogs, podcasts, social media, press releases, non-peer-reviewed articles, and supplement-industry material.
 
-### PAP records refresh
-Each run also downloads PAP's official records sheet and compares it with the saved
-copy. If anything changed (new records, new "Last Updated" date), the pull request
-includes the updated copy and a plain list of the new records. If the sheet can't be
-read (moved, deleted, format changed), the pull request says so instead and the site
-keeps showing the last good copy.
+### PAP records refresh (separate, fully automatic)
+PAP records are official data, not research needing judgment, so they update
+**automatically without owner approval**. This is a simple scheduled **GitHub Actions**
+job (no AI involved), running **monthly**:
+
+1. Download every division tab of PAP's official records sheet.
+2. Run **safety checks**:
+   - every expected tab (NOTES + 22 division tabs) is present and readable
+   - each tab still has the same columns (weight class, lifter, team, birth year, kg, date, venue)
+   - the total number of records has not dropped by more than 5% versus the saved copy
+3. **Checks pass and data changed:** save the new copy to `main` with a commit like
+   `Update PAP records (as of <PAP's Last Updated date>)`. The site republishes itself.
+4. **Checks pass, nothing changed:** do nothing.
+5. **Any check fails:** publish nothing; open a GitHub issue for the owner explaining
+   what looked wrong. The site keeps showing the last good copy.
 
 ### Safety
-- The agent **never merges** and never edits `main` directly. The owner reviews and merges.
+- The research agent **never merges** and never edits `main` directly. The owner reviews and merges.
 - A study contradicting a chapter's existing **Strong evidence** claim is flagged for the owner's review; it is not used to rewrite the claim on its own.
 
 ---
@@ -311,4 +324,5 @@ Sub-project 1 is done when:
 - [ ] Evidence labels and sample-program tables display correctly on phone and desktop
 - [ ] The References page lists the full book library
 - [ ] The PAP National Records page shows all 11 divisions, men and women, from the saved copy of PAP's sheet, with the "as of" date and source link
+- [ ] The monthly PAP records refresh job runs, publishes changed data when safety checks pass, and opens an issue (publishing nothing) when they fail
 - [ ] All three automatic checks run on pull requests
