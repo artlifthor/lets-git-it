@@ -1,0 +1,97 @@
+/* Site theme: Montserrat type and a black / light grey / deep red palette. */
+
+:root {
+	--sl-font: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+	--brand-black: #0f0f0f;
+	--brand-grey: #eaeaea;
+	--brand-red: #b30000;
+
+	/* Dark mode */
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #f2f2f2;
+	--sl-color-gray-2: #eaeaea;
+	--sl-color-gray-3: #bdbdbd;
+	--sl-color-gray-4: #8a8a8a;
+	--sl-color-gray-5: #3a3a3a;
+	--sl-color-gray-6: #1c1c1c;
+	--sl-color-black: var(--brand-black);
+	--sl-color-accent-low: #4a0b0f;
+	--sl-color-accent: #cc2e3c;
+	--sl-color-accent-high: #ff6b74;
+	--sl-color-bg-accent: var(--sl-color-accent);
+	--sl-color-text-invert: #ffffff;
+	--sl-color-bg-nav: var(--brand-black);
+	--sl-color-bg-sidebar: #141414;
+}
+
+:root[data-theme='light'] {
+	--sl-color-white: #000000;
+	--sl-color-gray-1: #0f0f0f;
+	--sl-color-gray-2: #1c1c1c;
+	--sl-color-gray-3: #3d3d3d;
+	--sl-color-gray-4: #6b6b6b;
+	--sl-color-gray-5: #bdbdbd;
+	--sl-color-gray-6: #d6d6d6;
+	--sl-color-gray-7: #e2e2e2;
+	--sl-color-black: var(--brand-grey);
+	--sl-color-accent-low: #f2d0d0;
+	--sl-color-accent: var(--brand-red);
+	--sl-color-accent-high: #7a0000;
+	--sl-color-bg-accent: var(--sl-color-accent);
+	--sl-color-text-invert: #ffffff;
+	--sl-color-bg-nav: var(--brand-black);
+	--sl-color-bg-sidebar: var(--brand-grey);
+}
+
+/* The top bar is black in both modes, so its contents use light-on-dark colours. */
+header.header {
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #eaeaea;
+	--sl-color-gray-2: #eaeaea;
+	--sl-color-gray-3: #bdbdbd;
+	--sl-color-gray-4: #8a8a8a;
+	--sl-color-gray-5: #3a3a3a;
+	--sl-color-gray-6: #1c1c1c;
+	--sl-color-black: var(--brand-black);
+	--sl-color-text-accent: #ffffff;
+	--sl-color-hairline-shade: var(--brand-black);
+	border-bottom-color: var(--brand-black);
+}
+
+/* Selected sidebar item: solid red with white text in both modes. */
+.sidebar-content [aria-current='page'],
+.sidebar-content [aria-current='page']:hover,
+.sidebar-content [aria-current='page']:focus {
+	background-color: var(--sl-color-accent);
+	color: #ffffff;
+}
+
+/* Uppercase, tracked headings */
+.site-title {
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	font-weight: 600;
+}
+@media (max-width: 50em) {
+	.site-title {
+		font-size: 0.8rem;
+		letter-spacing: 0.04em;
+	}
+}
+h1,
+.sl-markdown-content :is(h2, h3, h4),
+.hero h1 {
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	font-weight: 600;
+}
+.sidebar-content .group-label .large {
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+	font-size: var(--sl-text-sm);
+}
+.sl-markdown-content th {
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	font-size: var(--sl-text-xs);
+}

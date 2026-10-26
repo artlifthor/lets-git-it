@@ -12,6 +12,7 @@ export default defineConfig({
 			title: 'Powerlifting Programming Manual',
 			plugins: [starlightLinksValidator()],
 			components: { PageTitle: './src/components/PageTitle.astro' },
+			customCss: ['@fontsource/montserrat/400.css', '@fontsource/montserrat/600.css', './src/styles/theme.css'],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/artlifthor/lets-git-it' }],
 			sidebar: [
 				{ label: 'Home', link: '/' },
