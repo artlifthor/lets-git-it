@@ -1,0 +1,36 @@
+---
+// Starlight's page title, plus the level badge and "Last reviewed" date on chapters.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { LEVEL_LABELS, formatReviewed } from '../lib/levels.mjs';
+
+const { level, lastReviewed } = Astro.locals.starlightRoute.entry.data;
+---
+
+<Default />
+{
+	level && (
+		<p class="chapter-meta">
+			<span class="level">{LEVEL_LABELS[level]}</span>
+			{lastReviewed && <span>Last reviewed: {formatReviewed(lastReviewed)}</span>}
+		</p>
+	)
+}
+
+<style>
+	.chapter-meta {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.75rem;
+		margin-top: 0.5rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+	.level {
+		padding: 0.1rem 0.6rem;
+		border-radius: 0.25rem;
+		font-weight: 600;
+		color: var(--sl-color-accent-high);
+		background: var(--sl-color-accent-low);
+	}
+</style>

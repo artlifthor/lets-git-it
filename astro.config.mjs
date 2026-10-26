@@ -11,6 +11,7 @@ export default defineConfig({
 		starlight({
 			title: 'Powerlifting Programming Manual',
 			plugins: [starlightLinksValidator()],
+			components: { PageTitle: './src/components/PageTitle.astro' },
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/artlifthor/lets-git-it' }],
 			sidebar: [
 				{ label: 'Home', link: '/' },

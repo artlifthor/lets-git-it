@@ -10,6 +10,8 @@ hero:
       icon: right-arrow
 ---
 
+import Evidence from '../../components/Evidence.astro';
+
 ## How to use this manual
 
 The manual is organized like a textbook, in five Parts that go from basic to advanced:
@@ -26,9 +28,9 @@ Read the Parts in order to study, or use the search bar at the top to jump strai
 
 Key claims in each chapter carry a label showing how well they are supported:
 
-- **Strong evidence:** supported by meta-analyses or systematic reviews with consistent findings
-- **Moderate evidence:** supported by several peer-reviewed studies
-- **Emerging evidence:** limited or early peer-reviewed research; may change
-- **Coaching practice:** established practice from respected coaches and authors; not yet well tested by research
+- <Evidence level="strong" /> supported by meta-analyses or systematic reviews with consistent findings
+- <Evidence level="moderate" /> supported by several peer-reviewed studies
+- <Evidence level="emerging" /> limited or early peer-reviewed research; may change
+- <Evidence level="practice" /> established practice from respected coaches and authors; not yet well tested by research
 
 Every chapter shows when it was last reviewed. The manual is checked monthly against new peer-reviewed research.

@@ -1,0 +1,31 @@
+---
+// Inline evidence label for a claim: <Evidence level="strong" />
+import { EVIDENCE_LEVELS } from '../lib/evidence.mjs';
+
+interface Props {
+	level: keyof typeof EVIDENCE_LEVELS;
+}
+
+const { level } = Astro.props;
+const label = EVIDENCE_LEVELS[level];
+if (!label) throw new Error(`Unknown evidence level "${level}"`);
+---
+
+<span class={`evidence evidence--${level}`}>{label}</span>
+
+<style>
+	.evidence {
+		display: inline-block;
+		padding: 0.05rem 0.5rem;
+		border-radius: 999px;
+		font-size: var(--sl-text-xs);
+		font-weight: 600;
+		line-height: 1.6;
+		white-space: nowrap;
+		vertical-align: 0.1em;
+	}
+	.evidence--strong { color: var(--sl-color-green-high); background: var(--sl-color-green-low); }
+	.evidence--moderate { color: var(--sl-color-blue-high); background: var(--sl-color-blue-low); }
+	.evidence--emerging { color: var(--sl-color-orange-high); background: var(--sl-color-orange-low); }
+	.evidence--practice { color: var(--sl-color-purple-high); background: var(--sl-color-purple-low); }
+</style>
