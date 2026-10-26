@@ -309,7 +309,7 @@ On every pull request and every merge to `main`, GitHub Actions:
 3. Checks each chapter contains the required sections from Section 7. **Fails** if any are missing.
 4. On `main` only, publishes to GitHub Pages.
 
-A pull request cannot be merged while these checks fail.
+A failing check marks the pull request with a red ❌ and it is not merged. Merging is not hard-blocked: on a personal GitHub account a required-check rule cannot exempt the automatic PAP records job (decision 2026-10-26). The live site stays protected because publishing runs every test and the full build first, and publishes nothing if they fail. A ruleset blocks force-pushes to and deletion of `main`.
 
 ---
 
