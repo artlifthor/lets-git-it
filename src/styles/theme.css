@@ -66,6 +66,14 @@ header.header {
 	color: #ffffff;
 }
 
+/* Primary buttons: solid red with white text in both modes. */
+.sl-link-button.primary,
+.sl-link-button.primary:hover {
+	background: var(--sl-color-accent);
+	border-color: var(--sl-color-accent);
+	color: #ffffff;
+}
+
 /* Uppercase, tracked headings */
 .site-title {
 	text-transform: uppercase;
