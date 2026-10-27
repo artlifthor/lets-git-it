@@ -203,7 +203,8 @@
 		"journal": "Strength and Conditioning Journal",
 		"doi": "10.1519/00126548-200312000-00007",
 		"chapters": [
-			"foundations/02-stress-recovery-adaptation"
+			"foundations/02-stress-recovery-adaptation",
+			"peaking/01-peaking-and-tapering"
 		]
 	},
 	{
@@ -598,7 +599,9 @@
 			"building-programs/11-deloads-fatigue-management",
 			"advanced/09-annual-planning",
 			"advanced/10-special-populations",
-			"advanced/11-life-stress-limited-time"
+			"advanced/11-life-stress-limited-time",
+			"peaking/01-peaking-and-tapering",
+			"peaking/08-after-the-meet"
 		]
 	},
 	{
@@ -708,7 +711,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0b013e3181c643a0",
 		"chapters": [
-			"foundations/09-session-structure-warm-ups"
+			"foundations/09-session-structure-warm-ups",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -877,7 +881,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-022-01706-y",
 		"chapters": [
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -888,7 +893,8 @@
 		"journal": "Journal of Science and Medicine in Sport",
 		"doi": "10.1016/j.jsams.2018.01.012",
 		"chapters": [
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -999,7 +1005,8 @@
 		"journal": "Frontiers in Physiology",
 		"doi": "10.3389/fphys.2018.00403",
 		"chapters": [
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"peaking/08-after-the-meet"
 		]
 	},
 	{
@@ -1010,7 +1017,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-020-01362-0",
 		"chapters": [
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"peaking/08-after-the-meet"
 		]
 	},
 	{
@@ -1046,7 +1054,8 @@
 		"doi": "10.1123/ijsnem.21.2.97",
 		"chapters": [
 			"foundations/11-nutrition",
-			"advanced/10-special-populations"
+			"advanced/10-special-populations",
+			"peaking/04-making-weight"
 		]
 	},
 	{
@@ -1159,7 +1168,8 @@
 		"journal": "Nutrients",
 		"doi": "10.3390/nu14040856",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1170,7 +1180,9 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-015-0349-0",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/04-making-weight",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1181,7 +1193,8 @@
 		"journal": "Medicine & Science in Sports & Exercise",
 		"doi": "10.1249/mss.0b013e31802ca597",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1192,7 +1205,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-015-0343-6",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/04-making-weight"
 		]
 	},
 	{
@@ -1214,7 +1228,8 @@
 		"journal": "Journal of the International Society of Sports Nutrition",
 		"doi": "10.1186/s12970-017-0189-4",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1302,7 +1317,8 @@
 		"journal": "Journal of the International Society of Sports Nutrition",
 		"doi": "10.1186/s12970-018-0216-0",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1313,7 +1329,8 @@
 		"journal": "British Journal of Sports Medicine",
 		"doi": "10.1136/bjsports-2018-100278",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1324,7 +1341,8 @@
 		"journal": "Journal of the International Society of Sports Nutrition",
 		"doi": "10.1186/s12970-020-00383-4",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1337,7 +1355,8 @@
 		"chapters": [
 			"foundations/11-nutrition",
 			"foundations/10-recovery-sleep-stress",
-			"advanced/11-life-stress-limited-time"
+			"advanced/11-life-stress-limited-time",
+			"peaking/06-meet-day"
 		]
 	},
 	{
@@ -1441,7 +1460,10 @@
 			"building-programs/01-assessing-the-lifter",
 			"advanced/01-rpe-autoregulation",
 			"advanced/03-velocity-based-training",
-			"advanced/08-monitoring-readiness"
+			"advanced/08-monitoring-readiness",
+			"peaking/02-building-a-peaking-block",
+			"peaking/03-mock-meets-openers",
+			"peaking/05-attempt-selection"
 		]
 	},
 	{
@@ -1479,7 +1501,8 @@
 		"chapters": [
 			"foundations/12-tracking-training",
 			"building-programs/01-assessing-the-lifter",
-			"advanced/04-individual-response"
+			"advanced/04-individual-response",
+			"peaking/03-mock-meets-openers"
 		]
 	},
 	{
@@ -1949,7 +1972,8 @@
 		"doi": "10.1519/JSC.0000000000003964",
 		"chapters": [
 			"building-programs/08-volume-landmarks",
-			"advanced/11-life-stress-limited-time"
+			"advanced/11-life-stress-limited-time",
+			"peaking/01-peaking-and-tapering"
 		]
 	},
 	{
@@ -2044,7 +2068,8 @@
 		"doi": "10.3390/sports6030086",
 		"chapters": [
 			"building-programs/09-training-frequency",
-			"advanced/11-life-stress-limited-time"
+			"advanced/11-life-stress-limited-time",
+			"peaking/02-building-a-peaking-block"
 		]
 	},
 	{
@@ -2057,7 +2082,9 @@
 		"chapters": [
 			"building-programs/09-training-frequency",
 			"building-programs/11-deloads-fatigue-management",
-			"advanced/09-annual-planning"
+			"advanced/09-annual-planning",
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block"
 		]
 	},
 	{
@@ -2231,7 +2258,9 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001803",
 		"chapters": [
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"peaking/01-peaking-and-tapering",
+			"peaking/08-after-the-meet"
 		]
 	},
 	{
@@ -3234,7 +3263,8 @@
 		"journal": "Sports",
 		"doi": "10.3390/sports8090125",
 		"chapters": [
-			"advanced/09-annual-planning"
+			"advanced/09-annual-planning",
+			"peaking/01-peaking-and-tapering"
 		]
 	},
 	{
@@ -3400,7 +3430,8 @@
 		"journal": "British Journal of Sports Medicine",
 		"doi": "10.1136/bjsports-2023-106994",
 		"chapters": [
-			"advanced/10-special-populations"
+			"advanced/10-special-populations",
+			"peaking/04-making-weight"
 		]
 	},
 	{
@@ -3499,7 +3530,9 @@
 		"journal": "Medicine & Science in Sports & Exercise",
 		"doi": "10.1249/00005768-199308000-00008",
 		"chapters": [
-			"advanced/11-life-stress-limited-time"
+			"advanced/11-life-stress-limited-time",
+			"peaking/01-peaking-and-tapering",
+			"peaking/08-after-the-meet"
 		]
 	},
 	{
@@ -3555,6 +3588,480 @@
 		"doi": "10.1007/s40279-021-01502-0",
 		"chapters": [
 			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "mujika-2003",
+		"authors": "Mujika I, Padilla S",
+		"year": 2003,
+		"title": "Scientific bases for precompetition tapering strategies",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/01.MSS.0000074448.73931.11",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "wang-2023",
+		"authors": "Wang Z, Wang YT, Gao W, Zhong Y",
+		"year": 2023,
+		"title": "Effects of tapering on performance in endurance athletes: a systematic review and meta-analysis",
+		"journal": "PLOS ONE",
+		"doi": "10.1371/journal.pone.0282838",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "williams-2020",
+		"authors": "Williams TD, Esco MR, Fedewa MV, Bishop PA",
+		"year": 2020,
+		"title": "Bench press load-velocity profiles and strength after overload and taper microcyles in male powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003835",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "travis-2021b",
+		"authors": "Travis SK, Pritchard HJ, Mujika I, et al.",
+		"year": 2021,
+		"title": "Characterizing the tapering practices of United States and Canadian raw powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004177",
+		"chapters": [
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block",
+			"peaking/03-mock-meets-openers"
+		]
+	},
+	{
+		"id": "winwood-2026",
+		"authors": "Winwood PW, Travis SK, Barnes MJ, et al.",
+		"year": 2026,
+		"title": "Tapering and peaking in the weight lifting sports: a systematic review of athletes' self-reported strategies",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-026-02500-w",
+		"chapters": [
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block",
+			"peaking/03-mock-meets-openers"
+		]
+	},
+	{
+		"id": "bosquet-2007",
+		"authors": "Bosquet L, Montpetit J, Arvisais D, Mujika I",
+		"year": 2007,
+		"title": "Effects of tapering on performance: a meta-analysis",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/mss.0b013e31806010e0",
+		"chapters": [
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block"
+		]
+	},
+	{
+		"id": "vachon-2021",
+		"authors": "Vachon A, Berryman N, Mujika I, et al.",
+		"year": 2021,
+		"title": "Effects of tapering on neuromuscular and metabolic fitness in team sports: a systematic review and meta-analysis",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2020.1736183",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "gibala-1994",
+		"authors": "Gibala MJ, MacDougall JD, Sale DG",
+		"year": 1994,
+		"title": "The effects of tapering on strength performance in trained athletes",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/s-2007-1021093",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "izquierdo-2007",
+		"authors": "Izquierdo M, Ibañez J, González-Badillo JJ, et al.",
+		"year": 2007,
+		"title": "Detraining and tapering effects on hormonal responses and strength performance",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-21136.1",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "pritchard-2019",
+		"authors": "Pritchard HJ, Barnes MJ, Stewart RJ, et al.",
+		"year": 2019,
+		"title": "Higher- versus lower-intensity strength-training taper: effects on neuromuscular performance",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2018-0489",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "zaras-2014",
+		"authors": "Zaras ND, Stasinaki AN, Krase AA, et al.",
+		"year": 2014,
+		"title": "Effects of tapering with light vs. heavy loads on track and field throwing performance",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000566",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "travis-2021c",
+		"authors": "Travis SK, Zwetsloot KA, Mujika I, et al.",
+		"year": 2021,
+		"title": "Skeletal muscle adaptations and performance outcomes following a step and exponential taper in strength athletes",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2021.735932",
+		"chapters": [
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block"
+		]
+	},
+	{
+		"id": "burke-2023",
+		"authors": "Burke BI, Carroll KM, Travis SK, et al.",
+		"year": 2023,
+		"title": "Two days versus four days of training cessation following a step-taper in powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004564",
+		"chapters": [
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block"
+		]
+	},
+	{
+		"id": "grgic-2017c",
+		"authors": "Grgic J, Mikulic P",
+		"year": 2017,
+		"title": "Tapering practices of Croatian open-class powerlifting champions",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001699",
+		"chapters": [
+			"peaking/01-peaking-and-tapering",
+			"peaking/02-building-a-peaking-block"
+		]
+	},
+	{
+		"id": "winwood-2018",
+		"authors": "Winwood PW, Dudson MK, Wilson D, et al.",
+		"year": 2018,
+		"title": "Tapering practices of strongman athletes",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002453",
+		"chapters": [
+			"peaking/01-peaking-and-tapering"
+		]
+	},
+	{
+		"id": "travis-2021",
+		"authors": "Travis SK, Zourdos MC, Bazyler CD",
+		"year": 2021,
+		"title": "Weight selection attempts of elite classic powerlifters",
+		"journal": "Perceptual and Motor Skills",
+		"doi": "10.1177/0031512520967608",
+		"chapters": [
+			"peaking/03-mock-meets-openers",
+			"peaking/05-attempt-selection",
+			"peaking/08-after-the-meet"
+		]
+	},
+	{
+		"id": "howells-2022",
+		"authors": "Howells RJ, Spathis JG, Pearson J, et al.",
+		"year": 2022,
+		"title": "Impacts of squat attempt weight selection and success on powerlifting performance",
+		"journal": "The Journal of Sports Medicine and Physical Fitness",
+		"doi": "10.23736/S0022-4707.21.12140-1",
+		"chapters": [
+			"peaking/03-mock-meets-openers",
+			"peaking/05-attempt-selection"
+		]
+	},
+	{
+		"id": "cdc-1998",
+		"authors": "Centers for Disease Control and Prevention",
+		"year": 1998,
+		"title": "Hyperthermia and dehydration-related deaths associated with intentional rapid weight loss in three collegiate wrestlers: North Carolina, Wisconsin, and Michigan, November–December 1997",
+		"journal": "JAMA",
+		"doi": "10.1001/jama.279.11.824",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "burke-2021",
+		"authors": "Burke LM, Slater GJ, Matthews JJ, et al.",
+		"year": 2021,
+		"title": "ACSM expert consensus statement on weight loss in weight-category sports",
+		"journal": "Current Sports Medicine Reports",
+		"doi": "10.1249/JSR.0000000000000831",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "nolan-2022",
+		"authors": "Nolan D, Lynch AE, Egan B",
+		"year": 2022,
+		"title": "Self-reported prevalence, magnitude, and methods of rapid weight loss in male and female competitive powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003488",
+		"chapters": [
+			"peaking/04-making-weight",
+			"peaking/08-after-the-meet"
+		]
+	},
+	{
+		"id": "matras-2025",
+		"authors": "Matras A, Czapla M, Struzik A",
+		"year": 2025,
+		"title": "Making weight makes sense: relative performance gains after rapid weight loss in powerlifting: a randomized controlled trial",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1080/15502783.2025.2550309",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "durguerian-2016",
+		"authors": "Durguerian A, Bougard C, Drogou C, et al.",
+		"year": 2016,
+		"title": "Weight loss, performance and psychological related states in high-level weightlifters",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/s-0035-1555852",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "brechney-2022",
+		"authors": "Brechney GC, Cannon J, Goodman SP",
+		"year": 2022,
+		"title": "Effects of weight cutting on exercise performance in combat athletes: a meta-analysis",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2021-0104",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "lakicevic-2020",
+		"authors": "Lakicevic N, Roklicer R, Bianco A, et al.",
+		"year": 2020,
+		"title": "Effects of rapid weight loss on judo athletes: a systematic review",
+		"journal": "Nutrients",
+		"doi": "10.3390/nu12051220",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "judelson-2007",
+		"authors": "Judelson DA, Maresh CM, Farrell MJ, et al.",
+		"year": 2007,
+		"title": "Effect of hydration state on strength, power, and resistance exercise performance",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/mss.0b013e3180de5f22",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "shirreffs-1996",
+		"authors": "Shirreffs SM, Taylor AJ, Leiper JB, Maughan RJ",
+		"year": 1996,
+		"title": "Post-exercise rehydration in man: effects of volume consumed and drink sodium content",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-199610000-00009",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "reale-2016",
+		"authors": "Reale R, Cox GR, Slater G, Burke LM",
+		"year": 2016,
+		"title": "Regain in body mass after weigh-in is linked to success in real life judo competition",
+		"journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+		"doi": "10.1123/ijsnem.2015-0359",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "reale-2017",
+		"authors": "Reale R, Slater G, Burke LM",
+		"year": 2017,
+		"title": "Individualised dietary strategies for Olympic combat sports: acute weight loss, recovery and competition nutrition",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2017.1297489",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "reale-2018",
+		"authors": "Reale R, Slater G, Cox GR, et al.",
+		"year": 2018,
+		"title": "The effect of water loading on acute weight loss following fluid restriction in combat sports athletes",
+		"journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+		"doi": "10.1123/ijsnem.2017-0183",
+		"chapters": [
+			"peaking/04-making-weight"
+		]
+	},
+	{
+		"id": "van-den-hoek-2023",
+		"authors": "van den Hoek D, Garrett J, Travis SK, et al.",
+		"year": 2023,
+		"title": "Analysis of competition performance leading to success at the International Powerlifting Federation World Championships between 2013 and 2019",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004488",
+		"chapters": [
+			"peaking/05-attempt-selection"
+		]
+	},
+	{
+		"id": "darragh-2026",
+		"authors": "Darragh IAJ, Egan B, Nolan D, Bennett KE",
+		"year": 2026,
+		"title": "Predicting a successful attempt in raw powerlifting: a nonlinear mixed logistic regression analysis",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000005276",
+		"chapters": [
+			"peaking/05-attempt-selection"
+		]
+	},
+	{
+		"id": "amdi-2026",
+		"authors": "Amdi CH, Korakakis PA, Zourdos MC, et al.",
+		"year": 2026,
+		"title": "Reliability of maximal strength in powerlifters and performance differences required to improve competition placing",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000005591",
+		"chapters": [
+			"peaking/05-attempt-selection"
+		]
+	},
+	{
+		"id": "grgic-2017d",
+		"authors": "Grgic J, Mikulic P",
+		"year": 2017,
+		"title": "Caffeine ingestion acutely enhances muscular strength and power but not muscular endurance in resistance-trained men",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2017.1330362",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "grgic-2019",
+		"authors": "Grgic J, Sabol F, Venier S, et al.",
+		"year": 2019,
+		"title": "Caffeine supplementation for powerlifting competitions: an evidence-based approach",
+		"journal": "Journal of Human Kinetics",
+		"doi": "10.2478/hukin-2019-0054",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "juliff-2015",
+		"authors": "Juliff LE, Halson SL, Peiffer JJ",
+		"year": 2015,
+		"title": "Understanding sleep disturbance in athletes prior to important competitions",
+		"journal": "Journal of Science and Medicine in Sport",
+		"doi": "10.1016/j.jsams.2014.02.007",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "tod-2015",
+		"authors": "Tod D, Edwards C, McGuigan M, Lovell G",
+		"year": 2015,
+		"title": "A systematic review of the effect of cognitive strategies on strength performance",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0356-1",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "tod-2003",
+		"authors": "Tod D, Iredale F, Gill N",
+		"year": 2003,
+		"title": "'Psyching-up' and muscular force production",
+		"journal": "Sports Medicine",
+		"doi": "10.2165/00007256-200333010-00004",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "tod-2005",
+		"authors": "Tod DA, Iredale KF, McGuigan MR, et al.",
+		"year": 2005,
+		"title": "\"Psyching-up\" enhances force production during the bench press exercise",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/14263.1",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "hatzigeorgiadis-2011",
+		"authors": "Hatzigeorgiadis A, Zourbanos N, Galanis E, Theodorakis Y",
+		"year": 2011,
+		"title": "Self-talk and sports performance: a meta-analysis",
+		"journal": "Perspectives on Psychological Science",
+		"doi": "10.1177/1745691611413136",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "rupprecht-2024",
+		"authors": "Rupprecht AGO, Tran US, Gröpel P",
+		"year": 2024,
+		"title": "The effectiveness of pre-performance routines in sports: a meta-analysis",
+		"journal": "International Review of Sport and Exercise Psychology",
+		"doi": "10.1080/1750984x.2021.1944271",
+		"chapters": [
+			"peaking/06-meet-day"
+		]
+	},
+	{
+		"id": "buechel-2026",
+		"authors": "Buechel C, Pumpa K, Etxebarria N, Minehan M",
+		"year": 2026,
+		"title": "Expert consensus on weight management strategies for strength and physique athletes before and after competition",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000005295",
+		"chapters": [
+			"peaking/08-after-the-meet"
+		]
+	},
+	{
+		"id": "kwan-2026",
+		"authors": "Kwan K, King A, Helms ER",
+		"year": 2026,
+		"title": "The magnitude of rapid weight loss affects subjective stress and recovery in elite powerlifters at the World Championships: an exploratory analysis",
+		"journal": "Research Quarterly for Exercise and Sport",
+		"doi": "10.1080/02701367.2026.2635723",
+		"chapters": [
+			"peaking/08-after-the-meet"
 		]
 	}
 ]
