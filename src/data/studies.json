@@ -4575,7 +4575,9 @@
 		"title": "Lumbar posterior ligament involvement during extremely heavy lifts estimated from fluoroscopic measurements",
 		"journal": "Journal of Biomechanics",
 		"doi": "10.1016/0021-9290(92)90242-s",
-		"chapters": []
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
 	},
 	{
 		"id": "hanen-2025",
@@ -5481,7 +5483,9 @@
 		"title": "Effects of abdominal belts on intra-abdominal pressure, intramuscular pressure in the erector spinae muscles and myoelectrical activities of trunk muscles",
 		"journal": "Clinical Biomechanics",
 		"doi": "10.1016/S0268-0033(98)00070-9",
-		"chapters": []
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
 	},
 	{
 		"id": "huang-2026",
