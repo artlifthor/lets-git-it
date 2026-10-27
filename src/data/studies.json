@@ -7,7 +7,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001049",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"foundations/07-novice-linear-progression"
 		]
 	},
 	{
@@ -40,7 +41,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-021-01559-x",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"foundations/12-tracking-training"
 		]
 	},
 	{
@@ -62,7 +64,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-023-01937-7",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"foundations/12-tracking-training"
 		]
 	},
 	{
@@ -141,7 +144,8 @@
 		"journal": "The Journal of Physiology",
 		"doi": "10.1113/JP272472",
 		"chapters": [
-			"foundations/02-stress-recovery-adaptation"
+			"foundations/02-stress-recovery-adaptation",
+			"foundations/07-novice-linear-progression"
 		]
 	},
 	{
@@ -198,7 +202,8 @@
 		"doi": "10.1249/MSS.0000000000002585",
 		"chapters": [
 			"foundations/03-core-training-principles",
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"foundations/08-exercise-selection"
 		]
 	},
 	{
@@ -210,7 +215,8 @@
 		"doi": "10.1007/s40279-017-0762-7",
 		"chapters": [
 			"foundations/03-core-training-principles",
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"foundations/06-progressive-overload"
 		]
 	},
 	{
@@ -221,7 +227,8 @@
 		"journal": "PeerJ",
 		"doi": "10.7717/peerj.14142",
 		"chapters": [
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"foundations/06-progressive-overload"
 		]
 	},
 	{
@@ -233,7 +240,8 @@
 		"doi": "10.1016/j.jshs.2021.01.007",
 		"chapters": [
 			"foundations/03-core-training-principles",
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"foundations/06-progressive-overload"
 		]
 	},
 	{
@@ -244,7 +252,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000004258",
 		"chapters": [
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"foundations/08-exercise-selection"
 		]
 	},
 	{
@@ -266,7 +275,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-025-02344-w",
 		"chapters": [
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"foundations/06-progressive-overload"
 		]
 	},
 	{
@@ -288,7 +298,9 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001272",
 		"chapters": [
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"foundations/06-progressive-overload",
+			"foundations/09-session-structure-warm-ups"
 		]
 	},
 	{
@@ -322,6 +334,1023 @@
 		"doi": "10.7717/peerj.10663",
 		"chapters": [
 			"foundations/05-measuring-intensity"
+		]
+	},
+	{
+		"id": "acsm-2009",
+		"authors": "American College of Sports Medicine",
+		"year": 2009,
+		"title": "American College of Sports Medicine position stand. Progression models in resistance training for healthy adults",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0b013e3181915670",
+		"chapters": [
+			"foundations/06-progressive-overload",
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "rhea-2003",
+		"authors": "Rhea MR, Alvar BA, Burkett LN, Ball SD",
+		"year": 2003,
+		"title": "A meta-analysis to determine the dose response for strength development",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/01.MSS.0000053727.63505.D4",
+		"chapters": [
+			"foundations/06-progressive-overload",
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "peterson-2004",
+		"authors": "Peterson MD, Rhea MR, Alvar BA",
+		"year": 2004,
+		"title": "Maximizing strength development in athletes: a meta-analysis to determine the dose-response relationship",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-12842.1",
+		"chapters": [
+			"foundations/06-progressive-overload"
+		]
+	},
+	{
+		"id": "latella-2022",
+		"authors": "Latella C, Owen PJ, Davies T, et al.",
+		"year": 2022,
+		"title": "Long-term adaptations in the squat, bench press, and deadlift: assessing strength gain in powerlifting athletes",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0000000000002858",
+		"chapters": [
+			"foundations/06-progressive-overload",
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "chaves-2024",
+		"authors": "Chaves TS, Scarpelli MC, Bergamasco JGA, et al.",
+		"year": 2024,
+		"title": "Effects of resistance training overload progression protocols on strength and muscle mass",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/a-2256-5857",
+		"chapters": [
+			"foundations/06-progressive-overload"
+		]
+	},
+	{
+		"id": "aube-2022",
+		"authors": "Aube D, Wadhi T, Rauch J, et al.",
+		"year": 2022,
+		"title": "Progressive resistance training volume: effects on muscle thickness, mass, and strength adaptations in resistance-trained individuals",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003524",
+		"chapters": [
+			"foundations/06-progressive-overload"
+		]
+	},
+	{
+		"id": "graham-2021",
+		"authors": "Graham T, Cleather DJ",
+		"year": 2021,
+		"title": "Autoregulation by \"repetitions in reserve\" leads to greater improvements in strength over a 12-week training program than fixed loading",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003164",
+		"chapters": [
+			"foundations/06-progressive-overload"
+		]
+	},
+	{
+		"id": "mann-2010",
+		"authors": "Mann JB, Thyfault JP, Ivey PA, Sayers SP",
+		"year": 2010,
+		"title": "The effect of autoregulatory progressive resistance exercise vs. linear periodization on strength improvement in college athletes",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181def4a6",
+		"chapters": [
+			"foundations/06-progressive-overload"
+		]
+	},
+	{
+		"id": "seynnes-2007",
+		"authors": "Seynnes OR, de Boer M, Narici MV",
+		"year": 2007,
+		"title": "Early skeletal muscle hypertrophy and architectural changes in response to high-intensity resistance training",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/japplphysiol.00789.2006",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "kok-2009",
+		"authors": "Kok LY, Hamer PW, Bishop DJ",
+		"year": 2009,
+		"title": "Enhancing muscular qualities in untrained women: linear versus undulating periodization",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0b013e3181a154f3",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "steele-2023",
+		"authors": "Steele J, Fisher JP, Giessing J, et al.",
+		"year": 2023,
+		"title": "Long-term time-course of strength adaptation to minimal dose resistance training through retrospective longitudinal growth modeling",
+		"journal": "Research Quarterly for Exercise and Sport",
+		"doi": "10.1080/02701367.2022.2070592",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "ogasawara-2013",
+		"authors": "Ogasawara R, Yasuda T, Ishii N, Abe T",
+		"year": 2013,
+		"title": "Comparison of muscle hypertrophy following 6-month of continuous and periodic strength training",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-012-2511-9",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "roberts-2020",
+		"authors": "Roberts BM, Nuckols G, Krieger JW",
+		"year": 2020,
+		"title": "Sex differences in resistance training: a systematic review and meta-analysis",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003521",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "latella-2020",
+		"authors": "Latella C, Teo WP, Spathis J, van den Hoek D",
+		"year": 2020,
+		"title": "Long-term strength adaptation: a 15-year analysis of powerlifting athletes",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003657",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "bosquet-2013",
+		"authors": "Bosquet L, Berryman N, Dupuy O, et al.",
+		"year": 2013,
+		"title": "Effect of training cessation on muscular performance: a meta-analysis",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.12047",
+		"chapters": [
+			"foundations/07-novice-linear-progression"
+		]
+	},
+	{
+		"id": "haugen-2023",
+		"authors": "Haugen ME, Vårvik FT, Larsen S, et al.",
+		"year": 2023,
+		"title": "Effect of free-weight vs. machine-based strength training on maximal strength, hypertrophy and jump performance: a systematic review and meta-analysis",
+		"journal": "BMC Sports Science, Medicine and Rehabilitation",
+		"doi": "10.1186/s13102-023-00713-4",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "pallares-2021",
+		"authors": "Pallarés JG, Hernández-Belmonte A, Martínez-Cava A, et al.",
+		"year": 2021,
+		"title": "Effects of range of motion on resistance training adaptations: a systematic review and meta-analysis",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.14006",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "bloomquist-2013",
+		"authors": "Bloomquist K, Langberg H, Karlsen S, et al.",
+		"year": 2013,
+		"title": "Effect of range of motion in heavy load squatting on muscle and tendon adaptations",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-013-2642-7",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "martinez-cava-2022",
+		"authors": "Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, et al.",
+		"year": 2022,
+		"title": "Bench press at full range of motion produces greater neuromuscular adaptations than partial executions after prolonged resistance training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003391",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "baz-valle-2019",
+		"authors": "Baz-Valle E, Schoenfeld BJ, Torres-Unda J, et al.",
+		"year": 2019,
+		"title": "The effects of exercise variation in muscle thickness, maximal strength and motivation in resistance trained men",
+		"journal": "PLOS ONE",
+		"doi": "10.1371/journal.pone.0226989",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "fonseca-2014",
+		"authors": "Fonseca RM, Roschel H, Tricoli V, et al.",
+		"year": 2014,
+		"title": "Changes in exercises are more effective than in loading schemes to improve muscle strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000539",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "gentil-2013",
+		"authors": "Gentil P, Soares SR, Pereira MC, et al.",
+		"year": 2013,
+		"title": "Effect of adding single-joint exercises to a multi-joint exercise resistance-training program on strength and hypertrophy in untrained subjects",
+		"journal": "Applied Physiology, Nutrition, and Metabolism",
+		"doi": "10.1139/apnm-2012-0176",
+		"chapters": [
+			"foundations/08-exercise-selection"
+		]
+	},
+	{
+		"id": "mcgowan-2015",
+		"authors": "McGowan CJ, Pyne DB, Thompson KG, Rattray B",
+		"year": 2015,
+		"title": "Warm-up strategies for sport and exercise: mechanisms and applications",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0376-x",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "fradkin-2010",
+		"authors": "Fradkin AJ, Zazryn TR, Smoliga JM",
+		"year": 2010,
+		"title": "Effects of warming-up on physical performance: a systematic review with meta-analysis",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181c643a0",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "mccrary-2015",
+		"authors": "McCrary JM, Ackermann BJ, Halaki M",
+		"year": 2015,
+		"title": "A systematic review of the effects of upper body warm-up on performance and injury",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2014-094228",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "abad-2011",
+		"authors": "Abad CC, Prado ML, Ugrinowitsch C, et al.",
+		"year": 2011,
+		"title": "Combination of general and specific warm-ups improves leg-press one repetition maximum compared with specific warm-up in trained individuals",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181e8611b",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "ribeiro-2014",
+		"authors": "Ribeiro AS, Romanzini M, Schoenfeld BJ, et al.",
+		"year": 2014,
+		"title": "Effect of different warm-up procedures on the performance of resistance training exercises",
+		"journal": "Perceptual and Motor Skills",
+		"doi": "10.2466/25.29.PMS.119c17z7",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "ribeiro-2020",
+		"authors": "Ribeiro B, Pereira A, Neves PP, et al.",
+		"year": 2020,
+		"title": "The role of specific warm-up during bench press and squat exercises: a novel approach",
+		"journal": "International Journal of Environmental Research and Public Health",
+		"doi": "10.3390/ijerph17186882",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "simic-2013",
+		"authors": "Simic L, Sarabon N, Markovic G",
+		"year": 2013,
+		"title": "Does pre-exercise static stretching inhibit maximal muscular performance? A meta-analytical review",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/j.1600-0838.2012.01444.x",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "kay-2012",
+		"authors": "Kay AD, Blazevich AJ",
+		"year": 2012,
+		"title": "Effect of acute static stretch on maximal muscle performance: a systematic review",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0b013e318225cb27",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "behm-2016",
+		"authors": "Behm DG, Blazevich AJ, Kay AD, McHugh M",
+		"year": 2016,
+		"title": "Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals: a systematic review",
+		"journal": "Applied Physiology, Nutrition, and Metabolism",
+		"doi": "10.1139/apnm-2015-0235",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "chaabene-2019",
+		"authors": "Chaabene H, Behm DG, Negra Y, Granacher U",
+		"year": 2019,
+		"title": "Acute effects of static stretching on muscle strength and power: an attempt to clarify previous caveats",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2019.01468",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "wiewelhove-2019",
+		"authors": "Wiewelhove T, Döweling A, Schneider C, et al.",
+		"year": 2019,
+		"title": "A meta-analysis of the effects of foam rolling on performance and recovery",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2019.00376",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups",
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "nunes-2021",
+		"authors": "Nunes JP, Grgic J, Cunha PM, et al.",
+		"year": 2021,
+		"title": "What influence does resistance exercise order have on muscular strength gains and muscle hypertrophy? A systematic review and meta-analysis",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2020.1733672",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "simao-2012",
+		"authors": "Simão R, de Salles BF, Figueiredo T, et al.",
+		"year": 2012,
+		"title": "Exercise order in resistance training",
+		"journal": "Sports Medicine",
+		"doi": "10.2165/11597240-000000000-00000",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "grgic-2018b",
+		"authors": "Grgic J, Schoenfeld BJ, Skrepnik M, et al.",
+		"year": 2018,
+		"title": "Effects of rest interval duration in resistance training on measures of muscular strength: a systematic review",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0788-x",
+		"chapters": [
+			"foundations/09-session-structure-warm-ups"
+		]
+	},
+	{
+		"id": "lamon-2021",
+		"authors": "Lamon S, Morabito A, Arentson-Lantz E, et al.",
+		"year": 2021,
+		"title": "The effect of acute sleep deprivation on skeletal muscle protein synthesis and the hormonal environment",
+		"journal": "Physiological Reports",
+		"doi": "10.14814/phy2.14660",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "saner-2020",
+		"authors": "Saner NJ, Lee MJ, Pitchford NW, et al.",
+		"year": 2020,
+		"title": "The effect of sleep restriction, with or without high-intensity interval exercise, on myofibrillar protein synthesis in healthy young men",
+		"journal": "The Journal of Physiology",
+		"doi": "10.1113/JP278828",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "craven-2022",
+		"authors": "Craven J, McCartney D, Desbrow B, et al.",
+		"year": 2022,
+		"title": "Effects of acute sleep loss on physical performance: a systematic and meta-analytical review",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01706-y",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "knowles-2018",
+		"authors": "Knowles OE, Drinkwater EJ, Urwin CS, et al.",
+		"year": 2018,
+		"title": "Inadequate sleep and muscle strength: implications for resistance training",
+		"journal": "Journal of Science and Medicine in Sport",
+		"doi": "10.1016/j.jsams.2018.01.012",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "walsh-2021",
+		"authors": "Walsh NP, Halson SL, Sargent C, et al.",
+		"year": 2021,
+		"title": "Sleep and the athlete: narrative review and 2021 expert consensus recommendations",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2020-102025",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "hirshkowitz-2015",
+		"authors": "Hirshkowitz M, Whiton K, Albert SM, et al.",
+		"year": 2015,
+		"title": "National Sleep Foundation's sleep time duration recommendations: methodology and results summary",
+		"journal": "Sleep Health",
+		"doi": "10.1016/j.sleh.2014.12.010",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "mah-2011",
+		"authors": "Mah CD, Mah KE, Kezirian EJ, Dement WC",
+		"year": 2011,
+		"title": "The effects of sleep extension on the athletic performance of collegiate basketball players",
+		"journal": "Sleep",
+		"doi": "10.5665/SLEEP.1132",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "cunha-2023",
+		"authors": "Cunha LA, Costa JA, Marques EA, et al.",
+		"year": 2023,
+		"title": "The impact of sleep interventions on athletic performance: a systematic review",
+		"journal": "Sports Medicine – Open",
+		"doi": "10.1186/s40798-023-00599-z",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "lastella-2021",
+		"authors": "Lastella M, Halson SL, Vitale JA, et al.",
+		"year": 2021,
+		"title": "To nap or not to nap? A systematic review evaluating napping behavior in athletes and the impact on various measures of athletic performance",
+		"journal": "Nature and Science of Sleep",
+		"doi": "10.2147/NSS.S315556",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "drake-2013",
+		"authors": "Drake C, Roehrs T, Shambroom J, Roth T",
+		"year": 2013,
+		"title": "Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed",
+		"journal": "Journal of Clinical Sleep Medicine",
+		"doi": "10.5664/jcsm.3170",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "bartholomew-2008",
+		"authors": "Bartholomew JB, Stults-Kolehmainen MA, Elrod CC, Todd JS",
+		"year": 2008,
+		"title": "Strength gains after resistance training: the effect of stressful, negative life events",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e318173d0bf",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "stults-kolehmainen-2014",
+		"authors": "Stults-Kolehmainen MA, Bartholomew JB, Sinha R",
+		"year": 2014,
+		"title": "Chronic psychological stress impairs recovery of muscular function and somatic sensations over a 96-hour period",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000335",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "stults-kolehmainen-2014b",
+		"authors": "Stults-Kolehmainen MA, Sinha R",
+		"year": 2014,
+		"title": "The effects of stress on physical activity and exercise",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-013-0090-5",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "dupuy-2018",
+		"authors": "Dupuy O, Douzi W, Theurot D, et al.",
+		"year": 2018,
+		"title": "An evidence-based approach for choosing post-exercise recovery techniques to reduce markers of muscle damage, soreness, fatigue, and inflammation: a systematic review with meta-analysis",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2018.00403",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "malta-2021",
+		"authors": "Malta ES, Dutra YM, Broatch JR, et al.",
+		"year": 2021,
+		"title": "The effects of regular cold-water immersion use on training-induced changes in strength and endurance performance: a systematic review with meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-020-01362-0",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "roberts-2015",
+		"authors": "Roberts LA, Raastad T, Markworth JF, et al.",
+		"year": 2015,
+		"title": "Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training",
+		"journal": "The Journal of Physiology",
+		"doi": "10.1113/JP270570",
+		"chapters": [
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "murphy-2022",
+		"authors": "Murphy C, Koehler K",
+		"year": 2022,
+		"title": "Energy deficiency impairs resistance training gains in lean mass but not strength: a meta-analysis and meta-regression",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.14075",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "garthe-2011",
+		"authors": "Garthe I, Raastad T, Refsnes PE, et al.",
+		"year": 2011,
+		"title": "Effect of two different weight-loss rates on body composition and strength and power-related performance in elite athletes",
+		"journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+		"doi": "10.1123/ijsnem.21.2.97",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "garthe-2013",
+		"authors": "Garthe I, Raastad T, Refsnes PE, Sundgot-Borgen J",
+		"year": 2013,
+		"title": "Effect of nutritional intervention on body composition and performance in elite athletes",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2011.643923",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "slater-2019",
+		"authors": "Slater GJ, Dieter BP, Marsh DJ, et al.",
+		"year": 2019,
+		"title": "Is an energy surplus required to maximize skeletal muscle hypertrophy associated with resistance training",
+		"journal": "Frontiers in Nutrition",
+		"doi": "10.3389/fnut.2019.00131",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "iraki-2019",
+		"authors": "Iraki J, Fitschen P, Espinar S, Helms E",
+		"year": 2019,
+		"title": "Nutrition recommendations for bodybuilders in the off-season: a narrative review",
+		"journal": "Sports",
+		"doi": "10.3390/sports7070154",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "helms-2014",
+		"authors": "Helms ER, Aragon AA, Fitschen PJ",
+		"year": 2014,
+		"title": "Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/1550-2783-11-20",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "morton-2018",
+		"authors": "Morton RW, Murphy KT, McKellar SR, et al.",
+		"year": 2018,
+		"title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2017-097608",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "nunes-2022",
+		"authors": "Nunes EA, Colenso-Semple L, McKellar SR, et al.",
+		"year": 2022,
+		"title": "Systematic review and meta-analysis of protein intake to support muscle mass and function in healthy adults",
+		"journal": "Journal of Cachexia, Sarcopenia and Muscle",
+		"doi": "10.1002/jcsm.12922",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "jager-2017",
+		"authors": "Jäger R, Kerksick CM, Campbell BI, et al.",
+		"year": 2017,
+		"title": "International Society of Sports Nutrition position stand: protein and exercise",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/s12970-017-0177-8",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "areta-2013",
+		"authors": "Areta JL, Burke LM, Ross ML, et al.",
+		"year": 2013,
+		"title": "Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis",
+		"journal": "The Journal of Physiology",
+		"doi": "10.1113/jphysiol.2012.244897",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "trommelen-2023",
+		"authors": "Trommelen J, van Lieshout GAA, Nyakayiru J, et al.",
+		"year": 2023,
+		"title": "The anabolic response to protein ingestion during recovery from exercise has no upper limit in magnitude and duration in vivo in humans",
+		"journal": "Cell Reports Medicine",
+		"doi": "10.1016/j.xcrm.2023.101324",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "henselmans-2022",
+		"authors": "Henselmans M, Bjørnsen T, Hedderman R, Vårvik FT",
+		"year": 2022,
+		"title": "The effect of carbohydrate intake on strength and resistance training performance: a systematic review",
+		"journal": "Nutrients",
+		"doi": "10.3390/nu14040856",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "savoie-2015",
+		"authors": "Savoie FA, Kenefick RW, Ely BR, et al.",
+		"year": 2015,
+		"title": "Effect of hypohydration on muscle endurance, strength, anaerobic power and capacity and vertical jumping ability: a meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0349-0",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "sawka-2007",
+		"authors": "Sawka MN, Burke LM, Eichner ER, et al.",
+		"year": 2007,
+		"title": "American College of Sports Medicine position stand: exercise and fluid replacement",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/mss.0b013e31802ca597",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "racinais-2015",
+		"authors": "Racinais S, Alonso JM, Coutts AJ, et al.",
+		"year": 2015,
+		"title": "Consensus recommendations on training and competing in the heat",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0343-6",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "schoenfeld-2013",
+		"authors": "Schoenfeld BJ, Aragon AA, Krieger JW",
+		"year": 2013,
+		"title": "The effect of protein timing on muscle strength and hypertrophy: a meta-analysis",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/1550-2783-10-53",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "kerksick-2017",
+		"authors": "Kerksick CM, Arent S, Schoenfeld BJ, et al.",
+		"year": 2017,
+		"title": "International Society of Sports Nutrition position stand: nutrient timing",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/s12970-017-0189-4",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "maughan-2018",
+		"authors": "Maughan RJ, Burke LM, Dvorak J, et al.",
+		"year": 2018,
+		"title": "IOC consensus statement: dietary supplements and the high-performance athlete",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2018-099027",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "lanhers-2015",
+		"authors": "Lanhers C, Pereira B, Naughton G, et al.",
+		"year": 2015,
+		"title": "Creatine supplementation and lower limb strength performance: a systematic review and meta-analyses",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0337-4",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "lanhers-2017",
+		"authors": "Lanhers C, Pereira B, Naughton G, et al.",
+		"year": 2017,
+		"title": "Creatine supplementation and upper limb strength performance: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-016-0571-4",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "kreider-2017",
+		"authors": "Kreider RB, Kalman DS, Antonio J, et al.",
+		"year": 2017,
+		"title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/s12970-017-0173-z",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "antonio-2021",
+		"authors": "Antonio J, Candow DG, Forbes SC, et al.",
+		"year": 2021,
+		"title": "Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/s12970-021-00412-w",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "hultman-1996",
+		"authors": "Hultman E, Söderlund K, Timmons JA, et al.",
+		"year": 1996,
+		"title": "Muscle creatine loading in men",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/jappl.1996.81.1.232",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "lopez-2009",
+		"authors": "Lopez RM, Casa DJ, McDermott BP, et al.",
+		"year": 2009,
+		"title": "Does creatine supplementation hinder exercise heat tolerance or hydration status? A systematic review with meta-analyses",
+		"journal": "Journal of Athletic Training",
+		"doi": "10.4085/1062-6050-44.2.215",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "grgic-2018c",
+		"authors": "Grgic J, Trexler ET, Lazinica B, Pedisic Z",
+		"year": 2018,
+		"title": "Effects of caffeine intake on muscle strength and power: a systematic review and meta-analysis",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/s12970-018-0216-0",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "grgic-2020",
+		"authors": "Grgic J, Grgic I, Pickering C, et al.",
+		"year": 2020,
+		"title": "Wake up and smell the coffee: caffeine supplementation and exercise performance—an umbrella review of 21 published meta-analyses",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2018-100278",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "guest-2021",
+		"authors": "Guest NS, VanDusseldorp TA, Nelson MT, et al.",
+		"year": 2021,
+		"title": "International Society of Sports Nutrition position stand: caffeine and exercise performance",
+		"journal": "Journal of the International Society of Sports Nutrition",
+		"doi": "10.1186/s12970-020-00383-4",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "gardiner-2023",
+		"authors": "Gardiner C, Weakley J, Burke LM, et al.",
+		"year": 2023,
+		"title": "The effect of caffeine on subsequent sleep: a systematic review and meta-analysis",
+		"journal": "Sleep Medicine Reviews",
+		"doi": "10.1016/j.smrv.2023.101764",
+		"chapters": [
+			"foundations/11-nutrition",
+			"foundations/10-recovery-sleep-stress"
+		]
+	},
+	{
+		"id": "saunders-2017",
+		"authors": "Saunders B, Elliott-Sale K, Artioli GG, et al.",
+		"year": 2017,
+		"title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2016-096396",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "trexler-2019",
+		"authors": "Trexler ET, Persky AM, Ryan ED, et al.",
+		"year": 2019,
+		"title": "Acute effects of citrulline supplementation on high-intensity strength and power performance: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-019-01091-z",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "clemesha-2020",
+		"authors": "Clemesha CG, Thaker H, Samplaski MK",
+		"year": 2020,
+		"title": "'Testosterone boosting' supplements composition and claims are not supported by the academic literature",
+		"journal": "The World Journal of Men's Health",
+		"doi": "10.5534/wjmh.190043",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "geyer-2004",
+		"authors": "Geyer H, Parr MK, Mareck U, et al.",
+		"year": 2004,
+		"title": "Analysis of non-hormonal nutritional supplements for anabolic-androgenic steroids: results of an international study",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/s-2004-819955",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "martinez-sanz-2017",
+		"authors": "Martínez-Sanz JM, Sospedra I, Ortiz CM, et al.",
+		"year": 2017,
+		"title": "Intended or unintended doping? A review of the presence of doping substances in dietary supplements used in sports",
+		"journal": "Nutrients",
+		"doi": "10.3390/nu9101093",
+		"chapters": [
+			"foundations/11-nutrition"
+		]
+	},
+	{
+		"id": "brzycki-1993",
+		"authors": "Brzycki M",
+		"year": 1993,
+		"title": "Strength testing—predicting a one-rep max from reps-to-fatigue",
+		"journal": "Journal of Physical Education, Recreation & Dance",
+		"doi": "10.1080/07303084.1993.10606684",
+		"chapters": [
+			"foundations/12-tracking-training"
+		]
+	},
+	{
+		"id": "reynolds-2006",
+		"authors": "Reynolds JM, Gordon TJ, Robergs RA",
+		"year": 2006,
+		"title": "Prediction of one repetition maximum strength from multiple repetition maximum testing and anthropometry",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-15304.1",
+		"chapters": [
+			"foundations/12-tracking-training"
+		]
+	},
+	{
+		"id": "mayhew-2008",
+		"authors": "Mayhew JL, Johnson BD, LaMonte MJ, et al.",
+		"year": 2008,
+		"title": "Accuracy of prediction equations for determining one repetition maximum bench press in women before and after resistance training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31817b02ad",
+		"chapters": [
+			"foundations/12-tracking-training"
+		]
+	},
+	{
+		"id": "helms-2017",
+		"authors": "Helms ER, Storey A, Cross MR, et al.",
+		"year": 2017,
+		"title": "RPE and velocity relationships for the back squat, bench press, and deadlift in powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001517",
+		"chapters": [
+			"foundations/12-tracking-training"
+		]
+	},
+	{
+		"id": "ormsbee-2019",
+		"authors": "Ormsbee MJ, Carzoli JP, Klemp A, et al.",
+		"year": 2019,
+		"title": "Efficacy of the repetitions in reserve-based rating of perceived exertion for the bench press in experienced and novice benchers",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001901",
+		"chapters": [
+			"foundations/12-tracking-training"
+		]
+	},
+	{
+		"id": "banyard-2017",
+		"authors": "Banyard HG, Nosaka K, Haff GG",
+		"year": 2017,
+		"title": "Reliability and validity of the load–velocity relationship to predict the 1RM back squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001657",
+		"chapters": [
+			"foundations/12-tracking-training"
+		]
+	},
+	{
+		"id": "grgic-2020b",
+		"authors": "Grgic J, Lazinica B, Schoenfeld BJ, Pedisic Z",
+		"year": 2020,
+		"title": "Test–retest reliability of the one-repetition maximum (1RM) strength assessment: a systematic review",
+		"journal": "Sports Medicine – Open",
+		"doi": "10.1186/s40798-020-00260-z",
+		"chapters": [
+			"foundations/12-tracking-training"
 		]
 	}
 ]

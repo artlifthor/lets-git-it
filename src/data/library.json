@@ -14,7 +14,11 @@
 			"building-programs/06-block-periodization",
 			"foundations/02-stress-recovery-adaptation",
 			"foundations/03-core-training-principles",
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"foundations/06-progressive-overload",
+			"foundations/08-exercise-selection",
+			"foundations/10-recovery-sleep-stress",
+			"foundations/12-tracking-training"
 		]
 	},
 	{
@@ -43,7 +47,10 @@
 		"category": "programming",
 		"chapters": [
 			"foundations/05-measuring-intensity",
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"foundations/06-progressive-overload",
+			"foundations/07-novice-linear-progression",
+			"foundations/08-exercise-selection"
 		]
 	},
 	{
@@ -67,7 +74,9 @@
 		"edition": "6th ed.",
 		"category": "technique",
 		"chapters": [
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"foundations/06-progressive-overload",
+			"foundations/08-exercise-selection"
 		]
 	},
 	{
@@ -80,7 +89,9 @@
 		"edition": null,
 		"category": "autoregulation",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"foundations/06-progressive-overload",
+			"foundations/12-tracking-training"
 		]
 	},
 	{
