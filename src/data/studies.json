@@ -8,7 +8,8 @@
 		"doi": "10.1519/JSC.0000000000001049",
 		"chapters": [
 			"foundations/05-measuring-intensity",
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"advanced/01-rpe-autoregulation"
 		]
 	},
 	{
@@ -34,7 +35,8 @@
 			"foundations/05-measuring-intensity",
 			"building-programs/02-beyond-linear-progression",
 			"building-programs/05-undulating-periodization",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/01-rpe-autoregulation"
 		]
 	},
 	{
@@ -46,7 +48,9 @@
 		"doi": "10.1007/s40279-021-01559-x",
 		"chapters": [
 			"foundations/05-measuring-intensity",
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"advanced/01-rpe-autoregulation",
+			"advanced/02-fatigue-based-autoregulation"
 		]
 	},
 	{
@@ -70,7 +74,9 @@
 		"chapters": [
 			"foundations/05-measuring-intensity",
 			"foundations/12-tracking-training",
-			"building-programs/12-sheiko-style-programming"
+			"building-programs/12-sheiko-style-programming",
+			"advanced/01-rpe-autoregulation",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -85,7 +91,8 @@
 			"building-programs/03-periodization-overview",
 			"building-programs/04-linear-periodization",
 			"building-programs/07-conjugate-concurrent",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -113,7 +120,8 @@
 			"building-programs/03-periodization-overview",
 			"building-programs/04-linear-periodization",
 			"building-programs/05-undulating-periodization",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -145,7 +153,8 @@
 			"building-programs/03-periodization-overview",
 			"building-programs/04-linear-periodization",
 			"building-programs/05-undulating-periodization",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -182,7 +191,8 @@
 			"foundations/02-stress-recovery-adaptation",
 			"foundations/03-core-training-principles",
 			"building-programs/09-training-frequency",
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"advanced/02-fatigue-based-autoregulation"
 		]
 	},
 	{
@@ -233,7 +243,8 @@
 			"foundations/04-training-variables",
 			"foundations/08-exercise-selection",
 			"building-programs/10-hypertrophy-for-powerlifters",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -276,7 +287,8 @@
 			"building-programs/10-hypertrophy-for-powerlifters",
 			"building-programs/11-deloads-fatigue-management",
 			"building-programs/12-sheiko-style-programming",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/02-fatigue-based-autoregulation"
 		]
 	},
 	{
@@ -292,7 +304,8 @@
 			"building-programs/07-conjugate-concurrent",
 			"building-programs/10-hypertrophy-for-powerlifters",
 			"building-programs/13-programming-accessories",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/05-weak-point-analysis"
 		]
 	},
 	{
@@ -303,7 +316,9 @@
 		"journal": "Age",
 		"doi": "10.1007/s11357-015-9870-1",
 		"chapters": [
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"advanced/04-individual-response",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -321,7 +336,8 @@
 			"building-programs/09-training-frequency",
 			"building-programs/10-hypertrophy-for-powerlifters",
 			"building-programs/12-sheiko-style-programming",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -334,7 +350,8 @@
 		"chapters": [
 			"foundations/04-training-variables",
 			"building-programs/09-training-frequency",
-			"building-programs/12-sheiko-style-programming"
+			"building-programs/12-sheiko-style-programming",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -348,7 +365,8 @@
 			"foundations/04-training-variables",
 			"foundations/06-progressive-overload",
 			"foundations/09-session-structure-warm-ups",
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -384,7 +402,8 @@
 		"chapters": [
 			"foundations/05-measuring-intensity",
 			"building-programs/02-beyond-linear-progression",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/01-rpe-autoregulation"
 		]
 	},
 	{
@@ -434,7 +453,8 @@
 		"doi": "10.1249/MSS.0000000000002858",
 		"chapters": [
 			"foundations/06-progressive-overload",
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -468,7 +488,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003164",
 		"chapters": [
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"advanced/01-rpe-autoregulation"
 		]
 	},
 	{
@@ -481,7 +502,8 @@
 		"chapters": [
 			"foundations/06-progressive-overload",
 			"building-programs/02-beyond-linear-progression",
-			"building-programs/04-linear-periodization"
+			"building-programs/04-linear-periodization",
+			"advanced/01-rpe-autoregulation"
 		]
 	},
 	{
@@ -517,7 +539,8 @@
 		"doi": "10.1080/02701367.2022.2070592",
 		"chapters": [
 			"foundations/07-novice-linear-progression",
-			"building-programs/02-beyond-linear-progression"
+			"building-programs/02-beyond-linear-progression",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -530,7 +553,8 @@
 		"chapters": [
 			"foundations/07-novice-linear-progression",
 			"building-programs/02-beyond-linear-progression",
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -542,7 +566,9 @@
 		"doi": "10.1519/JSC.0000000000003521",
 		"chapters": [
 			"foundations/07-novice-linear-progression",
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"advanced/04-individual-response",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -555,7 +581,9 @@
 		"chapters": [
 			"foundations/07-novice-linear-progression",
 			"building-programs/01-assessing-the-lifter",
-			"building-programs/02-beyond-linear-progression"
+			"building-programs/02-beyond-linear-progression",
+			"advanced/04-individual-response",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -567,7 +595,10 @@
 		"doi": "10.1111/sms.12047",
 		"chapters": [
 			"foundations/07-novice-linear-progression",
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"advanced/09-annual-planning",
+			"advanced/10-special-populations",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -578,7 +609,8 @@
 		"journal": "BMC Sports Science, Medicine and Rehabilitation",
 		"doi": "10.1186/s13102-023-00713-4",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -589,7 +621,9 @@
 		"journal": "Scandinavian Journal of Medicine & Science in Sports",
 		"doi": "10.1111/sms.14006",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -600,7 +634,9 @@
 		"journal": "European Journal of Applied Physiology",
 		"doi": "10.1007/s00421-013-2642-7",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -611,7 +647,9 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003391",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -635,7 +673,8 @@
 		"doi": "10.1519/JSC.0000000000000539",
 		"chapters": [
 			"foundations/08-exercise-selection",
-			"building-programs/07-conjugate-concurrent"
+			"building-programs/07-conjugate-concurrent",
+			"advanced/05-weak-point-analysis"
 		]
 	},
 	{
@@ -804,7 +843,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-017-0788-x",
 		"chapters": [
-			"foundations/09-session-structure-warm-ups"
+			"foundations/09-session-structure-warm-ups",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -993,7 +1033,8 @@
 		"doi": "10.1111/sms.14075",
 		"chapters": [
 			"foundations/11-nutrition",
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -1004,7 +1045,8 @@
 		"journal": "International Journal of Sport Nutrition and Exercise Metabolism",
 		"doi": "10.1123/ijsnem.21.2.97",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -1015,7 +1057,8 @@
 		"journal": "European Journal of Sport Science",
 		"doi": "10.1080/17461391.2011.643923",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -1038,7 +1081,8 @@
 		"journal": "Sports",
 		"doi": "10.3390/sports7070154",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -1292,7 +1336,8 @@
 		"doi": "10.1016/j.smrv.2023.101764",
 		"chapters": [
 			"foundations/11-nutrition",
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -1393,7 +1438,10 @@
 		"doi": "10.1519/JSC.0000000000001517",
 		"chapters": [
 			"foundations/12-tracking-training",
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"advanced/01-rpe-autoregulation",
+			"advanced/03-velocity-based-training",
+			"advanced/08-monitoring-readiness"
 		]
 	},
 	{
@@ -1404,7 +1452,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001901",
 		"chapters": [
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"advanced/01-rpe-autoregulation"
 		]
 	},
 	{
@@ -1415,7 +1464,9 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001657",
 		"chapters": [
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"advanced/03-velocity-based-training",
+			"advanced/08-monitoring-readiness"
 		]
 	},
 	{
@@ -1427,7 +1478,8 @@
 		"doi": "10.1186/s40798-020-00260-z",
 		"chapters": [
 			"foundations/12-tracking-training",
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"advanced/04-individual-response"
 		]
 	},
 	{
@@ -1449,7 +1501,9 @@
 		"journal": "Journal of Science and Medicine in Sport",
 		"doi": "10.1016/j.jsams.2024.07.005",
 		"chapters": [
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"advanced/05-weak-point-analysis",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -1460,7 +1514,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-015-0460-2",
 		"chapters": [
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"advanced/05-weak-point-analysis"
 		]
 	},
 	{
@@ -1565,7 +1620,8 @@
 		"journal": "International Journal of Sports Physiology and Performance",
 		"doi": "10.1123/ijspp.7.3.242",
 		"chapters": [
-			"building-programs/03-periodization-overview"
+			"building-programs/03-periodization-overview",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -1576,7 +1632,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-017-0823-y",
 		"chapters": [
-			"building-programs/03-periodization-overview"
+			"building-programs/03-periodization-overview",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -1763,7 +1820,8 @@
 		"journal": "European Journal of Sport Science",
 		"doi": "10.1080/17461391.2014.905987",
 		"chapters": [
-			"building-programs/07-conjugate-concurrent"
+			"building-programs/07-conjugate-concurrent",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -1774,7 +1832,8 @@
 		"journal": "Journal of Applied Physiology",
 		"doi": "10.1152/jappl.1993.74.1.359",
 		"chapters": [
-			"building-programs/07-conjugate-concurrent"
+			"building-programs/07-conjugate-concurrent",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -1787,7 +1846,8 @@
 		"chapters": [
 			"building-programs/07-conjugate-concurrent",
 			"building-programs/11-deloads-fatigue-management",
-			"building-programs/12-sheiko-style-programming"
+			"building-programs/12-sheiko-style-programming",
+			"advanced/02-fatigue-based-autoregulation"
 		]
 	},
 	{
@@ -1843,7 +1903,8 @@
 		"journal": "Medicine & Science in Sports & Exercise",
 		"doi": "10.1249/MSS.0000000000001764",
 		"chapters": [
-			"building-programs/08-volume-landmarks"
+			"building-programs/08-volume-landmarks",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -1887,7 +1948,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003964",
 		"chapters": [
-			"building-programs/08-volume-landmarks"
+			"building-programs/08-volume-landmarks",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -1899,7 +1961,9 @@
 		"doi": "10.1249/MSS.0b013e318207c15d",
 		"chapters": [
 			"building-programs/08-volume-landmarks",
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"advanced/10-special-populations",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -1910,7 +1974,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-019-01236-0",
 		"chapters": [
-			"building-programs/08-volume-landmarks"
+			"building-programs/08-volume-landmarks",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -1921,7 +1986,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003558",
 		"chapters": [
-			"building-programs/08-volume-landmarks"
+			"building-programs/08-volume-landmarks",
+			"advanced/04-individual-response"
 		]
 	},
 	{
@@ -1977,7 +2043,8 @@
 		"journal": "Sports",
 		"doi": "10.3390/sports6030086",
 		"chapters": [
-			"building-programs/09-training-frequency"
+			"building-programs/09-training-frequency",
+			"advanced/11-life-stress-limited-time"
 		]
 	},
 	{
@@ -1989,7 +2056,8 @@
 		"doi": "10.1519/JSC.0000000000001292",
 		"chapters": [
 			"building-programs/09-training-frequency",
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -2000,7 +2068,8 @@
 		"journal": "European Journal of Applied Physiology",
 		"doi": "10.1007/s00421-001-0543-7",
 		"chapters": [
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"advanced/10-special-populations"
 		]
 	},
 	{
@@ -2033,7 +2102,8 @@
 		"journal": "Medicine & Science in Sports & Exercise",
 		"doi": "10.1249/MSS.0000000000001300",
 		"chapters": [
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -2172,7 +2242,8 @@
 		"journal": "British Journal of Sports Medicine",
 		"doi": "10.1136/bjsports-2015-094758",
 		"chapters": [
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"advanced/08-monitoring-readiness"
 		]
 	},
 	{
@@ -2183,7 +2254,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-019-01242-2",
 		"chapters": [
-			"building-programs/11-deloads-fatigue-management"
+			"building-programs/11-deloads-fatigue-management",
+			"advanced/08-monitoring-readiness"
 		]
 	},
 	{
@@ -2227,7 +2299,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001096",
 		"chapters": [
-			"building-programs/13-programming-accessories"
+			"building-programs/13-programming-accessories",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -2249,7 +2322,1261 @@
 		"journal": "Frontiers in Sports and Active Living",
 		"doi": "10.3389/fspor.2021.713655",
 		"chapters": [
-			"building-programs/13-programming-accessories"
+			"building-programs/13-programming-accessories",
+			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "greig-2020",
+		"authors": "Greig L, Stephens Hemingway BH, Aspe RR, et al.",
+		"year": 2020,
+		"title": "Autoregulation in resistance training: addressing the inconsistencies",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-020-01330-8",
+		"chapters": [
+			"advanced/01-rpe-autoregulation"
+		]
+	},
+	{
+		"id": "helms-2018b",
+		"authors": "Helms ER, Cross MR, Brown SR, et al.",
+		"year": 2018,
+		"title": "Rating of perceived exertion as a method of volume autoregulation within a periodized program",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002032",
+		"chapters": [
+			"advanced/01-rpe-autoregulation",
+			"advanced/02-fatigue-based-autoregulation"
+		]
+	},
+	{
+		"id": "helms-2017b",
+		"authors": "Helms ER, Brown SR, Cross MR, et al.",
+		"year": 2017,
+		"title": "Self-rated accuracy of rating of perceived exertion-based load prescription in powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002097",
+		"chapters": [
+			"advanced/01-rpe-autoregulation"
+		]
+	},
+	{
+		"id": "refalo-2024",
+		"authors": "Refalo MC, Remmert JF, Pelland JC, et al.",
+		"year": 2024,
+		"title": "Accuracy of intraset repetitions-in-reserve predictions during the bench press exercise in resistance-trained male and female subjects",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004653",
+		"chapters": [
+			"advanced/01-rpe-autoregulation"
+		]
+	},
+	{
+		"id": "hickmott-2022",
+		"authors": "Hickmott LM, Chilibeck PD, Shaw KA, Butcher SJ",
+		"year": 2022,
+		"title": "The effect of load and volume autoregulation on muscular strength and hypertrophy: a systematic review and meta-analysis",
+		"journal": "Sports Medicine – Open",
+		"doi": "10.1186/s40798-021-00404-9",
+		"chapters": [
+			"advanced/01-rpe-autoregulation",
+			"advanced/02-fatigue-based-autoregulation",
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "huang-2025",
+		"authors": "Huang Z, Sun J, Li D, et al.",
+		"year": 2025,
+		"title": "Autoregulated resistance training for maximal strength enhancement: a systematic review and network meta-analysis",
+		"journal": "Journal of Exercise Science & Fitness",
+		"doi": "10.1016/j.jesf.2025.07.006",
+		"chapters": [
+			"advanced/01-rpe-autoregulation"
+		]
+	},
+	{
+		"id": "sanchez-medina-2011",
+		"authors": "Sánchez-Medina L, González-Badillo JJ",
+		"year": 2011,
+		"title": "Velocity loss as an indicator of neuromuscular fatigue during resistance training",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0b013e318213f880",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation",
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "izquierdo-2006",
+		"authors": "Izquierdo M, González-Badillo JJ, Häkkinen K, et al.",
+		"year": 2006,
+		"title": "Effect of loading on unintentional lifting velocity declines during single sets of repetitions to failure during upper and lower extremity muscle actions",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/s-2005-872825",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation",
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "pareja-blanco-2020",
+		"authors": "Pareja-Blanco F, Alcazar J, Cornejo-Daza PJ, et al.",
+		"year": 2020,
+		"title": "Effects of velocity loss in the bench press exercise on strength gains, neuromuscular adaptations, and muscle hypertrophy",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.13775",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation"
+		]
+	},
+	{
+		"id": "rodriguez-rosell-2021",
+		"authors": "Rodríguez-Rosell D, Yáñez-García JM, Mora-Custodio R, et al.",
+		"year": 2021,
+		"title": "Effect of velocity loss during squat training on neuromuscular performance",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.13967",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation"
+		]
+	},
+	{
+		"id": "galiano-2022",
+		"authors": "Galiano C, Pareja-Blanco F, Hidalgo de Mora J, Sáez de Villarreal E",
+		"year": 2022,
+		"title": "Low-velocity loss induces similar strength gains to moderate-velocity loss during resistance training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003487",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation"
+		]
+	},
+	{
+		"id": "jukic-2023",
+		"authors": "Jukic I, Castilla AP, Ramos AG, et al.",
+		"year": 2023,
+		"title": "The acute and chronic effects of implementing velocity loss thresholds during resistance training: a systematic review, meta-analysis, and critical evaluation of the literature",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01754-4",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation",
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "held-2022",
+		"authors": "Held S, Speer K, Rappelt L, et al.",
+		"year": 2022,
+		"title": "The effectiveness of traditional vs. velocity-based strength training on explosive and maximal strength performance: a network meta-analysis",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2022.926972",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation",
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "weakley-2020",
+		"authors": "Weakley J, Ramirez-Lopez C, McLaren S, et al.",
+		"year": 2020,
+		"title": "The effects of 10%, 20%, and 30% velocity loss thresholds on kinetic, kinematic, and repetition characteristics during the barbell back squat",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2018-1008",
+		"chapters": [
+			"advanced/02-fatigue-based-autoregulation"
+		]
+	},
+	{
+		"id": "gonzalez-badillo-2010",
+		"authors": "González-Badillo JJ, Sánchez-Medina L",
+		"year": 2010,
+		"title": "Movement velocity as a measure of loading intensity in resistance training",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/s-0030-1248333",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "moran-navarro-2021",
+		"authors": "Morán-Navarro R, Martínez-Cava A, Escribano-Peñas P, Courel-Ibáñez J",
+		"year": 2021,
+		"title": "Load-velocity relationship of the deadlift exercise",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2020.1785017",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "dorrell-2020b",
+		"authors": "Dorrell HF, Moore JM, Gee TI",
+		"year": 2020,
+		"title": "Comparison of individual and group-based load-velocity profiling as a means to dictate training load over a 6-week strength and power intervention",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2020.1767338",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "ruf-2018",
+		"authors": "Ruf L, Chéry C, Taylor KL",
+		"year": 2018,
+		"title": "Validity and reliability of the load-velocity relationship to predict the one-repetition maximum in deadlift",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002369",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "fernandes-2021",
+		"authors": "Fernandes JFT, Dingley AF, Garcia-Ramos A, et al.",
+		"year": 2021,
+		"title": "Prediction of one repetition maximum using reference minimum velocity threshold values in young and middle-aged resistance-trained males",
+		"journal": "Behavioral Sciences",
+		"doi": "10.3390/bs11050071",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "weakley-2021",
+		"authors": "Weakley J, Morrison M, García-Ramos A, et al.",
+		"year": 2021,
+		"title": "The validity and reliability of commercially available resistance training monitoring devices: a systematic review",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-020-01382-w",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "thompson-2020",
+		"authors": "Thompson SW, Rogerson D, Dorrell HF, et al.",
+		"year": 2020,
+		"title": "The reliability and validity of current technologies for measuring barbell velocity in the free-weight back squat and power clean",
+		"journal": "Sports",
+		"doi": "10.3390/sports8070094",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "liao-2021",
+		"authors": "Liao KF, Wang XX, Han MY, et al.",
+		"year": 2021,
+		"title": "Effects of velocity based training vs. traditional 1RM percentage-based training on improving strength, jump, linear sprint and change of direction speed performance: a systematic review with meta-analysis",
+		"journal": "PLOS ONE",
+		"doi": "10.1371/journal.pone.0259790",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "zhang-2022",
+		"authors": "Zhang M, Tan Q, Sun J, et al.",
+		"year": 2022,
+		"title": "Comparison of velocity and percentage-based training on maximal strength: meta-analysis",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/a-1790-8546",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "dorrell-2020",
+		"authors": "Dorrell HF, Smith MF, Gee TI",
+		"year": 2020,
+		"title": "Comparison of velocity-based and traditional percentage-based loading methods on maximal strength and power adaptations",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003089",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "banyard-2021",
+		"authors": "Banyard HG, Tufano JJ, Weakley JJS, et al.",
+		"year": 2021,
+		"title": "Superior changes in jump, sprint, and change-of-direction performance but not maximal strength following 6 weeks of velocity-based training compared with 1-repetition-maximum percentage-based training",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2019-0999",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "orange-2020",
+		"authors": "Orange ST, Metcalfe JW, Robinson A, et al.",
+		"year": 2020,
+		"title": "Effects of in-season velocity- versus percentage-based training in academy rugby league players",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2019-0058",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "shattock-2022",
+		"authors": "Shattock K, Tee JC",
+		"year": 2022,
+		"title": "Autoregulation in resistance training: a comparison of subjective versus objective methods",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003530",
+		"chapters": [
+			"advanced/03-velocity-based-training"
+		]
+	},
+	{
+		"id": "bamman-2007",
+		"authors": "Bamman MM, Petrella JK, Kim JS, et al.",
+		"year": 2007,
+		"title": "Cluster analysis tests the importance of myogenic gene expression during myofiber hypertrophy in humans",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/japplphysiol.00024.2007",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "damas-2019",
+		"authors": "Damas F, Angleri V, Phillips SM, et al.",
+		"year": 2019,
+		"title": "Myofibrillar protein synthesis and muscle hypertrophy individualized responses to systematically changing resistance training variables in trained young men",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/japplphysiol.00350.2019",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "churchward-venne-2015",
+		"authors": "Churchward-Venne TA, Tieland M, Verdijk LB, et al.",
+		"year": 2015,
+		"title": "There are no nonresponders to resistance-type exercise training in older men and women",
+		"journal": "Journal of the American Medical Directors Association",
+		"doi": "10.1016/j.jamda.2015.01.071",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "barbalho-2017",
+		"authors": "Barbalho MSM, Gentil P, Izquierdo M, et al.",
+		"year": 2017,
+		"title": "There are no no-responders to low or high resistance training volumes among older women",
+		"journal": "Experimental Gerontology",
+		"doi": "10.1016/j.exger.2017.09.003",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "pickering-2019",
+		"authors": "Pickering C, Kiely J",
+		"year": 2019,
+		"title": "Do non-responders to exercise exist—and if so, what should we do about them?",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-018-01041-1",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "atkinson-2015",
+		"authors": "Atkinson G, Batterham AM",
+		"year": 2015,
+		"title": "True and false interindividual differences in the physiological response to an intervention",
+		"journal": "Experimental Physiology",
+		"doi": "10.1113/EP085070",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "dankel-2020",
+		"authors": "Dankel SJ, Loenneke JP",
+		"year": 2020,
+		"title": "A method to stop analyzing random error and start analyzing differential responders to exercise",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-019-01147-0",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "hecksteden-2018",
+		"authors": "Hecksteden A, Pitsch W, Rosenberger F, Meyer T",
+		"year": 2018,
+		"title": "Repeated testing for the assessment of individual response to exercise training",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/japplphysiol.00896.2017",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "hecksteden-2015",
+		"authors": "Hecksteden A, Kraushaar J, Scharhag-Rosenberger F, et al.",
+		"year": 2015,
+		"title": "Individual response to exercise training – a statistical perspective",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/japplphysiol.00714.2014",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "zempo-2017",
+		"authors": "Zempo H, Miyamoto-Mikami E, Kikuchi N, et al.",
+		"year": 2017,
+		"title": "Heritability estimates of muscle strength-related phenotypes: a systematic review and meta-analysis",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.12804",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "hammarstrom-2020",
+		"authors": "Hammarström D, Øfsteng S, Koll L, et al.",
+		"year": 2020,
+		"title": "Benefits of higher resistance-training volume are related to ribosome biogenesis",
+		"journal": "The Journal of Physiology",
+		"doi": "10.1113/JP278455",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "swinton-2018",
+		"authors": "Swinton PA, Hemingway BS, Saunders B, et al.",
+		"year": 2018,
+		"title": "A statistical framework to interpret individual response to intervention: paving the way for personalized nutrition and exercise prescription",
+		"journal": "Frontiers in Nutrition",
+		"doi": "10.3389/fnut.2018.00041",
+		"chapters": [
+			"advanced/04-individual-response"
+		]
+	},
+	{
+		"id": "kompf-2017",
+		"authors": "Kompf J, Arandjelović O",
+		"year": 2017,
+		"title": "The sticking point in the bench press, the squat, and the deadlift: similarities and differences, and their significance for research and practice",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-016-0615-9",
+		"chapters": [
+			"advanced/05-weak-point-analysis"
+		]
+	},
+	{
+		"id": "van-den-tillaar-2010",
+		"authors": "van den Tillaar R, Ettema G",
+		"year": 2010,
+		"title": "The \"sticking period\" in a maximum bench press",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640411003628022",
+		"chapters": [
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "van-den-tillaar-2014",
+		"authors": "van den Tillaar R, Andersen V, Saeterbakken AH",
+		"year": 2014,
+		"title": "The existence of a sticking region in free weight squats",
+		"journal": "Journal of Human Kinetics",
+		"doi": "10.2478/hukin-2014-0061",
+		"chapters": [
+			"advanced/05-weak-point-analysis"
+		]
+	},
+	{
+		"id": "larsen-2021b",
+		"authors": "Larsen S, Kristiansen E, van den Tillaar R",
+		"year": 2021,
+		"title": "New insights about the sticking region in back squats: an analysis of kinematics, kinetics, and myoelectric activity",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2021.691459",
+		"chapters": [
+			"advanced/05-weak-point-analysis"
+		]
+	},
+	{
+		"id": "van-den-tillaar-2020",
+		"authors": "van den Tillaar R, Knutli TR, Larsen S",
+		"year": 2020,
+		"title": "The effects of barbell placement on kinematics and muscle activation around the sticking region in squats",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2020.604177",
+		"chapters": [
+			"advanced/05-weak-point-analysis"
+		]
+	},
+	{
+		"id": "balsalobre-fernandez-2020",
+		"authors": "Balsalobre-Fernández C, Geiser G, Krzyszkowski J, Kipp K",
+		"year": 2020,
+		"title": "Validity and reliability of a computer-vision-based smartphone app for measuring barbell trajectory during the snatch",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2020.1729453",
+		"chapters": [
+			"advanced/05-weak-point-analysis"
+		]
+	},
+	{
+		"id": "escamilla-2000",
+		"authors": "Escamilla RF, Francisco AC, Fleisig GS, et al.",
+		"year": 2000,
+		"title": "A three-dimensional biomechanical analysis of sumo and conventional style deadlifts",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-200007000-00013",
+		"chapters": [
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "young-2006",
+		"authors": "Young WB",
+		"year": 2006,
+		"title": "Transfer of strength and power training to sports performance",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.1.2.74",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "issurin-2013",
+		"authors": "Issurin VB",
+		"year": 2013,
+		"title": "Training transfer: scientific background and insights for practical application",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-013-0049-6",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "contreras-2017",
+		"authors": "Contreras B, Vigotsky AD, Schoenfeld BJ, et al.",
+		"year": 2017,
+		"title": "Effects of a six-week hip thrust vs. front squat resistance training program on performance in adolescent males: a randomized controlled trial",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001510",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "barbalho-2020",
+		"authors": "Barbalho M, Coswig V, Souza D, et al.",
+		"year": 2020,
+		"title": "Back squat vs. hip thrust resistance-training programs in well-trained women",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/a-1082-1126",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "oranchuk-2019",
+		"authors": "Oranchuk DJ, Storey AG, Nelson AR, Cronin JB",
+		"year": 2019,
+		"title": "Isometric training and long-term adaptations: effects of muscle length, intensity, and intent: a systematic review",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.13375",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "douglas-2017",
+		"authors": "Douglas J, Pearson S, Ross A, McGuigan M",
+		"year": 2017,
+		"title": "Chronic adaptations to eccentric training: a systematic review",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-016-0628-4",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "gullett-2009",
+		"authors": "Gullett JC, Tillman MD, Gutierrez GM, Chow JW",
+		"year": 2009,
+		"title": "A biomechanical comparison of back and front squats in healthy trained individuals",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31818546bb",
+		"chapters": [
+			"advanced/06-special-exercises"
+		]
+	},
+	{
+		"id": "hickson-1980",
+		"authors": "Hickson RC",
+		"year": 1980,
+		"title": "Interference of strength development by simultaneously training for strength and endurance",
+		"journal": "European Journal of Applied Physiology and Occupational Physiology",
+		"doi": "10.1007/BF00421333",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "fyfe-2014",
+		"authors": "Fyfe JJ, Bishop DJ, Stepto NK",
+		"year": 2014,
+		"title": "Interference between concurrent resistance and endurance exercise: molecular bases and the role of individual training variables",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-014-0162-1",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "schumann-2022",
+		"authors": "Schumann M, Feuerbacher JF, Sünkeler M, et al.",
+		"year": 2022,
+		"title": "Compatibility of concurrent aerobic and strength training for skeletal muscle size and function: an updated systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-021-01587-7",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "petre-2021",
+		"authors": "Petré H, Hemmingsson E, Rosdahl H, Psilander N",
+		"year": 2021,
+		"title": "Development of maximal dynamic strength during concurrent resistance and endurance training in untrained, moderately trained, and trained individuals: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-021-01426-9",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "huiberts-2024",
+		"authors": "Huiberts RO, Wüst RCI, van der Zwaard S",
+		"year": 2024,
+		"title": "Concurrent strength and endurance training: a systematic review and meta-analysis on the impact of sex and training status",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-023-01943-9",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "wilson-2012",
+		"authors": "Wilson JM, Marin PJ, Rhea MR, et al.",
+		"year": 2012,
+		"title": "Concurrent training: a meta-analysis examining interference of aerobic and resistance exercises",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31823a3e2d",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "lundberg-2022",
+		"authors": "Lundberg TR, Feuerbacher JF, Sünkeler M, Schumann M",
+		"year": 2022,
+		"title": "The effects of concurrent aerobic and strength training on muscle fiber hypertrophy: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01688-x",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "sabag-2018",
+		"authors": "Sabag A, Najafi A, Michael S, et al.",
+		"year": 2018,
+		"title": "The compatibility of concurrent high intensity interval training and resistance training for muscular strength and hypertrophy: a systematic review and meta-analysis",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2018.1464636",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "murlasits-2018",
+		"authors": "Murlasits Z, Kneffel Z, Thalib L",
+		"year": 2018,
+		"title": "The physiological effects of concurrent strength and endurance training sequence: a systematic review and meta-analysis",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2017.1364405",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "eddens-2018",
+		"authors": "Eddens L, van Someren K, Howatson G",
+		"year": 2018,
+		"title": "The role of intra-session exercise sequence in the interference effect: a systematic review with meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0784-1",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "robineau-2016",
+		"authors": "Robineau J, Babault N, Piscione J, et al.",
+		"year": 2016,
+		"title": "Specific training effects of concurrent aerobic and strength exercises depend on recovery duration",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000798",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "bull-2020",
+		"authors": "Bull FC, Al-Ansari SS, Biddle S, et al.",
+		"year": 2020,
+		"title": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2020-102955",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "kodama-2009",
+		"authors": "Kodama S, Saito K, Tanaka S, et al.",
+		"year": 2009,
+		"title": "Cardiorespiratory fitness as a quantitative predictor of all-cause mortality and cardiovascular events in healthy men and women: a meta-analysis",
+		"journal": "JAMA",
+		"doi": "10.1001/jama.2009.681",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "tomlin-2001",
+		"authors": "Tomlin DL, Wenger HA",
+		"year": 2001,
+		"title": "The relationship between aerobic fitness and recovery from high intensity intermittent exercise",
+		"journal": "Sports Medicine",
+		"doi": "10.2165/00007256-200131010-00001",
+		"chapters": [
+			"advanced/07-concurrent-training"
+		]
+	},
+	{
+		"id": "meeusen-2013",
+		"authors": "Meeusen R, Duclos M, Foster C, et al.",
+		"year": 2013,
+		"title": "Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0b013e318279a10a",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "bell-2020",
+		"authors": "Bell L, Ruddock A, Maden-Wilkinson T, Rogerson D",
+		"year": 2020,
+		"title": "Overreaching and overtraining in strength sports and resistance training: a scoping review",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2020.1763077",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "fry-1994",
+		"authors": "Fry AC, Kraemer WJ, van Borselen F, et al.",
+		"year": 1994,
+		"title": "Performance decrements with high-intensity resistance exercise overtraining",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-199409000-00015",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "fry-1997",
+		"authors": "Fry AC, Kraemer WJ",
+		"year": 1997,
+		"title": "Resistance exercise overtraining and overreaching: neuroendocrine responses",
+		"journal": "Sports Medicine",
+		"doi": "10.2165/00007256-199723020-00004",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "bell-2021",
+		"authors": "Bell L, Ruddock A, Maden-Wilkinson T, et al.",
+		"year": 2021,
+		"title": "\"Is it overtraining or just work ethic?\": coaches' perceptions of overtraining in high-performance strength sports",
+		"journal": "Sports",
+		"doi": "10.3390/sports9060085",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "halson-2014",
+		"authors": "Halson SL",
+		"year": 2014,
+		"title": "Monitoring training load to understand fatigue in athletes",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-014-0253-z",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "bourdon-2017",
+		"authors": "Bourdon PC, Cardinale M, Murray A, et al.",
+		"year": 2017,
+		"title": "Monitoring athlete training loads: consensus statement",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/IJSPP.2017-0208",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "foster-2001",
+		"authors": "Foster C, Florhaug JA, Franklin J, et al.",
+		"year": 2001,
+		"title": "A new approach to monitoring exercise training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/00124278-200102000-00019",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "day-2004",
+		"authors": "Day ML, McGuigan MR, Brice G, Foster C",
+		"year": 2004,
+		"title": "Monitoring exercise intensity during resistance training using the session RPE scale",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-13113.1",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "impellizzeri-2020",
+		"authors": "Impellizzeri FM, Tenan MS, Kempton T, et al.",
+		"year": 2020,
+		"title": "Acute:chronic workload ratio: conceptual issues and fundamental pitfalls",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2019-0864",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "hooper-1995",
+		"authors": "Hooper SL, Mackinnon LT, Howard A, et al.",
+		"year": 1995,
+		"title": "Markers for monitoring overtraining and recovery",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-199501000-00019",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "mclean-2010",
+		"authors": "McLean BD, Coutts AJ, Kelly V, et al.",
+		"year": 2010,
+		"title": "Neuromuscular, endocrine, and perceptual fatigue responses during different length between-match microcycles in professional rugby league players",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.5.3.367",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "claudino-2017",
+		"authors": "Claudino JG, Cronin J, Mezêncio B, et al.",
+		"year": 2017,
+		"title": "The countermovement jump to monitor neuromuscular status: a meta-analysis",
+		"journal": "Journal of Science and Medicine in Sport",
+		"doi": "10.1016/j.jsams.2016.08.011",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "marasingha-arachchige-2022",
+		"authors": "Marasingha-Arachchige SU, Rubio-Arias JÁ, Alcaraz PE, Chung LH",
+		"year": 2022,
+		"title": "Factors that affect heart rate variability following acute resistance exercise: a systematic review and meta-analysis",
+		"journal": "Journal of Sport and Health Science",
+		"doi": "10.1016/j.jshs.2020.11.008",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "chen-2011",
+		"authors": "Chen JL, Yeh DP, Lee JP, et al.",
+		"year": 2011,
+		"title": "Parasympathetic nervous activity mirrors recovery status in weightlifting performance after training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181da7858",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "plews-2013",
+		"authors": "Plews DJ, Laursen PB, Stanley J, et al.",
+		"year": 2013,
+		"title": "Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-013-0071-8",
+		"chapters": [
+			"advanced/08-monitoring-readiness"
+		]
+	},
+	{
+		"id": "travis-2020",
+		"authors": "Travis SK, Mujika I, Gentles JA, et al.",
+		"year": 2020,
+		"title": "Tapering and peaking maximal strength for powerlifting performance: a review",
+		"journal": "Sports",
+		"doi": "10.3390/sports8090125",
+		"chapters": [
+			"advanced/09-annual-planning"
+		]
+	},
+	{
+		"id": "solberg-2019",
+		"authors": "Solberg PA, Hopkins WG, Paulsen G, Haugen TA",
+		"year": 2019,
+		"title": "Peak age and performance progression in world-class weightlifting and powerlifting athletes",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2019-0093",
+		"chapters": [
+			"advanced/09-annual-planning",
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "anton-2004",
+		"authors": "Anton MM, Spirduso WW, Tanaka H",
+		"year": 2004,
+		"title": "Age-related declines in anaerobic muscular performance: weightlifting and powerlifting",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/01.MSS.0000106283.34742.BE",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "peterson-2010",
+		"authors": "Peterson MD, Rhea MR, Sen A, Gordon PM",
+		"year": 2010,
+		"title": "Resistance exercise for muscular strength in older adults: a meta-analysis",
+		"journal": "Ageing Research Reviews",
+		"doi": "10.1016/j.arr.2010.03.004",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "borde-2015",
+		"authors": "Borde R, Hortobágyi T, Granacher U",
+		"year": 2015,
+		"title": "Dose–response relationships of resistance training in healthy old adults: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0385-9",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "fell-2008",
+		"authors": "Fell J, Williams AD",
+		"year": 2008,
+		"title": "The effect of aging on skeletal-muscle recovery from exercise: possible implications for aging athletes",
+		"journal": "Journal of Aging and Physical Activity",
+		"doi": "10.1123/japa.16.1.97",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "borges-2016",
+		"authors": "Borges N, Reaburn P, Driller M, Argus C",
+		"year": 2016,
+		"title": "Age-related changes in performance and recovery kinetics in masters athletes: a narrative review",
+		"journal": "Journal of Aging and Physical Activity",
+		"doi": "10.1123/japa.2015-0021",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "fragala-2019",
+		"authors": "Fragala MS, Cadore EL, Dorgo S, et al.",
+		"year": 2019,
+		"title": "Resistance training for older adults: position statement from the National Strength and Conditioning Association",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003230",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "nuzzo-2023",
+		"authors": "Nuzzo JL",
+		"year": 2023,
+		"title": "Narrative review of sex differences in muscle strength, endurance, activation, size, fiber type, and strength training participation rates, preferences, motivations, injuries, and neuromuscular adaptations",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004329",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "hunter-2014",
+		"authors": "Hunter SK",
+		"year": 2014,
+		"title": "Sex differences in human fatigability: mechanisms and insight to physiological responses",
+		"journal": "Acta Physiologica",
+		"doi": "10.1111/apha.12234",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "mcnulty-2020",
+		"authors": "McNulty KL, Elliott-Sale KJ, Dolan E, et al.",
+		"year": 2020,
+		"title": "The effects of menstrual cycle phase on exercise performance in eumenorrheic women: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-020-01319-3",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "blagrove-2020",
+		"authors": "Blagrove RC, Bruinvels G, Pedlar CR",
+		"year": 2020,
+		"title": "Variations in strength-related measures during the menstrual cycle in eumenorrheic women: a systematic review and meta-analysis",
+		"journal": "Journal of Science and Medicine in Sport",
+		"doi": "10.1016/j.jsams.2020.04.022",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "kissow-2022",
+		"authors": "Kissow J, Jacobsen KJ, Gunnarsson TP, et al.",
+		"year": 2022,
+		"title": "Effects of follicular and luteal phase-based menstrual cycle resistance training on muscle strength and mass",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01679-y",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "colenso-semple-2023",
+		"authors": "Colenso-Semple LM, D'Souza AC, Elliott-Sale KJ, Phillips SM",
+		"year": 2023,
+		"title": "Current evidence shows no influence of women's menstrual cycle phase on acute strength performance or adaptations to resistance exercise training",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2023.1054542",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "elliott-sale-2020",
+		"authors": "Elliott-Sale KJ, McNulty KL, Ansdell P, et al.",
+		"year": 2020,
+		"title": "The effects of oral contraceptives on exercise performance in women: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-020-01317-5",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "mountjoy-2023",
+		"authors": "Mountjoy M, Ackerman KE, Bailey DM, et al.",
+		"year": 2023,
+		"title": "2023 International Olympic Committee's (IOC) consensus statement on Relative Energy Deficiency in Sport (REDs)",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2023-106994",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "mottola-2018",
+		"authors": "Mottola MF, Davenport MH, Ruchat SM, et al.",
+		"year": 2018,
+		"title": "2019 Canadian guideline for physical activity throughout pregnancy",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2018-100056",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "behringer-2010",
+		"authors": "Behringer M, vom Heede A, Yue Z, Mester J",
+		"year": 2010,
+		"title": "Effects of resistance training in children and adolescents: a meta-analysis",
+		"journal": "Pediatrics",
+		"doi": "10.1542/peds.2010-0445",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "lesinski-2016",
+		"authors": "Lesinski M, Prieske O, Granacher U",
+		"year": 2016,
+		"title": "Effects and dose–response relationships of resistance training on physical performance in youth athletes: a systematic review and meta-analysis",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2015-095497",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "malina-2006",
+		"authors": "Malina RM",
+		"year": 2006,
+		"title": "Weight training in youth—growth, maturation, and safety: an evidence-based review",
+		"journal": "Clinical Journal of Sport Medicine",
+		"doi": "10.1097/01.jsm.0000248843.31874.be",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "faigenbaum-2010",
+		"authors": "Faigenbaum AD, Myer GD",
+		"year": 2010,
+		"title": "Resistance training among young athletes: safety, efficacy and injury prevention effects",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsm.2009.068098",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "faigenbaum-2009",
+		"authors": "Faigenbaum AD, Kraemer WJ, Blimkie CJR, et al.",
+		"year": 2009,
+		"title": "Youth resistance training: updated position statement paper from the National Strength and Conditioning Association",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31819df407",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "lloyd-2014",
+		"authors": "Lloyd RS, Faigenbaum AD, Stone MH, et al.",
+		"year": 2014,
+		"title": "Position statement on youth resistance training: the 2014 International Consensus",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2013-092952",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "keogh-2007",
+		"authors": "Keogh JWL, Hume PA, Pearson SN, Mellow P",
+		"year": 2007,
+		"title": "Anthropometric dimensions of male powerlifters of varying body mass",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640410601059630",
+		"chapters": [
+			"advanced/10-special-populations"
+		]
+	},
+	{
+		"id": "hortobagyi-1993",
+		"authors": "Hortobágyi T, Houmard JA, Stevenson JR, et al.",
+		"year": 1993,
+		"title": "The effects of detraining on power athletes",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-199308000-00008",
+		"chapters": [
+			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "iversen-2021",
+		"authors": "Iversen VM, Norum M, Schoenfeld BJ, Fimland MS",
+		"year": 2021,
+		"title": "No time to lift? Designing time-efficient training programs for strength and hypertrophy: a narrative review",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-021-01490-1",
+		"chapters": [
+			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "zhang-2025",
+		"authors": "Zhang X, Weakley J, Li H, et al.",
+		"year": 2025,
+		"title": "Superset versus traditional resistance training prescriptions: a systematic review and meta-analysis exploring acute and chronic effects on mechanical, metabolic, and perceptual variables",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-025-02176-8",
+		"chapters": [
+			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "weakley-2017",
+		"authors": "Weakley JJS, Till K, Read DB, et al.",
+		"year": 2017,
+		"title": "The effects of traditional, superset, and tri-set resistance training structures on perceived intensity and physiological responses",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-017-3680-3",
+		"chapters": [
+			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "robbins-2010",
+		"authors": "Robbins DW, Young WB, Behm DG, Payne WR",
+		"year": 2010,
+		"title": "Agonist-antagonist paired set resistance training: a brief review",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181f00bfc",
+		"chapters": [
+			"advanced/11-life-stress-limited-time"
+		]
+	},
+	{
+		"id": "janse-van-rensburg-2021",
+		"authors": "Janse van Rensburg DC, Jansen van Rensburg A, Fowler PM, et al.",
+		"year": 2021,
+		"title": "Managing travel fatigue and jet lag in athletes: a review and consensus statement",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-021-01502-0",
+		"chapters": [
+			"advanced/11-life-stress-limited-time"
 		]
 	}
 ]

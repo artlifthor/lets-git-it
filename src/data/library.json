@@ -27,7 +27,11 @@
 			"building-programs/10-hypertrophy-for-powerlifters",
 			"building-programs/11-deloads-fatigue-management",
 			"building-programs/13-programming-accessories",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/04-individual-response",
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -43,7 +47,10 @@
 			"building-programs/06-block-periodization",
 			"foundations/02-stress-recovery-adaptation",
 			"building-programs/09-training-frequency",
-			"building-programs/12-sheiko-style-programming"
+			"building-programs/12-sheiko-style-programming",
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -64,7 +71,8 @@
 			"foundations/08-exercise-selection",
 			"building-programs/01-assessing-the-lifter",
 			"building-programs/02-beyond-linear-progression",
-			"building-programs/04-linear-periodization"
+			"building-programs/04-linear-periodization",
+			"advanced/09-annual-planning"
 		]
 	},
 	{
@@ -92,7 +100,9 @@
 			"foundations/06-progressive-overload",
 			"foundations/08-exercise-selection",
 			"building-programs/03-periodization-overview",
-			"building-programs/07-conjugate-concurrent"
+			"building-programs/07-conjugate-concurrent",
+			"advanced/05-weak-point-analysis",
+			"advanced/06-special-exercises"
 		]
 	},
 	{
@@ -110,7 +120,10 @@
 			"foundations/12-tracking-training",
 			"building-programs/02-beyond-linear-progression",
 			"building-programs/11-deloads-fatigue-management",
-			"building-programs/14-building-a-mesocycle"
+			"building-programs/14-building-a-mesocycle",
+			"advanced/01-rpe-autoregulation",
+			"advanced/02-fatigue-based-autoregulation",
+			"advanced/04-individual-response"
 		]
 	},
 	{

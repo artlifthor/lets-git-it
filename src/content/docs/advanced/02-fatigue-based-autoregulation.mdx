@@ -1,0 +1,281 @@
+---
+title: 'Fatigue-Based Autoregulation: Load Drops, Repeats, and Fatigue Percentages'
+description: How to let accumulated fatigue decide how many sets a lifter does, using RTS-style load drops, repeats and fatigue percentages, and velocity loss as an objective version, with worked numbers.
+level: advanced
+lastReviewed: 2026-10-27
+sidebar:
+  order: 2
+---
+
+import Evidence from '../../../components/Evidence.astro';
+
+## In one minute
+
+Fatigue-based autoregulation lets the lifter's own fatigue decide **how many sets** to do, instead of fixing the set count in advance. In the RTS approach (Tuchscherer), the lifter does a top set at a target RPE, then either **repeats** that load or **drops** the load by a set percentage, and keeps doing sets until fatigue reaches a target, often expressed as a **fatigue percentage** (how far the day's estimated max has fallen). A small study in powerlifters showed these "RPE stops" do adjust volume as intended. **Velocity loss** (how much bar speed drops within a set) is an objective version of the same idea, and research on it shows that stopping sets earlier gives similar strength gains with far fewer reps, while higher fatigue tends to add more muscle. Coaches set higher fatigue targets in volume phases and lower ones close to a meet.
+
+## Prerequisites
+
+- [Chapter 1: Autoregulation: RPE/RIR-based training](/lets-git-it/advanced/01-rpe-autoregulation/)
+- [Part 1 · Chapter 5: Measuring intensity](/lets-git-it/foundations/05-measuring-intensity/) (the RPE chart)
+- [Part 2 · Chapter 11: Deloads and fatigue management](/lets-git-it/building-programs/11-deloads-fatigue-management/)
+
+## Why autoregulate volume?
+
+A fixed prescription such as "5 × 3" gives the same work on every day. But the cost of those sets is not the same every day: on a poor day, 5 × 3 can bury the lifter; on a great day, it may be too little to drive progress.
+
+<Evidence level="practice" /> Fatigue-based methods aim to give a **similar fatigue dose** every session: stop when the lifter has accumulated a set amount of fatigue, however many sets that takes (Tuchscherer). The number of sets then becomes a useful readout: more sets than usual to reach the target means the lifter is fresh and has good work capacity; fewer means the opposite.
+
+<Evidence level="moderate" /> This matters because the strength benefit of extra fatigue is limited. Training to failure gives no extra strength compared with stopping short of it (Grgic et al., 2022), and sets to failure slowed recovery by about 24–48 hours in one study (Morán-Navarro et al., 2017). Fatigue is a cost to be budgeted, not a goal.
+
+:::tip[In plain words]
+Instead of deciding "do five sets" in advance, you keep doing sets until you're as tired as the plan wants, and then stop. On a good day that might be six sets, on a rough day three. Either way, you get the right amount of work for the day without digging a hole.
+:::
+
+## Fatigue percentages
+
+A **fatigue percentage** describes how much the lifter's performance has dropped during the session. With RPE it is measured through the estimated 1RM (e1RM):
+
+**Fatigue % = 1 − (e1RM of the current set ÷ e1RM of the top set)**
+
+Example: the top set is squat 160 kg × 3 at RPE 8 → e1RM = 160 ÷ 0.863 ≈ 185 kg. Later, the same 160 kg × 3 is RPE 9 → e1RM = 160 ÷ 0.892 ≈ 179 kg. Fatigue = 1 − 179 ÷ 185 ≈ **3%**.
+
+**How RPE rises translate into fatigue.** Calculated from the chart in [Part 1 · Chapter 5](/lets-git-it/foundations/05-measuring-intensity/), for a top set at RPE 8 repeated at the same load and reps:
+
+| Reps | Rises to RPE 8.5 | RPE 9 | RPE 9.5 | RPE 10 |
+|---|---|---|---|---|
+| 1 | 1.8% | 3.5% | 5.7% | 7.8% |
+| 2 | 1.7% | 3.3% | 5.0% | 6.6% |
+| 3 | 1.7% | 3.3% | 4.9% | 6.4% |
+| 4 | 1.5% | 3.0% | 4.7% | 6.2% |
+| 5 | 1.6% | 3.1% | 4.6% | 6.0% |
+
+**Rule of thumb:** for low-rep sets, every half-point rise in RPE at the same load is roughly **1.5–2% fatigue**.
+
+**A limit to keep in mind.** <Evidence level="moderate" /> Trained lifters' ratings are typically off by around half an RPE to one rep (Halperin et al., 2022; [Chapter 1](/lets-git-it/advanced/01-rpe-autoregulation/)). <Evidence level="practice" /> Half an RPE is about 1.5–2% on this table, so fatigue targets below about 2–3% are within rating error. Use targets of 3% or more when you want the method to mean something.
+
+:::tip[In plain words]
+A fatigue percentage says how much weaker you've become during the session. If a weight felt like "2 reps left" at the start and now feels like "1 rep left", you're about 3% weaker than when you started. The plan tells you how much weaker to get before you stop.
+:::
+
+## Repeats
+
+<Evidence level="practice" /> **Repeats** keep the top-set load and repeat it until the RPE rises to a target (Tuchscherer). The rise in RPE is the fatigue.
+
+- **Prescription:** `squat x3 @ 8, then repeat until @ 9` (≈ 3% fatigue).
+- **Strength:** every set is at the heaviest load of the day, so the lifter practises heavy weights with good speed.
+- **Weakness:** each set gets closer to failure; with high targets (RPE 9.5–10) the last sets are near-maximal grinds.
+- **Best for:** strength and peaking phases, low reps (1–5), lifters who rate accurately.
+
+:::tip[In plain words]
+With repeats, you keep lifting the same weight until it gets noticeably harder, for example from "2 reps left" to "1 rep left", and then you stop. It keeps every set heavy, so it suits strength work.
+:::
+
+## Load drops
+
+<Evidence level="practice" /> **Load drops** reduce the load by a set percentage after the top set, then repeat sets at the lighter load until the RPE climbs back to the top-set RPE (Tuchscherer). The size of the drop is the fatigue target: when the lighter load feels as hard as the top set did, performance has fallen by about that percentage.
+
+- **Prescription:** `squat x5 @ 8, then load drop 6%, sets of 5 until @ 8`.
+- **Strength:** back-off sets start further from failure, so lifters can do more total reps at moderate effort.
+- **Weakness:** larger drops mean lighter back-off loads.
+- **Best for:** accumulation and hypertrophy phases, sets of 4–8, lifters whose ratings drift near failure.
+
+<Evidence level="emerging" /> The study closest to this method tested it in 12 nationally qualified powerlifters (9 men, 3 women) over 3 weeks of squat, bench press and deadlift training. After a top set at a target RPE, back-off sets used load reductions of 2%, 4% or 6% and stopped when the target RPE was reached again ("RPE stops"). Weekly volume rose with the size of the load reduction: combined relative volume (sets × reps × %1RM) averaged about 75, 88 and 114 for the 2%, 4% and 6% weeks. The authors concluded volume can be effectively autoregulated this way (Helms et al., 2018b). The study measured volume, not long-term strength gains.
+
+:::tip[In plain words]
+With load drops, after your heavy set you take some weight off, say 5%, and do sets at the lighter weight until it feels as hard as the heavy set did. Then you stop. A bigger drop means more sets, which suits blocks where you want a lot of work.
+:::
+
+### Choosing between repeats and load drops
+
+| Question | Repeats | Load drops |
+|---|---|---|
+| Phase | Strength, peaking | Accumulation, hypertrophy |
+| Reps per set | 1–5 | 3–8 |
+| Average set load | Higher | Lower |
+| Sets to reach the target | Fewer | More |
+| How close sets get to failure | Closer (later sets) | Further (most sets) |
+| Sensitivity to rating error | Higher (decisions near RPE 9–10) | Lower |
+
+**Always set caps.** <Evidence level="practice" /> Give a minimum and maximum number of sets (for example "2–6 back-off sets"). A minimum stops one hard set ending the session; a maximum stops a lifter who under-rates fatigue from doing ten sets.
+
+## Velocity loss: an objective version of the same idea
+
+**Velocity loss (VL)** is the percentage drop in bar speed from the fastest rep of a set to the current rep. A lifter whose first squat rep moves at 0.60 m/s and who trains with a 20% VL limit stops the set when a rep falls below 0.48 m/s. It measures fatigue **within a set**, while RTS fatigue percentages usually measure it **across sets**, but the logic is the same: stop when a set amount of fatigue has built up. Devices and setup are covered in [Chapter 3](/lets-git-it/advanced/03-velocity-based-training/).
+
+**Velocity loss does track fatigue.**
+
+- <Evidence level="emerging" /> In 18 strength-trained men (squat or bench press), velocity loss across sets was very closely related to the loss of speed against a standard load, to jump-height loss and to blood lactate. The authors concluded velocity loss is a valid way to quantify fatigue during resistance training (Sánchez-Medina & González-Badillo, 2011).
+- <Evidence level="emerging" /> Velocity drops faster on the bench press than on the squat: in sets to failure, speed fell significantly after about a third of the possible reps on the bench press and about half on the squat, and this pattern was the same at every %1RM tested (Izquierdo et al., 2006).
+
+**What different velocity-loss limits do over weeks of training.**
+
+| Study | Lifters | Lift | Limits compared | Strength | Muscle |
+|---|---|---|---|---|---|
+| Pareja-Blanco et al., 2017 | 22 young men, 8 weeks | Squat | 20% vs 40% | Similar gains; 20% did **40% fewer reps** | 40% gained more in two quadriceps muscles |
+| Pareja-Blanco et al., 2020 | 64 trained men, 8 weeks | Bench press | 0%, 15%, 25%, 50% | No significant differences | 50% gained more chest size than 0% |
+| Rodríguez-Rosell et al., 2021 | 33 young men, 8 weeks | Squat (55–70% 1RM) | 10%, 30%, 45% | All improved; similar | Not the focus |
+| Galiano et al., 2022 | 28 active men, 7 weeks | Squat | 5% vs 20% | Similar gains with about a third of the reps | Not measured |
+
+**What the reviews conclude.**
+
+- <Evidence level="moderate" /> A systematic review with meta-regression (19 training studies) found that the velocity loss allowed did **not** influence strength gains, while greater velocity loss was associated with more hypertrophy (Jukic et al., 2023).
+- <Evidence level="moderate" /> A meta-analysis comparing thresholds found a small strength advantage for limits of 25% or less, and more hypertrophy with limits above about 20–25% (Hickmott et al., 2022).
+- <Evidence level="emerging" /> A network meta-analysis (14 studies, 311 participants) ranked low and high velocity-loss training favourably against traditional training for strength, jump and sprint outcomes (Held et al., 2022).
+
+The reviews agree on the main point: **beyond a moderate amount of fatigue, extra fatigue buys more muscle, not more strength**. They differ on whether low velocity loss gives a small strength *advantage* or simply equal strength for less work. Note that most participants were young men who were not competitive powerlifters, and the loads were usually moderate.
+
+**Reps are not fixed when fatigue is.** <Evidence level="emerging" /> In 16 trained men squatting with a load moved at about 0.70 m/s, sets stopped at 10%, 20% and 30% velocity loss averaged about 4, 6 and 8 reps, with large differences between individuals; bar speed and power stayed stable across 5 sets (Weakley et al., 2020).
+
+:::tip[In plain words]
+Velocity loss is a speed check: you stop a set once your reps slow down by a set amount, for example 20%. Studies show stopping early gives about the same strength gains with far fewer reps, while pushing until the bar slows a lot mainly adds muscle. A device measures the speed so you don't have to judge it.
+:::
+
+## Setting fatigue targets by phase
+
+<Evidence level="practice" /> These starting points follow the logic of the evidence above (moderate fatigue is enough for strength; more fatigue adds volume and muscle) and RTS-style coaching (Tuchscherer). The exact numbers are coaching judgement, not tested thresholds.
+
+| Phase | Main goal | Method | RTS-style fatigue target | Velocity-loss alternative | Set caps (per lift) |
+|---|---|---|---|---|---|
+| **Accumulation** | Volume, muscle, work capacity | Load drops, sets of 5–8 | 6–10% | 25–40% | 3–6 back-off sets |
+| **Transmutation** | Specific strength | Repeats or small load drops, sets of 2–5 | 3–5% | 15–25% | 2–5 sets |
+| **Realization / peaking** | Express strength, shed fatigue | Top set + 1–2 back-offs, or repeats to +0.5–1 RPE | 0–3% | 10–15% | 1–3 sets |
+| **Deload** | Recover | Fixed sets, no fatigue target | — | — | Planned sets at RPE ≤ 7 |
+
+**Adjusting targets for the individual lifter and lift** <Evidence level="practice" />:
+
+- **Deadlift:** use the lower end of each range and lower set caps. Heavy deadlifts take longer to recover from ([Part 1 · Chapter 2](/lets-git-it/foundations/02-stress-recovery-adaptation/)).
+- **Bench press:** many lifters tolerate the higher end, and the lift recovers fastest. Remember that bench velocity drops sooner within a set (Izquierdo et al., 2006), so the same velocity-loss percentage is not the same effort on bench and squat.
+- **Check the next session.** If the next session's e1RM for that lift is down 3% or more, the target was too high for this lifter; cut it by 1–2 points. If e1RMs keep rising and sets to target keep increasing, the lifter can handle more.
+- **Life stress, poor sleep, a weight cut:** drop to the lower end of the range for the week.
+
+:::tip[In plain words]
+In blocks where you want lots of work, let yourself get more tired before stopping. In strength blocks, stop sooner. Close to a meet, stop very early so you stay fresh. Deadlifts and tired weeks get smaller targets.
+:::
+
+## Problems and limits
+
+<Evidence level="practice" />
+
+- **Rating error compounds.** A fatigue target depends on two ratings (top set and current set). Use targets of 3% or more and caps on sets.
+- **Fatigue shows up later.** A session can feel fine and still hurt the next one. Judge targets by the next 1–2 sessions, not only the current one.
+- **"Fresh = more sets" can backfire.** A lifter who feels great may do many sets and pay for it later in the week. Set caps.
+- **Lifters game the system.** Some rate generously to finish early; others rate low to do more. Calibrate ([Chapter 1](/lets-git-it/advanced/01-rpe-autoregulation/)).
+- **Unpredictable session length.** Fatigue-based sessions vary in length; lifters with fixed gym time need tight caps.
+
+## Sample programs
+
+Lifter: squat 180 kg, bench press 120 kg, deadlift 210 kg, with current rolling e1RMs of squat 185 kg, bench 122 kg, deadlift 212 kg. Chart percentages from [Part 1 · Chapter 5](/lets-git-it/foundations/05-measuring-intensity/); loads rounded to 2.5 kg.
+
+### Program 1: Load drops in an accumulation block (worked session)
+
+**Prescription for the main lifts:**
+
+| Lift | Top set | Load drop | Back-off sets | Cap |
+|---|---|---|---|---|
+| Squat | 1 × 6 @ 8 | 8% | Sets of 6 until @ 8 | 2–5 back-off sets |
+| Bench press | 1 × 8 @ 8 | 8% | Sets of 8 until @ 8 | 2–5 back-off sets |
+| Deadlift | 1 × 5 @ 8 | 6% | Sets of 5 until @ 8 | 1–3 back-off sets |
+
+**Planned loads:**
+
+- Squat top set: 185 × 0.786 (6 @ 8) ≈ 145 kg. Load drop: 145 × 0.92 ≈ 132.5 kg.
+- Bench top set: 122 × 0.739 (8 @ 8) ≈ 90 kg. Load drop: 90 × 0.92 ≈ 82.5 kg.
+- Deadlift top set: 212 × 0.811 (5 @ 8) ≈ 172.5 kg. Load drop: 172.5 × 0.94 ≈ 162.5 kg.
+
+**A logged squat session:**
+
+| Set | Load | Reps | RPE | Decision |
+|---|---|---|---|---|
+| Top | 145 kg | 6 | 8 | e1RM ≈ 145 ÷ 0.786 ≈ 184.5 kg |
+| 2 | 132.5 kg | 6 | 6.5 | Continue |
+| 3 | 132.5 kg | 6 | 7 | Continue |
+| 4 | 132.5 kg | 6 | 7.5 | Continue |
+| 5 | 132.5 kg | 6 | 7.5 | Continue |
+| 6 | 132.5 kg | 6 | 8 | **Stop**: target reached (5 back-off sets, at the cap) |
+
+On a poorer day the same plan might reach RPE 8 by the third back-off set: 3 back-off sets instead of 5. **Weekly use:** two squat and two bench sessions like this, one deadlift session; the remaining sessions use fixed sets of variations at RPE 7.
+
+**How it is built and why:** load drops keep most back-off sets 2–4 reps from failure while accumulating volume, which suits a phase aimed at muscle and work capacity. An 8% drop is a high fatigue target, so the cap protects against overreaching; the deadlift gets a smaller drop and lower cap.
+
+### Program 2: Repeats in a strength block (worked session)
+
+**Prescription:**
+
+| Lift | Top set | Repeats until… | Fatigue | Cap |
+|---|---|---|---|---|
+| Squat | 1 × 3 @ 8 | @ 9 | ≈ 3% | 2–5 sets total |
+| Bench press | 1 × 3 @ 8 | @ 9 | ≈ 3% | 2–6 sets total |
+| Deadlift | 1 × 2 @ 8, then load drop 5% | Sets of 2 until @ 8 | ≈ 5% | 1–3 back-off sets |
+
+**Planned loads:** squat 185 × 0.863 ≈ 160 kg; bench 122 × 0.863 ≈ 105 kg; deadlift 212 × 0.892 ≈ 190 kg, load drop 190 × 0.95 ≈ 180 kg.
+
+**A logged squat session:**
+
+| Set | Load | Reps | RPE | e1RM | Fatigue | Decision |
+|---|---|---|---|---|---|---|
+| 1 | 160 kg | 3 | 8 | 160 ÷ 0.863 ≈ 185.4 kg | 0% | Continue |
+| 2 | 160 kg | 3 | 8 | 185.4 kg | 0% | Continue |
+| 3 | 160 kg | 3 | 8.5 | 160 ÷ 0.878 ≈ 182.2 kg | 1.7% | Continue |
+| 4 | 160 kg | 3 | 8.5 | 182.2 kg | 1.7% | Continue |
+| 5 | 160 kg | 3 | 9 | 160 ÷ 0.892 ≈ 179.4 kg | 3.2% | **Stop** |
+
+**Reading it:** five sets of 3 at 160 kg is normal for this lifter. If the target is reached after only two sets for two sessions in a row, fatigue is accumulating: check the e1RM trend and recovery ([Part 2 · Chapter 11](/lets-git-it/building-programs/11-deloads-fatigue-management/)). If the lifter regularly hits the 5-set cap, raise the top-set RPE target or the load next week.
+
+**How it is built and why:** repeats keep every set at the day's heaviest load, which suits a phase focused on specific strength. A 3% target stops the session about one RPE above the top set, well short of failure. The deadlift uses a load drop instead because repeated heavy doubles near RPE 9 are costly.
+
+### Program 3: Fatigue targets across a 10-week block (squat example, with a velocity option)
+
+This shows how the fatigue target changes by phase for the same lifter's squat. The velocity column is for lifters with a reliable velocity device ([Chapter 3](/lets-git-it/advanced/03-velocity-based-training/)); use one method or the other, not both.
+
+| Weeks | Phase | Main squat session | RPE-based fatigue target | Velocity option | Expected loads (e1RM 185 kg) |
+|---|---|---|---|---|---|
+| 1–4 | Accumulation | 1 × 6 @ 8, load drop | 6% (wk 1) → 8% (wk 2–3) → 10% (wk 4) | 5 sets × reps until 30–40% VL at ~75% | Top ~145 kg; drops to ~137.5 / 132.5 / 130 kg |
+| 5 | Deload | 3 × 4 | None | None | ~135 kg (RPE 6) |
+| 6–8 | Transmutation | 1 × 3 @ 8, repeats | 3% (until @ 9) → 5% (until @ 9.5) in wk 8 | 4–5 sets until 20% VL at ~85% | ~160 kg |
+| 9–10 | Realization | 1 × 1 @ 8.5, then 2 × 2 at −5% | 0–3% (stop early if speed drops) | 2–3 sets until 10% VL at ~90% | Single ~172.5 kg; doubles ~165 kg |
+
+**Calculations:** accumulation drops: 145 × 0.94 ≈ 137.5 kg; × 0.92 ≈ 132.5 kg; × 0.90 ≈ 130 kg. Realization single: 185 × 0.939 (1 @ 8.5) ≈ 172.5 kg; doubles: 172.5 × 0.95 ≈ 165 kg. Deload: 185 × 0.73 ≈ 135 kg.
+
+**How it is built and why:** the target rises across accumulation as the lifter adapts to the volume, then falls in two steps: moderate fatigue for strength work, minimal fatigue for the peak. The velocity-loss ranges mirror the research pattern: higher velocity loss for the muscle-building phase and low velocity loss when strength is the only goal (Pareja-Blanco et al., 2017; Hickmott et al., 2022; Jukic et al., 2023). Week 10 would usually lead into a test, mock meet or the start of a dedicated peak (Part 4, Chapter 2: Building a peaking block).
+
+## Common mistakes
+
+- **Using fatigue targets smaller than the rating error.** A 1–2% target can't be judged reliably with RPE; use 3% or more, or use velocity.
+- **No set caps.** Without a maximum, an optimistic lifter can do far too much on a "good day".
+- **Repeats to RPE 10.** That is training to failure on the competition lifts, with extra fatigue and no extra strength.
+- **The same fatigue target all year.** Volume phases and peaking phases need different targets.
+- **The same target for every lift.** Deadlifts need lower targets than bench press.
+- **Treating velocity-loss percentages as equal across lifts.** Bench press slows down sooner in a set than the squat.
+- **Ignoring the next session.** If performance is down in the following session, the target was too high.
+
+## Key takeaways
+
+- Fatigue-based autoregulation lets fatigue, not a fixed number, decide how many sets the lifter does.
+- **Repeats** hold the top-set load until RPE rises to a target; **load drops** lower the load and continue until the top-set RPE returns.
+- A fatigue percentage is the fall in e1RM during the session; each half-RPE rise at low reps is roughly 1.5–2%.
+- RPE stops have been shown to adjust volume as intended in powerlifters (one small 3-week study).
+- Velocity-loss research shows stopping sets early gives similar strength with fewer reps, while more fatigue tends to add more muscle.
+- Use higher fatigue targets for accumulation, moderate for strength, low for peaking, and always set minimum and maximum sets.
+
+## Sources
+
+**Books**
+
+1. Tuchscherer M. *The Reactive Training Manual.*
+
+**Studies**
+
+2. Grgic J, Schoenfeld BJ, Orazem J, Sabol F (2022). Effects of resistance training performed to repetition failure or non-failure on muscular strength and hypertrophy: a systematic review and meta-analysis. *Journal of Sport and Health Science.* [doi:10.1016/j.jshs.2021.01.007](https://doi.org/10.1016/j.jshs.2021.01.007)
+3. Morán-Navarro R, Pérez CE, Mora-Rodríguez R, et al. (2017). Time course of recovery following resistance training leading or not to failure. *European Journal of Applied Physiology.* [doi:10.1007/s00421-017-3725-7](https://doi.org/10.1007/s00421-017-3725-7)
+4. Halperin I, Malleron T, Har-Nir I, et al. (2022). Accuracy in predicting repetitions to task failure in resistance exercise: a scoping review and exploratory meta-analysis. *Sports Medicine.* [doi:10.1007/s40279-021-01559-x](https://doi.org/10.1007/s40279-021-01559-x)
+5. Helms ER, Cross MR, Brown SR, et al. (2018b). Rating of perceived exertion as a method of volume autoregulation within a periodized program. *Journal of Strength and Conditioning Research.* [doi:10.1519/JSC.0000000000002032](https://doi.org/10.1519/JSC.0000000000002032)
+6. Sánchez-Medina L, González-Badillo JJ (2011). Velocity loss as an indicator of neuromuscular fatigue during resistance training. *Medicine & Science in Sports & Exercise.* [doi:10.1249/MSS.0b013e318213f880](https://doi.org/10.1249/MSS.0b013e318213f880)
+7. Izquierdo M, González-Badillo JJ, Häkkinen K, et al. (2006). Effect of loading on unintentional lifting velocity declines during single sets of repetitions to failure during upper and lower extremity muscle actions. *International Journal of Sports Medicine.* [doi:10.1055/s-2005-872825](https://doi.org/10.1055/s-2005-872825)
+8. Pareja-Blanco F, Rodríguez-Rosell D, Sánchez-Medina L, et al. (2017). Effects of velocity loss during resistance training on athletic performance, strength gains and muscle adaptations. *Scandinavian Journal of Medicine & Science in Sports.* [doi:10.1111/sms.12678](https://doi.org/10.1111/sms.12678)
+9. Pareja-Blanco F, Alcazar J, Cornejo-Daza PJ, et al. (2020). Effects of velocity loss in the bench press exercise on strength gains, neuromuscular adaptations, and muscle hypertrophy. *Scandinavian Journal of Medicine & Science in Sports.* [doi:10.1111/sms.13775](https://doi.org/10.1111/sms.13775)
+10. Rodríguez-Rosell D, Yáñez-García JM, Mora-Custodio R, et al. (2021). Effect of velocity loss during squat training on neuromuscular performance. *Scandinavian Journal of Medicine & Science in Sports.* [doi:10.1111/sms.13967](https://doi.org/10.1111/sms.13967)
+11. Galiano C, Pareja-Blanco F, Hidalgo de Mora J, Sáez de Villarreal E (2022). Low-velocity loss induces similar strength gains to moderate-velocity loss during resistance training. *Journal of Strength and Conditioning Research.* [doi:10.1519/JSC.0000000000003487](https://doi.org/10.1519/JSC.0000000000003487)
+12. Jukic I, Castilla AP, Ramos AG, et al. (2023). The acute and chronic effects of implementing velocity loss thresholds during resistance training: a systematic review, meta-analysis, and critical evaluation of the literature. *Sports Medicine.* [doi:10.1007/s40279-022-01754-4](https://doi.org/10.1007/s40279-022-01754-4)
+13. Hickmott LM, Chilibeck PD, Shaw KA, Butcher SJ (2022). The effect of load and volume autoregulation on muscular strength and hypertrophy: a systematic review and meta-analysis. *Sports Medicine – Open.* [doi:10.1186/s40798-021-00404-9](https://doi.org/10.1186/s40798-021-00404-9)
+14. Held S, Speer K, Rappelt L, et al. (2022). The effectiveness of traditional vs. velocity-based strength training on explosive and maximal strength performance: a network meta-analysis. *Frontiers in Physiology.* [doi:10.3389/fphys.2022.926972](https://doi.org/10.3389/fphys.2022.926972)
+15. Weakley J, Ramirez-Lopez C, McLaren S, et al. (2020). The effects of 10%, 20%, and 30% velocity loss thresholds on kinetic, kinematic, and repetition characteristics during the barbell back squat. *International Journal of Sports Physiology and Performance.* [doi:10.1123/ijspp.2018-1008](https://doi.org/10.1123/ijspp.2018-1008)
