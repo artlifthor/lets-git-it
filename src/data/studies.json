@@ -95,7 +95,8 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-017-0734-y",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"foundations/03-core-training-principles"
 		]
 	},
 	{
@@ -117,7 +118,210 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-021-01636-1",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"foundations/03-core-training-principles"
+		]
+	},
+	{
+		"id": "macdougall-1995",
+		"authors": "MacDougall JD, Gibala MJ, Tarnopolsky MA, et al.",
+		"year": 1995,
+		"title": "The time course for elevated muscle protein synthesis following heavy resistance exercise",
+		"journal": "Canadian Journal of Applied Physiology",
+		"doi": "10.1139/h95-038",
+		"chapters": [
+			"foundations/02-stress-recovery-adaptation"
+		]
+	},
+	{
+		"id": "damas-2016",
+		"authors": "Damas F, Phillips SM, Libardi CA, et al.",
+		"year": 2016,
+		"title": "Resistance training-induced changes in integrated myofibrillar protein synthesis are related to hypertrophy only after attenuation of muscle damage",
+		"journal": "The Journal of Physiology",
+		"doi": "10.1113/JP272472",
+		"chapters": [
+			"foundations/02-stress-recovery-adaptation"
+		]
+	},
+	{
+		"id": "moran-navarro-2017",
+		"authors": "Morán-Navarro R, Pérez CE, Mora-Rodríguez R, et al.",
+		"year": 2017,
+		"title": "Time course of recovery following resistance training leading or not to failure",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-017-3725-7",
+		"chapters": [
+			"foundations/02-stress-recovery-adaptation",
+			"foundations/03-core-training-principles"
+		]
+	},
+	{
+		"id": "chiu-2003",
+		"authors": "Chiu LZF, Barnes JL",
+		"year": 2003,
+		"title": "The fitness-fatigue model revisited: implications for planning short- and long-term training",
+		"journal": "Strength and Conditioning Journal",
+		"doi": "10.1519/00126548-200312000-00007",
+		"chapters": [
+			"foundations/02-stress-recovery-adaptation"
+		]
+	},
+	{
+		"id": "rogerson-2024",
+		"authors": "Rogerson D, Nolan D, Korakakis PA, et al.",
+		"year": 2024,
+		"title": "Deloading practices in strength and physique sports: a cross-sectional survey",
+		"journal": "Sports Medicine - Open",
+		"doi": "10.1186/s40798-024-00691-y",
+		"chapters": [
+			"foundations/02-stress-recovery-adaptation"
+		]
+	},
+	{
+		"id": "schoenfeld-2017",
+		"authors": "Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW",
+		"year": 2017,
+		"title": "Strength and hypertrophy adaptations between low- vs. high-load resistance training: a systematic review and meta-analysis",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002200",
+		"chapters": [
+			"foundations/03-core-training-principles"
+		]
+	},
+	{
+		"id": "lopez-2021",
+		"authors": "Lopez P, Radaelli R, Taaffe DR, et al.",
+		"year": 2021,
+		"title": "Resistance training load effects on muscle hypertrophy and strength gain: systematic review and network meta-analysis",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0000000000002585",
+		"chapters": [
+			"foundations/03-core-training-principles",
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "ralston-2017",
+		"authors": "Ralston GW, Kilgore L, Wyatt FB, et al.",
+		"year": 2017,
+		"title": "The effect of weekly set volume on strength gain: a meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0762-7",
+		"chapters": [
+			"foundations/03-core-training-principles",
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "plotkin-2022",
+		"authors": "Plotkin D, Coleman M, Van Every D, et al.",
+		"year": 2022,
+		"title": "Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.14142",
+		"chapters": [
+			"foundations/03-core-training-principles"
+		]
+	},
+	{
+		"id": "grgic-2022",
+		"authors": "Grgic J, Schoenfeld BJ, Orazem J, Sabol F",
+		"year": 2022,
+		"title": "Effects of resistance training performed to repetition failure or non-failure on muscular strength and hypertrophy: a systematic review and meta-analysis",
+		"journal": "Journal of Sport and Health Science",
+		"doi": "10.1016/j.jshs.2021.01.007",
+		"chapters": [
+			"foundations/03-core-training-principles",
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "kassiano-2022",
+		"authors": "Kassiano W, Nunes JP, Costa B, et al.",
+		"year": 2022,
+		"title": "Does varying resistance exercises promote superior muscle hypertrophy and strength gains? A systematic review",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004258",
+		"chapters": [
+			"foundations/03-core-training-principles"
+		]
+	},
+	{
+		"id": "ahtiainen-2016",
+		"authors": "Ahtiainen JP, Walker S, Peltonen H, et al.",
+		"year": 2016,
+		"title": "Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages",
+		"journal": "Age",
+		"doi": "10.1007/s11357-015-9870-1",
+		"chapters": [
+			"foundations/03-core-training-principles"
+		]
+	},
+	{
+		"id": "pelland-2025",
+		"authors": "Pelland JC, Remmert JF, Robinson ZP, et al.",
+		"year": 2025,
+		"title": "The resistance training dose response: meta-regressions exploring the effects of weekly volume and frequency on muscle hypertrophy and strength gains",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-025-02344-w",
+		"chapters": [
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "grgic-2018",
+		"authors": "Grgic J, Schoenfeld BJ, Davies TB, et al.",
+		"year": 2018,
+		"title": "Effect of resistance training frequency on gains in muscular strength: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-018-0872-x",
+		"chapters": [
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "schoenfeld-2016",
+		"authors": "Schoenfeld BJ, Pope ZK, Benik FM, et al.",
+		"year": 2016,
+		"title": "Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001272",
+		"chapters": [
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "grgic-2017",
+		"authors": "Grgic J, Lazinica B, Mikulic P, et al.",
+		"year": 2017,
+		"title": "The effects of short versus long inter-set rest intervals in resistance training on measures of muscle hypertrophy: a systematic review",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2017.1340524",
+		"chapters": [
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "schoenfeld-2015",
+		"authors": "Schoenfeld BJ, Ogborn DI, Krieger JW",
+		"year": 2015,
+		"title": "Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0304-0",
+		"chapters": [
+			"foundations/04-training-variables"
+		]
+	},
+	{
+		"id": "larsen-2021",
+		"authors": "Larsen S, Kristiansen E, van den Tillaar R",
+		"year": 2021,
+		"title": "Effects of subjective and objective autoregulation methods for intensity and volume on enhancing maximal strength during resistance-training interventions: a systematic review",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.10663",
+		"chapters": [
+			"foundations/05-measuring-intensity"
 		]
 	}
 ]

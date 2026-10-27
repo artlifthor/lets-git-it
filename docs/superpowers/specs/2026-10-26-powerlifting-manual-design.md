@@ -235,7 +235,8 @@ Every chapter has the same parts, in this order:
 | **In one minute** (summary) | Yes | 3–5 sentences |
 | **Prerequisites** | Yes | Links to earlier chapters ("None" allowed in Part 1) |
 | Main lesson | Yes | Headings, explanations, diagrams, evidence labels |
-| **Sample program** | When relevant | Week-by-week tables (sets × reps @ load/RPE) |
+| **In plain words** boxes | For every principle or training variable | A few sentences in everyday language, no jargon, right after the technical explanation (Starlight `:::tip[In plain words]`) |
+| **Sample programs** | When relevant | Usually 2–4 per chapter (e.g. different levels or 3- vs 4-day); week-by-week tables (sets × reps @ load/RPE) |
 | **Common mistakes** | Yes | |
 | **Key takeaways** | Yes | Bullet list |
 | **Sources** | Yes | Numbered list of books and verified studies |
