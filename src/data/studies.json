@@ -19,7 +19,8 @@
 		"journal": "Strength and Conditioning Journal",
 		"doi": "10.1519/SSC.0000000000000218",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -30,7 +31,10 @@
 		"journal": "Frontiers in Physiology",
 		"doi": "10.3389/fphys.2018.00247",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/05-undulating-periodization",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -65,7 +69,8 @@
 		"doi": "10.1007/s40279-023-01937-7",
 		"chapters": [
 			"foundations/05-measuring-intensity",
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"building-programs/12-sheiko-style-programming"
 		]
 	},
 	{
@@ -76,7 +81,11 @@
 		"journal": "Sports Medicine",
 		"doi": "10.2165/11319770-000000000-00000",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"building-programs/03-periodization-overview",
+			"building-programs/04-linear-periodization",
+			"building-programs/07-conjugate-concurrent",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -87,7 +96,8 @@
 		"journal": "International Journal of Sports Physiology and Performance",
 		"doi": "10.1123/ijspp.7.2.161",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"building-programs/03-periodization-overview"
 		]
 	},
 	{
@@ -99,7 +109,11 @@
 		"doi": "10.1007/s40279-017-0734-y",
 		"chapters": [
 			"building-programs/06-block-periodization",
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"building-programs/03-periodization-overview",
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -110,7 +124,11 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000000712",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/03-periodization-overview",
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
 		]
 	},
 	{
@@ -122,7 +140,12 @@
 		"doi": "10.1007/s40279-021-01636-1",
 		"chapters": [
 			"building-programs/06-block-periodization",
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/03-periodization-overview",
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -157,7 +180,9 @@
 		"doi": "10.1007/s00421-017-3725-7",
 		"chapters": [
 			"foundations/02-stress-recovery-adaptation",
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"building-programs/09-training-frequency",
+			"building-programs/11-deloads-fatigue-management"
 		]
 	},
 	{
@@ -173,13 +198,15 @@
 	},
 	{
 		"id": "rogerson-2024",
-		"authors": "Rogerson D, Nolan D, Korakakis PA, et al.",
+		"authors": "Rogerson D, Nolan D, Androulakis Korakakis P, et al.",
 		"year": 2024,
 		"title": "Deloading practices in strength and physique sports: a cross-sectional survey",
 		"journal": "Sports Medicine - Open",
 		"doi": "10.1186/s40798-024-00691-y",
 		"chapters": [
-			"foundations/02-stress-recovery-adaptation"
+			"foundations/02-stress-recovery-adaptation",
+			"building-programs/11-deloads-fatigue-management",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -190,7 +217,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000002200",
 		"chapters": [
-			"foundations/03-core-training-principles"
+			"foundations/03-core-training-principles",
+			"building-programs/10-hypertrophy-for-powerlifters"
 		]
 	},
 	{
@@ -203,7 +231,9 @@
 		"chapters": [
 			"foundations/03-core-training-principles",
 			"foundations/04-training-variables",
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -216,7 +246,8 @@
 		"chapters": [
 			"foundations/03-core-training-principles",
 			"foundations/04-training-variables",
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"building-programs/08-volume-landmarks"
 		]
 	},
 	{
@@ -241,7 +272,11 @@
 		"chapters": [
 			"foundations/03-core-training-principles",
 			"foundations/04-training-variables",
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/11-deloads-fatigue-management",
+			"building-programs/12-sheiko-style-programming",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -253,7 +288,11 @@
 		"doi": "10.1519/JSC.0000000000004258",
 		"chapters": [
 			"foundations/03-core-training-principles",
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"building-programs/07-conjugate-concurrent",
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/13-programming-accessories",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -276,7 +315,13 @@
 		"doi": "10.1007/s40279-025-02344-w",
 		"chapters": [
 			"foundations/04-training-variables",
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/08-volume-landmarks",
+			"building-programs/09-training-frequency",
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/12-sheiko-style-programming",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -287,7 +332,9 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-018-0872-x",
 		"chapters": [
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"building-programs/09-training-frequency",
+			"building-programs/12-sheiko-style-programming"
 		]
 	},
 	{
@@ -300,7 +347,8 @@
 		"chapters": [
 			"foundations/04-training-variables",
 			"foundations/06-progressive-overload",
-			"foundations/09-session-structure-warm-ups"
+			"foundations/09-session-structure-warm-ups",
+			"building-programs/10-hypertrophy-for-powerlifters"
 		]
 	},
 	{
@@ -311,7 +359,8 @@
 		"journal": "European Journal of Sport Science",
 		"doi": "10.1080/17461391.2017.1340524",
 		"chapters": [
-			"foundations/04-training-variables"
+			"foundations/04-training-variables",
+			"building-programs/10-hypertrophy-for-powerlifters"
 		]
 	},
 	{
@@ -333,7 +382,9 @@
 		"journal": "PeerJ",
 		"doi": "10.7717/peerj.10663",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -357,7 +408,9 @@
 		"doi": "10.1249/01.MSS.0000053727.63505.D4",
 		"chapters": [
 			"foundations/06-progressive-overload",
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/01-assessing-the-lifter",
+			"building-programs/02-beyond-linear-progression"
 		]
 	},
 	{
@@ -368,7 +421,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/R-12842.1",
 		"chapters": [
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"building-programs/02-beyond-linear-progression"
 		]
 	},
 	{
@@ -402,7 +456,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003524",
 		"chapters": [
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"building-programs/08-volume-landmarks"
 		]
 	},
 	{
@@ -424,7 +479,9 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0b013e3181def4a6",
 		"chapters": [
-			"foundations/06-progressive-overload"
+			"foundations/06-progressive-overload",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/04-linear-periodization"
 		]
 	},
 	{
@@ -446,7 +503,9 @@
 		"journal": "Medicine & Science in Sports & Exercise",
 		"doi": "10.1249/MSS.0b013e3181a154f3",
 		"chapters": [
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
 		]
 	},
 	{
@@ -457,7 +516,8 @@
 		"journal": "Research Quarterly for Exercise and Sport",
 		"doi": "10.1080/02701367.2022.2070592",
 		"chapters": [
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/02-beyond-linear-progression"
 		]
 	},
 	{
@@ -468,7 +528,9 @@
 		"journal": "European Journal of Applied Physiology",
 		"doi": "10.1007/s00421-012-2511-9",
 		"chapters": [
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/11-deloads-fatigue-management"
 		]
 	},
 	{
@@ -479,7 +541,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003521",
 		"chapters": [
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/10-hypertrophy-for-powerlifters"
 		]
 	},
 	{
@@ -490,7 +553,9 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000003657",
 		"chapters": [
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/01-assessing-the-lifter",
+			"building-programs/02-beyond-linear-progression"
 		]
 	},
 	{
@@ -501,7 +566,8 @@
 		"journal": "Scandinavian Journal of Medicine & Science in Sports",
 		"doi": "10.1111/sms.12047",
 		"chapters": [
-			"foundations/07-novice-linear-progression"
+			"foundations/07-novice-linear-progression",
+			"building-programs/11-deloads-fatigue-management"
 		]
 	},
 	{
@@ -556,7 +622,8 @@
 		"journal": "PLOS ONE",
 		"doi": "10.1371/journal.pone.0226989",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"building-programs/07-conjugate-concurrent"
 		]
 	},
 	{
@@ -567,7 +634,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000000539",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"building-programs/07-conjugate-concurrent"
 		]
 	},
 	{
@@ -578,7 +646,8 @@
 		"journal": "Applied Physiology, Nutrition, and Metabolism",
 		"doi": "10.1139/apnm-2012-0176",
 		"chapters": [
-			"foundations/08-exercise-selection"
+			"foundations/08-exercise-selection",
+			"building-programs/13-programming-accessories"
 		]
 	},
 	{
@@ -711,7 +780,9 @@
 		"journal": "European Journal of Sport Science",
 		"doi": "10.1080/17461391.2020.1733672",
 		"chapters": [
-			"foundations/09-session-structure-warm-ups"
+			"foundations/09-session-structure-warm-ups",
+			"building-programs/13-programming-accessories",
+			"building-programs/14-building-a-mesocycle"
 		]
 	},
 	{
@@ -854,7 +925,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0b013e318173d0bf",
 		"chapters": [
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"building-programs/01-assessing-the-lifter"
 		]
 	},
 	{
@@ -920,7 +992,8 @@
 		"journal": "Scandinavian Journal of Medicine & Science in Sports",
 		"doi": "10.1111/sms.14075",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"building-programs/10-hypertrophy-for-powerlifters"
 		]
 	},
 	{
@@ -953,7 +1026,8 @@
 		"journal": "Frontiers in Nutrition",
 		"doi": "10.3389/fnut.2019.00131",
 		"chapters": [
-			"foundations/11-nutrition"
+			"foundations/11-nutrition",
+			"building-programs/10-hypertrophy-for-powerlifters"
 		]
 	},
 	{
@@ -1295,7 +1369,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/R-15304.1",
 		"chapters": [
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"building-programs/01-assessing-the-lifter"
 		]
 	},
 	{
@@ -1317,7 +1392,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0000000000001517",
 		"chapters": [
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"building-programs/01-assessing-the-lifter"
 		]
 	},
 	{
@@ -1350,7 +1426,830 @@
 		"journal": "Sports Medicine – Open",
 		"doi": "10.1186/s40798-020-00260-z",
 		"chapters": [
-			"foundations/12-tracking-training"
+			"foundations/12-tracking-training",
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "kraemer-2004",
+		"authors": "Kraemer WJ, Ratamess NA",
+		"year": 2004,
+		"title": "Fundamentals of resistance training: progression and exercise prescription",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/01.MSS.0000121945.36635.61",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "van-den-hoek-2024",
+		"authors": "van den Hoek DJ, Beaumont PL, van den Hoek AK, et al.",
+		"year": 2024,
+		"title": "Normative data for the squat, bench press and deadlift exercises in powerlifting: data from 809,986 competition entries",
+		"journal": "Journal of Science and Medicine in Sport",
+		"doi": "10.1016/j.jsams.2024.07.005",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "kompf-2016",
+		"authors": "Kompf J, Arandjelović O",
+		"year": 2016,
+		"title": "Understanding and overcoming the sticking point in resistance exercise",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0460-2",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "aasa-2017",
+		"authors": "Aasa U, Svartholm I, Andersson F, Berglund L",
+		"year": 2017,
+		"title": "Injuries among weightlifters and powerlifters: a systematic review",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2016-096037",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "siewe-2011",
+		"authors": "Siewe J, Rudat J, Röllinghoff M, et al.",
+		"year": 2011,
+		"title": "Injuries and overuse syndromes in powerlifting",
+		"journal": "International Journal of Sports Medicine",
+		"doi": "10.1055/s-0031-1277207",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "stromback-2018",
+		"authors": "Strömbäck E, Aasa U, Gilenstam K, Berglund L",
+		"year": 2018,
+		"title": "Prevalence and consequences of injuries in powerlifting: a cross-sectional study",
+		"journal": "Orthopaedic Journal of Sports Medicine",
+		"doi": "10.1177/2325967118771016",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "riebe-2015",
+		"authors": "Riebe D, Franklin BA, Thompson PD, et al.",
+		"year": 2015,
+		"title": "Updating ACSM's recommendations for exercise preparticipation health screening",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0000000000000664",
+		"chapters": [
+			"building-programs/01-assessing-the-lifter"
+		]
+	},
+	{
+		"id": "ahtiainen-2003",
+		"authors": "Ahtiainen JP, Pakarinen A, Alen M, et al.",
+		"year": 2003,
+		"title": "Muscle hypertrophy, hormonal adaptations and strength development during strength training in strength-trained and untrained men",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-003-0833-3",
+		"chapters": [
+			"building-programs/02-beyond-linear-progression"
+		]
+	},
+	{
+		"id": "colquhoun-2018",
+		"authors": "Colquhoun RJ, Gai CM, Aguilar D, et al.",
+		"year": 2018,
+		"title": "Training volume, not frequency, indicative of maximal strength adaptations to resistance training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002414",
+		"chapters": [
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/09-training-frequency",
+			"building-programs/12-sheiko-style-programming"
+		]
+	},
+	{
+		"id": "rhea-2002",
+		"authors": "Rhea MR, Ball SD, Phillips WT, Burkett LN",
+		"year": 2002,
+		"title": "A comparison of linear and daily undulating periodized programs with equated volume and intensity for strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/00124278-200205000-00013",
+		"chapters": [
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "zourdos-2016b",
+		"authors": "Zourdos MC, Jo E, Khamoui AV, et al.",
+		"year": 2016,
+		"title": "Modified daily undulating periodization model produces greater performance than a traditional configuration in powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001165",
+		"chapters": [
+			"building-programs/02-beyond-linear-progression",
+			"building-programs/05-undulating-periodization",
+			"building-programs/07-conjugate-concurrent"
+		]
+	},
+	{
+		"id": "kiely-2012",
+		"authors": "Kiely J",
+		"year": 2012,
+		"title": "Periodization paradigms in the 21st century: evidence-led or tradition-driven?",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.7.3.242",
+		"chapters": [
+			"building-programs/03-periodization-overview"
+		]
+	},
+	{
+		"id": "kiely-2018",
+		"authors": "Kiely J",
+		"year": 2018,
+		"title": "Periodization theory: confronting an inconvenient truth",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0823-y",
+		"chapters": [
+			"building-programs/03-periodization-overview"
+		]
+	},
+	{
+		"id": "cunanan-2018",
+		"authors": "Cunanan AJ, DeWeese BH, Wagle JP, et al.",
+		"year": 2018,
+		"title": "The general adaptation syndrome: a foundation for the concept of periodization",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0855-3",
+		"chapters": [
+			"building-programs/03-periodization-overview"
+		]
+	},
+	{
+		"id": "hartmann-2015",
+		"authors": "Hartmann H, Wirth K, Keiner M, et al.",
+		"year": 2015,
+		"title": "Short-term periodization models: effects on strength and speed-strength performance",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-015-0355-2",
+		"chapters": [
+			"building-programs/03-periodization-overview",
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "mcnamara-2010",
+		"authors": "McNamara JM, Stearne DJ",
+		"year": 2010,
+		"title": "Flexible nonlinear periodization in a beginner college weight training class",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181bc177b",
+		"chapters": [
+			"building-programs/03-periodization-overview",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "colquhoun-2017",
+		"authors": "Colquhoun RJ, Gai CM, Walters J, et al.",
+		"year": 2017,
+		"title": "Comparison of powerlifting performance in trained men using traditional and flexible daily undulating periodization",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001500",
+		"chapters": [
+			"building-programs/03-periodization-overview",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "rhea-2004",
+		"authors": "Rhea MR, Alderman BL",
+		"year": 2004,
+		"title": "A meta-analysis of periodized versus nonperiodized strength and power training programs",
+		"journal": "Research Quarterly for Exercise and Sport",
+		"doi": "10.1080/02701367.2004.10609174",
+		"chapters": [
+			"building-programs/03-periodization-overview"
+		]
+	},
+	{
+		"id": "bartolomei-2014",
+		"authors": "Bartolomei S, Hoffman JR, Merni F, Stout JR",
+		"year": 2014,
+		"title": "A comparison of traditional and block periodized strength training programs in trained athletes",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000366",
+		"chapters": [
+			"building-programs/03-periodization-overview"
+		]
+	},
+	{
+		"id": "bartolomei-2015",
+		"authors": "Bartolomei S, Stout JR, Fukuda DH, et al.",
+		"year": 2015,
+		"title": "Block vs. weekly undulating periodized resistance training programs in women",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000948",
+		"chapters": [
+			"building-programs/03-periodization-overview",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "evans-2019",
+		"authors": "Evans JW",
+		"year": 2019,
+		"title": "Periodized resistance training for enhancing skeletal muscle hypertrophy and strength: a mini-review",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2019.00013",
+		"chapters": [
+			"building-programs/03-periodization-overview"
+		]
+	},
+	{
+		"id": "grgic-2017b",
+		"authors": "Grgic J, Mikulic P, Podnar H, Pedisic Z",
+		"year": 2017,
+		"title": "Effects of linear and daily undulating periodized resistance training programs on measures of muscle hypertrophy: a systematic review and meta-analysis",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.3695",
+		"chapters": [
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "buford-2007",
+		"authors": "Buford TW, Rossi SJ, Smith DB, Warren AJ",
+		"year": 2007,
+		"title": "A comparison of periodization models during nine weeks with equated volume and intensity for strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-20446.1",
+		"chapters": [
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "prestes-2009",
+		"authors": "Prestes J, Frollini AB, de Lima C, et al.",
+		"year": 2009,
+		"title": "Comparison between linear and daily undulating periodized resistance training to increase strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181c03548",
+		"chapters": [
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "apel-2011",
+		"authors": "Apel JM, Lacey RM, Kell RT",
+		"year": 2011,
+		"title": "A comparison of traditional and weekly undulating periodized strength training programs with total volume and intensity equated",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181c69ef6",
+		"chapters": [
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "miranda-2011",
+		"authors": "Miranda F, Simão R, Rhea M, et al.",
+		"year": 2011,
+		"title": "Effects of linear vs. daily undulatory periodized resistance training on maximal and submaximal strength gains",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181e7ff75",
+		"chapters": [
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "simao-2012b",
+		"authors": "Simão R, Spineti J, de Salles BF, et al.",
+		"year": 2012,
+		"title": "Comparison between nonlinear and linear periodized resistance training: hypertrophic and strength effects",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e318231a659",
+		"chapters": [
+			"building-programs/04-linear-periodization",
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "klemp-2016",
+		"authors": "Klemp A, Dolan C, Quiles JM, et al.",
+		"year": 2016,
+		"title": "Volume-equated high- and low-repetition daily undulating programming strategies produce similar hypertrophy and strength adaptations",
+		"journal": "Applied Physiology, Nutrition, and Metabolism",
+		"doi": "10.1139/apnm-2015-0707",
+		"chapters": [
+			"building-programs/05-undulating-periodization"
+		]
+	},
+	{
+		"id": "gonzalez-badillo-2014",
+		"authors": "González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, et al.",
+		"year": 2014,
+		"title": "Maximal intended velocity training induces greater gains in bench press performance than deliberately slower half-velocity training",
+		"journal": "European Journal of Sport Science",
+		"doi": "10.1080/17461391.2014.905987",
+		"chapters": [
+			"building-programs/07-conjugate-concurrent"
+		]
+	},
+	{
+		"id": "behm-1993",
+		"authors": "Behm DG, Sale DG",
+		"year": 1993,
+		"title": "Intended rather than actual movement velocity determines velocity-specific training response",
+		"journal": "Journal of Applied Physiology",
+		"doi": "10.1152/jappl.1993.74.1.359",
+		"chapters": [
+			"building-programs/07-conjugate-concurrent"
+		]
+	},
+	{
+		"id": "pareja-blanco-2017",
+		"authors": "Pareja-Blanco F, Rodríguez-Rosell D, Sánchez-Medina L, et al.",
+		"year": 2017,
+		"title": "Effects of velocity loss during resistance training on athletic performance, strength gains and muscle adaptations",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.12678",
+		"chapters": [
+			"building-programs/07-conjugate-concurrent",
+			"building-programs/11-deloads-fatigue-management",
+			"building-programs/12-sheiko-style-programming"
+		]
+	},
+	{
+		"id": "anderson-2008",
+		"authors": "Anderson CE, Sforzo GA, Sigg JA",
+		"year": 2008,
+		"title": "The effects of combining elastic and free weight resistance on strength and power in athletes",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181634d1e",
+		"chapters": [
+			"building-programs/07-conjugate-concurrent"
+		]
+	},
+	{
+		"id": "ataee-2014",
+		"authors": "Ataee J, Koozehchian MS, Kreider RB, Zuo L",
+		"year": 2014,
+		"title": "Effectiveness of accommodation and constant resistance training on maximal strength and power in trained athletes",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.441",
+		"chapters": [
+			"building-programs/07-conjugate-concurrent"
+		]
+	},
+	{
+		"id": "swinton-2009",
+		"authors": "Swinton PA, Lloyd R, Agouris I, Stewart A",
+		"year": 2009,
+		"title": "Contemporary training practices in elite British powerlifters: survey results from an international competition",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31819424bd",
+		"chapters": [
+			"building-programs/07-conjugate-concurrent"
+		]
+	},
+	{
+		"id": "schoenfeld-2017b",
+		"authors": "Schoenfeld BJ, Ogborn D, Krieger JW",
+		"year": 2017,
+		"title": "Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2016.1210197",
+		"chapters": [
+			"building-programs/08-volume-landmarks",
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "schoenfeld-2019",
+		"authors": "Schoenfeld BJ, Contreras B, Krieger J, et al.",
+		"year": 2019,
+		"title": "Resistance training volume enhances muscle hypertrophy but not strength in trained men",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0000000000001764",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "heaselgrave-2019",
+		"authors": "Heaselgrave SR, Blacker J, Smeuninx B, et al.",
+		"year": 2019,
+		"title": "Dose-response relationship of weekly resistance-training volume and frequency on muscular adaptations in trained men",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2018-0427",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "gonzalez-badillo-2005",
+		"authors": "González-Badillo JJ, Gorostiaga EM, Arellano R, Izquierdo M",
+		"year": 2005,
+		"title": "Moderate resistance training volume produces more favorable strength gains than high or low volumes during a short-term training cycle",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-15574.1",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "brigatto-2022",
+		"authors": "Brigatto FA, Lima LEDM, Germano MD, et al.",
+		"year": 2022,
+		"title": "High resistance-training volume enhances muscle thickness in resistance-trained men",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003413",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "spiering-2021",
+		"authors": "Spiering BA, Mujika I, Sharp MA, Foulis SA",
+		"year": 2021,
+		"title": "Maintaining physical performance: the minimal dose of exercise needed to preserve endurance and strength over time",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003964",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "bickel-2011",
+		"authors": "Bickel CS, Cross JM, Bamman MM",
+		"year": 2011,
+		"title": "Exercise dosing to retain resistance training adaptations in young and older adults",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0b013e318207c15d",
+		"chapters": [
+			"building-programs/08-volume-landmarks",
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "androulakis-korakakis-2020",
+		"authors": "Androulakis-Korakakis P, Fisher JP, Steele J",
+		"year": 2020,
+		"title": "The minimum effective training dose required to increase 1RM strength in resistance-trained men: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-019-01236-0",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "scarpelli-2022",
+		"authors": "Scarpelli MC, Nóbrega SR, Santanielo N, et al.",
+		"year": 2022,
+		"title": "Muscle hypertrophy response is affected by previous resistance training volume in trained individuals",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003558",
+		"chapters": [
+			"building-programs/08-volume-landmarks"
+		]
+	},
+	{
+		"id": "saric-2019",
+		"authors": "Saric J, Lisica D, Orlic I, et al.",
+		"year": 2019,
+		"title": "Resistance training frequencies of 3 and 6 times per week produce similar muscular adaptations in resistance-trained men",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002909",
+		"chapters": [
+			"building-programs/09-training-frequency",
+			"building-programs/12-sheiko-style-programming"
+		]
+	},
+	{
+		"id": "gomes-2019",
+		"authors": "Gomes GK, Franco CM, Nunes PRP, Orsatti FL",
+		"year": 2019,
+		"title": "High-frequency resistance training is not more effective than low-frequency resistance training in increasing muscle mass and strength in well-trained men",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002559",
+		"chapters": [
+			"building-programs/09-training-frequency"
+		]
+	},
+	{
+		"id": "zaroni-2019",
+		"authors": "Zaroni RS, Brigatto FA, Schoenfeld BJ, et al.",
+		"year": 2019,
+		"title": "High resistance-training frequency enhances muscle thickness in resistance-trained men",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002643",
+		"chapters": [
+			"building-programs/09-training-frequency"
+		]
+	},
+	{
+		"id": "schoenfeld-2019b",
+		"authors": "Schoenfeld BJ, Grgic J, Krieger J",
+		"year": 2019,
+		"title": "How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of studies examining the effects of resistance training frequency",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2018.1555906",
+		"chapters": [
+			"building-programs/09-training-frequency"
+		]
+	},
+	{
+		"id": "androulakis-korakakis-2018",
+		"authors": "Androulakis-Korakakis P, Fisher J, Kolokotronis P, et al.",
+		"year": 2018,
+		"title": "Reduced volume 'daily max' training compared to higher volume periodized training in powerlifters preparing for competition—a pilot study",
+		"journal": "Sports",
+		"doi": "10.3390/sports6030086",
+		"chapters": [
+			"building-programs/09-training-frequency"
+		]
+	},
+	{
+		"id": "pritchard-2016",
+		"authors": "Pritchard HJ, Tod DA, Barnes MJ, et al.",
+		"year": 2016,
+		"title": "Tapering practices of New Zealand's elite raw powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001292",
+		"chapters": [
+			"building-programs/09-training-frequency",
+			"building-programs/11-deloads-fatigue-management"
+		]
+	},
+	{
+		"id": "brechue-2002",
+		"authors": "Brechue WF, Abe T",
+		"year": 2002,
+		"title": "The role of FFM accumulation and skeletal muscle architecture in powerlifting performance",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-001-0543-7",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "ferland-2020",
+		"authors": "Ferland PM, Laurier A, Comtois AS",
+		"year": 2020,
+		"title": "Relationships between anthropometry and maximal strength in male classic powerlifters",
+		"journal": "International Journal of Exercise Science",
+		"doi": "10.70252/WKTF5547",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "balshaw-2017",
+		"authors": "Balshaw TG, Massey GJ, Maden-Wilkinson TM, et al.",
+		"year": 2017,
+		"title": "Changes in agonist neural drive, hypertrophy and pre-training strength all contribute to the individual strength gains after resistance training",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-017-3560-x",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "mattocks-2017",
+		"authors": "Mattocks KT, Buckner SL, Jessee MB, et al.",
+		"year": 2017,
+		"title": "Practicing the test produces strength equivalent to higher volume training",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0000000000001300",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "taber-2019",
+		"authors": "Taber CB, Vigotsky A, Nuckols G, Haun CT",
+		"year": 2019,
+		"title": "Exercise-induced myofibrillar hypertrophy is a contributory cause of gains in muscle strength",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-019-01107-8",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "loenneke-2019",
+		"authors": "Loenneke JP, Buckner SL, Dankel SJ, Abe T",
+		"year": 2019,
+		"title": "Exercise-induced changes in muscle size do not contribute to exercise-induced changes in muscle strength",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-019-01106-9",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "kubo-2021",
+		"authors": "Kubo K, Ikebukuro T, Yata H",
+		"year": 2021,
+		"title": "Effects of 4, 8, and 12 repetition maximum resistance training protocols on muscle volume and strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003575",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "refalo-2023",
+		"authors": "Refalo MC, Helms ER, Trexler ET, et al.",
+		"year": 2023,
+		"title": "Influence of resistance training proximity-to-failure on skeletal muscle hypertrophy: a systematic review with meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01784-y",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters"
+		]
+	},
+	{
+		"id": "robinson-2024",
+		"authors": "Robinson ZP, Pelland JC, Remmert JF, et al.",
+		"year": 2024,
+		"title": "Exploring the dose-response relationship between estimated resistance training proximity to failure, strength gain, and muscle hypertrophy: a series of meta-regressions",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-024-02069-2",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/11-deloads-fatigue-management",
+			"building-programs/12-sheiko-style-programming",
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "kubo-2019",
+		"authors": "Kubo K, Ikebukuro T, Yata H",
+		"year": 2019,
+		"title": "Effects of squat training with different depths on lower limb muscle volumes",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-019-04181-y",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "maeo-2021",
+		"authors": "Maeo S, Huang M, Wu Y, et al.",
+		"year": 2021,
+		"title": "Greater hamstrings muscle hypertrophy but similar damage protection after training at long versus short muscle lengths",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/MSS.0000000000002523",
+		"chapters": [
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "bell-2023",
+		"authors": "Bell L, Strafford BW, Coleman M, et al.",
+		"year": 2023,
+		"title": "Integrating deloading into strength and physique sports training programmes: an international Delphi consensus approach",
+		"journal": "Sports Medicine - Open",
+		"doi": "10.1186/s40798-023-00633-0",
+		"chapters": [
+			"building-programs/11-deloads-fatigue-management",
+			"building-programs/14-building-a-mesocycle"
+		]
+	},
+	{
+		"id": "bell-2022",
+		"authors": "Bell L, Nolan D, Immonen V, et al.",
+		"year": 2022,
+		"title": "\"You can't shoot another bullet until you've reloaded the gun\": coaches' perceptions, practices and experiences of deloading in strength and physique sports",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2022.1073223",
+		"chapters": [
+			"building-programs/11-deloads-fatigue-management"
+		]
+	},
+	{
+		"id": "coleman-2024",
+		"authors": "Coleman M, Burke R, Augustin F, et al.",
+		"year": 2024,
+		"title": "Gaining more from doing less? The effects of a one-week deload period during supervised resistance training on muscular adaptations",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.16777",
+		"chapters": [
+			"building-programs/11-deloads-fatigue-management",
+			"building-programs/14-building-a-mesocycle"
+		]
+	},
+	{
+		"id": "pritchard-2018",
+		"authors": "Pritchard HJ, Barnes MJ, Stewart RJ, et al.",
+		"year": 2018,
+		"title": "Short-term training cessation as a method of tapering to improve maximal strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001803",
+		"chapters": [
+			"building-programs/11-deloads-fatigue-management"
+		]
+	},
+	{
+		"id": "saw-2016",
+		"authors": "Saw AE, Main LC, Gastin PB",
+		"year": 2016,
+		"title": "Monitoring the athlete training response: subjective self-reported measures trump commonly used objective measures: a systematic review",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2015-094758",
+		"chapters": [
+			"building-programs/11-deloads-fatigue-management"
+		]
+	},
+	{
+		"id": "grandou-2020",
+		"authors": "Grandou C, Wallace L, Impellizzeri FM, et al.",
+		"year": 2020,
+		"title": "Overtraining in resistance exercise: an exploratory systematic review and methodological appraisal of the literature",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-019-01242-2",
+		"chapters": [
+			"building-programs/11-deloads-fatigue-management"
+		]
+	},
+	{
+		"id": "de-franca-2015",
+		"authors": "de França HS, Branco PA, Guedes Junior DP, et al.",
+		"year": 2015,
+		"title": "The effects of adding single-joint exercises to a multi-joint exercise resistance training program on upper body muscle strength and size in trained men",
+		"journal": "Applied Physiology, Nutrition, and Metabolism",
+		"doi": "10.1139/apnm-2015-0109",
+		"chapters": [
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "paoli-2017",
+		"authors": "Paoli A, Gentil P, Moro T, et al.",
+		"year": 2017,
+		"title": "Resistance training with single vs. multi-joint exercises at equal total load volume: effects on body composition, cardiorespiratory fitness, and muscle strength",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2017.01105",
+		"chapters": [
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "mannarino-2021",
+		"authors": "Mannarino P, Matta T, Lima J, et al.",
+		"year": 2021,
+		"title": "Single-joint exercise results in higher hypertrophy of elbow flexors than multijoint exercise",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003234",
+		"chapters": [
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "speirs-2016",
+		"authors": "Speirs DE, Bennett MA, Finn CV, Turner AP",
+		"year": 2016,
+		"title": "Unilateral vs. bilateral squat training for strength, sprints, and agility in academy rugby players",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001096",
+		"chapters": [
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "lauersen-2014",
+		"authors": "Lauersen JB, Bertelsen DM, Andersen LB",
+		"year": 2014,
+		"title": "The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2013-092538",
+		"chapters": [
+			"building-programs/13-programming-accessories"
+		]
+	},
+	{
+		"id": "androulakis-korakakis-2021",
+		"authors": "Androulakis-Korakakis P, Michalopoulos N, Fisher JP, et al.",
+		"year": 2021,
+		"title": "The minimum effective training dose required for 1RM strength in powerlifters",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2021.713655",
+		"chapters": [
+			"building-programs/13-programming-accessories"
 		]
 	}
 ]
