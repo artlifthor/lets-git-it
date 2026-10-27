@@ -84,7 +84,10 @@
 		"year": 2017,
 		"edition": null,
 		"category": "technique",
-		"chapters": []
+		"chapters": [
+			"technique-injury/02-squat-technique",
+			"technique-injury/08-mobility-movement-prep"
+		]
 	},
 	{
 		"id": "siff-2003",

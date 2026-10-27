@@ -639,7 +639,8 @@
 		"chapters": [
 			"foundations/08-exercise-selection",
 			"advanced/05-weak-point-analysis",
-			"advanced/06-special-exercises"
+			"advanced/06-special-exercises",
+			"technique-injury/02-squat-technique"
 		]
 	},
 	{
@@ -652,7 +653,8 @@
 		"chapters": [
 			"foundations/08-exercise-selection",
 			"advanced/05-weak-point-analysis",
-			"advanced/06-special-exercises"
+			"advanced/06-special-exercises",
+			"technique-injury/03-bench-press-technique"
 		]
 	},
 	{
@@ -767,7 +769,8 @@
 		"journal": "Scandinavian Journal of Medicine & Science in Sports",
 		"doi": "10.1111/j.1600-0838.2012.01444.x",
 		"chapters": [
-			"foundations/09-session-structure-warm-ups"
+			"foundations/09-session-structure-warm-ups",
+			"technique-injury/08-mobility-movement-prep"
 		]
 	},
 	{
@@ -789,7 +792,8 @@
 		"journal": "Applied Physiology, Nutrition, and Metabolism",
 		"doi": "10.1139/apnm-2015-0235",
 		"chapters": [
-			"foundations/09-session-structure-warm-ups"
+			"foundations/09-session-structure-warm-ups",
+			"technique-injury/08-mobility-movement-prep"
 		]
 	},
 	{
@@ -812,7 +816,8 @@
 		"doi": "10.3389/fphys.2019.00376",
 		"chapters": [
 			"foundations/09-session-structure-warm-ups",
-			"foundations/10-recovery-sleep-stress"
+			"foundations/10-recovery-sleep-stress",
+			"technique-injury/08-mobility-movement-prep"
 		]
 	},
 	{
@@ -1538,7 +1543,8 @@
 		"doi": "10.1007/s40279-015-0460-2",
 		"chapters": [
 			"building-programs/01-assessing-the-lifter",
-			"advanced/05-weak-point-analysis"
+			"advanced/05-weak-point-analysis",
+			"technique-injury/01-biomechanics-basics"
 		]
 	},
 	{
@@ -1549,7 +1555,9 @@
 		"journal": "British Journal of Sports Medicine",
 		"doi": "10.1136/bjsports-2016-096037",
 		"chapters": [
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"technique-injury/06-planes-of-motion",
+			"technique-injury/09-pain-and-injuries"
 		]
 	},
 	{
@@ -1560,7 +1568,8 @@
 		"journal": "International Journal of Sports Medicine",
 		"doi": "10.1055/s-0031-1277207",
 		"chapters": [
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"technique-injury/09-pain-and-injuries"
 		]
 	},
 	{
@@ -1571,7 +1580,10 @@
 		"journal": "Orthopaedic Journal of Sports Medicine",
 		"doi": "10.1177/2325967118771016",
 		"chapters": [
-			"building-programs/01-assessing-the-lifter"
+			"building-programs/01-assessing-the-lifter",
+			"technique-injury/06-planes-of-motion",
+			"technique-injury/09-pain-and-injuries",
+			"technique-injury/10-programming-around-injury"
 		]
 	},
 	{
@@ -2107,7 +2119,8 @@
 		"journal": "International Journal of Exercise Science",
 		"doi": "10.70252/WKTF5547",
 		"chapters": [
-			"building-programs/10-hypertrophy-for-powerlifters"
+			"building-programs/10-hypertrophy-for-powerlifters",
+			"technique-injury/01-biomechanics-basics"
 		]
 	},
 	{
@@ -2200,7 +2213,9 @@
 		"doi": "10.1007/s00421-019-04181-y",
 		"chapters": [
 			"building-programs/10-hypertrophy-for-powerlifters",
-			"building-programs/13-programming-accessories"
+			"building-programs/13-programming-accessories",
+			"technique-injury/02-squat-technique",
+			"technique-injury/06-planes-of-motion"
 		]
 	},
 	{
@@ -2329,7 +2344,8 @@
 		"doi": "10.1519/JSC.0000000000001096",
 		"chapters": [
 			"building-programs/13-programming-accessories",
-			"advanced/06-special-exercises"
+			"advanced/06-special-exercises",
+			"technique-injury/06-planes-of-motion"
 		]
 	},
 	{
@@ -2340,7 +2356,8 @@
 		"journal": "British Journal of Sports Medicine",
 		"doi": "10.1136/bjsports-2013-092538",
 		"chapters": [
-			"building-programs/13-programming-accessories"
+			"building-programs/13-programming-accessories",
+			"technique-injury/09-pain-and-injuries"
 		]
 	},
 	{
@@ -2788,7 +2805,9 @@
 		"journal": "Sports Medicine",
 		"doi": "10.1007/s40279-016-0615-9",
 		"chapters": [
-			"advanced/05-weak-point-analysis"
+			"advanced/05-weak-point-analysis",
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/07-sticking-points"
 		]
 	},
 	{
@@ -2800,7 +2819,9 @@
 		"doi": "10.1080/02640411003628022",
 		"chapters": [
 			"advanced/05-weak-point-analysis",
-			"advanced/06-special-exercises"
+			"advanced/06-special-exercises",
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/07-sticking-points"
 		]
 	},
 	{
@@ -2811,7 +2832,8 @@
 		"journal": "Journal of Human Kinetics",
 		"doi": "10.2478/hukin-2014-0061",
 		"chapters": [
-			"advanced/05-weak-point-analysis"
+			"advanced/05-weak-point-analysis",
+			"technique-injury/07-sticking-points"
 		]
 	},
 	{
@@ -2822,7 +2844,9 @@
 		"journal": "Frontiers in Sports and Active Living",
 		"doi": "10.3389/fspor.2021.691459",
 		"chapters": [
-			"advanced/05-weak-point-analysis"
+			"advanced/05-weak-point-analysis",
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/07-sticking-points"
 		]
 	},
 	{
@@ -2833,7 +2857,8 @@
 		"journal": "Frontiers in Sports and Active Living",
 		"doi": "10.3389/fspor.2020.604177",
 		"chapters": [
-			"advanced/05-weak-point-analysis"
+			"advanced/05-weak-point-analysis",
+			"technique-injury/02-squat-technique"
 		]
 	},
 	{
@@ -2856,7 +2881,10 @@
 		"doi": "10.1097/00005768-200007000-00013",
 		"chapters": [
 			"advanced/05-weak-point-analysis",
-			"advanced/06-special-exercises"
+			"advanced/06-special-exercises",
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/04-deadlift-technique",
+			"technique-injury/07-sticking-points"
 		]
 	},
 	{
@@ -2922,7 +2950,8 @@
 		"journal": "Journal of Strength and Conditioning Research",
 		"doi": "10.1519/JSC.0b013e31818546bb",
 		"chapters": [
-			"advanced/06-special-exercises"
+			"advanced/06-special-exercises",
+			"technique-injury/02-squat-technique"
 		]
 	},
 	{
@@ -4062,6 +4091,1499 @@
 		"doi": "10.1080/02701367.2026.2635723",
 		"chapters": [
 			"peaking/08-after-the-meet"
+		]
+	},
+	{
+		"id": "hill-1938",
+		"authors": "Hill AV",
+		"year": 1938,
+		"title": "The heat of shortening and the dynamic constants of muscle",
+		"journal": "Proceedings of the Royal Society of London. Series B",
+		"doi": "10.1098/rspb.1938.0050",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "gordon-1966",
+		"authors": "Gordon AM, Huxley AF, Julian FJ",
+		"year": 1966,
+		"title": "The variation in isometric tension with sarcomere length in vertebrate muscle fibres",
+		"journal": "The Journal of Physiology",
+		"doi": "10.1113/jphysiol.1966.sp007909",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "wilson-1991",
+		"authors": "Wilson GJ, Elliott BC, Wood GA",
+		"year": 1991,
+		"title": "The effect on performance of imposing a delay during a stretch-shorten cycle movement",
+		"journal": "Medicine and Science in Sports and Exercise",
+		"doi": "10.1249/00005768-199103000-00016",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "fry-2003",
+		"authors": "Fry AC, Smith JC, Schilling BK",
+		"year": 2003,
+		"title": "Effect of knee position on hip and knee torques during the barbell squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/00124278-200311000-00001",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "lorenzetti-2012",
+		"authors": "Lorenzetti S, Gülay T, Stoop M, et al.",
+		"year": 2012,
+		"title": "Comparison of the angles and corresponding moments in the knee and hip during restricted and unrestricted squats",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e318267918b",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "swinton-2012",
+		"authors": "Swinton PA, Lloyd R, Keogh JWL, et al.",
+		"year": 2012,
+		"title": "A biomechanical comparison of the traditional squat, powerlifting squat, and box squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3182577067",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "swinton-2011",
+		"authors": "Swinton PA, Stewart A, Agouris I, et al.",
+		"year": 2011,
+		"title": "A biomechanical analysis of straight and hexagonal barbell deadlifts using submaximal loads",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181e73f87",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "gomo-2016",
+		"authors": "Gomo O, van den Tillaar R",
+		"year": 2016,
+		"title": "The effects of grip width on sticking region in bench press",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2015.1046395",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "wretenberg-1996",
+		"authors": "Wretenberg P, Feng Y, Arborelius UP",
+		"year": 1996,
+		"title": "High- and low-bar squatting techniques during weight-training",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-199602000-00010",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "bryanton-2012",
+		"authors": "Bryanton MA, Kennedy MD, Carey JP, Chiu LZ",
+		"year": 2012,
+		"title": "Effect of squat depth and barbell load on relative muscular effort in squatting",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31826791a7",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/02-squat-technique",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "mausehund-2023",
+		"authors": "Mausehund L, Krosshaug T",
+		"year": 2023,
+		"title": "Understanding bench press biomechanics—training expertise and sex affect lifting technique and net joint moments",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004191",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "larsen-2021c",
+		"authors": "Larsen S, Gomo O, van den Tillaar R",
+		"year": 2021,
+		"title": "A biomechanical analysis of wide, medium, and narrow grip width effects on kinematics, horizontal kinetics, and muscle activity on the sticking region in recreationally trained males during 1-RM bench pressing",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2020.637066",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/05-technical-faults",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "cholewicki-1991",
+		"authors": "Cholewicki J, McGill SM, Norman RW",
+		"year": 1991,
+		"title": "Lumbar spine loads during the lifting of extremely heavy weights",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-199110000-00012",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "caruso-2012",
+		"authors": "Caruso JF, Taylor ST, Lutz BM, et al.",
+		"year": 2012,
+		"title": "Anthropometry as a predictor of bench press performance done at different loads",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e31823c44bb",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "vigotsky-2019",
+		"authors": "Vigotsky AD, Bryanton MA, Nuckols G, et al.",
+		"year": 2019,
+		"title": "Biomechanical, anthropometric, and psychological determinants of barbell back squat strength",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002535",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "van-every-2022",
+		"authors": "Van Every DW, Coleman M, Plotkin DL, et al.",
+		"year": 2022,
+		"title": "Biomechanical, anthropometric and psychological determinants of barbell bench press strength",
+		"journal": "Sports",
+		"doi": "10.3390/sports10120199",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "spence-2023",
+		"authors": "Spence AJ, Helms ER, Sousa CA, McGuigan MR",
+		"year": 2023,
+		"title": "Range of motion predicts performance in national-level New Zealand male powerlifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004205",
+		"chapters": [
+			"technique-injury/01-biomechanics-basics"
+		]
+	},
+	{
+		"id": "glassbrook-2017",
+		"authors": "Glassbrook DJ, Helms ER, Brown SR, Storey AG",
+		"year": 2017,
+		"title": "A review of the biomechanical differences between the high-bar and low-bar back-squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002007",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "glassbrook-2019",
+		"authors": "Glassbrook DJ, Brown SR, Helms ER, et al.",
+		"year": 2019,
+		"title": "The high-bar and low-bar back-squats: a biomechanical analysis",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001836",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "larsen-2024",
+		"authors": "Larsen S, de Zee M, Kristiansen EL, van den Tillaar R",
+		"year": 2024,
+		"title": "A biomechanical comparison between a high and low barbell placement on net joint moments, kinematics, muscle forces, and muscle-specific moments in 3 repetition maximum back squats",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004790",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "kristiansen-2021",
+		"authors": "Kristiansen E, Larsen S, Haugen ME, et al.",
+		"year": 2021,
+		"title": "A biomechanical comparison of the safety-bar, high-bar and low-bar squat around the sticking region among recreationally resistance-trained men and women",
+		"journal": "International Journal of Environmental Research and Public Health",
+		"doi": "10.3390/ijerph18168351",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "murawa-2020",
+		"authors": "Murawa M, Fryzowicz A, Kabacinski J, et al.",
+		"year": 2020,
+		"title": "Muscle activation varies between high-bar and low-bar back squat",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.9256",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "mccaw-1999",
+		"authors": "McCaw ST, Melrose DR",
+		"year": 1999,
+		"title": "Stance width and bar load effects on leg muscle activity during the parallel squat",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-199903000-00012",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "escamilla-2001c",
+		"authors": "Escamilla RF, Fleisig GS, Zheng N, et al.",
+		"year": 2001,
+		"title": "Effects of technique variations on knee biomechanics during the squat and leg press",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-200109000-00020",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "escamilla-2001b",
+		"authors": "Escamilla RF",
+		"year": 2001,
+		"title": "Knee biomechanics of the dynamic squat exercise",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-200101000-00020",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "hartmann-2013",
+		"authors": "Hartmann H, Wirth K, Klusemann M",
+		"year": 2013,
+		"title": "Analysis of the load on the knee joint and vertebral column with changes in squatting depth and weight load",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-013-0073-6",
+		"chapters": [
+			"technique-injury/02-squat-technique",
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "list-2013",
+		"authors": "List R, Gülay T, Stoop M, Lorenzetti S",
+		"year": 2013,
+		"title": "Kinematics of the trunk and the lower extremities during restricted and unrestricted squats",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3182736034",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "blazek-2019",
+		"authors": "Blazek D, Stastny P, Maszczyk A, et al.",
+		"year": 2019,
+		"title": "Systematic review of intra-abdominal and intrathoracic pressures initiated by the Valsalva manoeuvre during high-intensity resistance exercises",
+		"journal": "Biology of Sport",
+		"doi": "10.5114/biolsport.2019.88759",
+		"chapters": [
+			"technique-injury/02-squat-technique",
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "legg-2017",
+		"authors": "Legg HS, Glaister M, Cleather DJ, Goodwin JE",
+		"year": 2017,
+		"title": "The effect of weightlifting shoes on the kinetics and kinematics of the back squat",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2016.1175652",
+		"chapters": [
+			"technique-injury/02-squat-technique",
+			"technique-injury/08-mobility-movement-prep",
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "yavuz-2015",
+		"authors": "Yavuz HU, Erdağ D, Amca AM, Aritan S",
+		"year": 2015,
+		"title": "Kinematic and EMG activities during front and back squat variations in maximum loads",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2014.984240",
+		"chapters": [
+			"technique-injury/02-squat-technique"
+		]
+	},
+	{
+		"id": "noteboom-2024",
+		"authors": "Noteboom L, Belli I, Hoozemans MJM, et al.",
+		"year": 2024,
+		"title": "Effects of bench press technique variations on musculoskeletal shoulder loads and potential injury risk",
+		"journal": "Frontiers in Physiology",
+		"doi": "10.3389/fphys.2024.1393235",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "cudlip-2022",
+		"authors": "Cudlip AC, Maciukiewicz JM, Pinto BL, Dickerson CR",
+		"year": 2022,
+		"title": "Upper extremity muscle activity and joint loading changes between the standard and powerlifting bench press techniques",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2022.2046937",
+		"chapters": [
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "saeterbakken-2017",
+		"authors": "Saeterbakken AH, Mo DA, Scott S, Andersen V",
+		"year": 2017,
+		"title": "The effects of bench press variations in competitive athletes on muscle activity and performance",
+		"journal": "Journal of Human Kinetics",
+		"doi": "10.1515/hukin-2017-0047",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "saeterbakken-2021",
+		"authors": "Saeterbakken AH, Stien N, Pedersen H, et al.",
+		"year": 2021,
+		"title": "The effect of grip width on muscle strength and electromyographic activity in bench press among novice- and resistance-trained men",
+		"journal": "International Journal of Environmental Research and Public Health",
+		"doi": "10.3390/ijerph18126444",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "lockie-2017",
+		"authors": "Lockie RG, Callaghan SJ, Moreno MR, et al.",
+		"year": 2017,
+		"title": "An investigation of the mechanics and sticking region of a one-repetition maximum close-grip bench press versus the traditional bench press",
+		"journal": "Sports",
+		"doi": "10.3390/sports5030046",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "lehman-2005",
+		"authors": "Lehman GJ",
+		"year": 2005,
+		"title": "The influence of grip width and forearm pronation/supination on upper-body myoelectric activity during the flat bench press",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-15024.1",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "madsen-1984",
+		"authors": "Madsen N, McLaughlin T",
+		"year": 1984,
+		"title": "Kinematic factors influencing performance and injury risk in the bench press exercise",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-198408000-00010",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "duffey-2007",
+		"authors": "Duffey MJ, Challis JH",
+		"year": 2007,
+		"title": "Fatigue effects on bar kinematics during the bench press",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-19885.1",
+		"chapters": [
+			"technique-injury/03-bench-press-technique",
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "pallares-2014",
+		"authors": "Pallarés JG, Sánchez-Medina L, Pérez CE, et al.",
+		"year": 2014,
+		"title": "Imposing a pause between the eccentric and concentric phases increases the reliability of isoinertial strength assessments",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2014.889844",
+		"chapters": [
+			"technique-injury/03-bench-press-technique"
+		]
+	},
+	{
+		"id": "escamilla-2002",
+		"authors": "Escamilla RF, Francisco AC, Kayes AV, et al.",
+		"year": 2002,
+		"title": "An electromyographic analysis of sumo and conventional style deadlifts",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-200204000-00019",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "escamilla-2001",
+		"authors": "Escamilla RF, Lowry TM, Osbahr DC, Speer KP",
+		"year": 2001,
+		"title": "Biomechanical analysis of the deadlift during the 1999 Special Olympics World Games",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1097/00005768-200108000-00016",
+		"chapters": [
+			"technique-injury/04-deadlift-technique",
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "cholewicki-1992",
+		"authors": "Cholewicki J, McGill SM",
+		"year": 1992,
+		"title": "Lumbar posterior ligament involvement during extremely heavy lifts estimated from fluoroscopic measurements",
+		"journal": "Journal of Biomechanics",
+		"doi": "10.1016/0021-9290(92)90242-s",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "hanen-2025",
+		"authors": "Hanen NC, Ben Mansour K, Ertel GN, et al.",
+		"year": 2025,
+		"title": "Biomechanical analysis of conventional and sumo deadlift",
+		"journal": "Frontiers in Bioengineering and Biotechnology",
+		"doi": "10.3389/fbioe.2025.1597209",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "gundersen-2025",
+		"authors": "Gundersen AH, van den Tillaar R, Falch HN, et al.",
+		"year": 2025,
+		"title": "A biomechanical comparison between conventional, sumo, and hex-bar deadlifts among resistance trained women",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000005011",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "kasovic-2019",
+		"authors": "Kasovic J, Martin B, Fahs CA",
+		"year": 2019,
+		"title": "Kinematic differences between the front and back squat and conventional and sumo deadlift",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003377",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "hales-2009",
+		"authors": "Hales ME, Johnson BF, Johnson JT",
+		"year": 2009,
+		"title": "Kinematic analysis of the powerlifting style squat and the conventional deadlift during competition: is there a cross-over effect between lifts?",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3181bc1d2a",
+		"chapters": [
+			"technique-injury/04-deadlift-technique",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "keith-2023",
+		"authors": "Keith DS, Scherrer D, Nunley B, et al.",
+		"year": 2023,
+		"title": "Anthropometric predictors of conventional deadlift kinematics and kinetics: a preliminary study",
+		"journal": "International Journal of Exercise Science",
+		"doi": "10.70252/CVQH8240",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "edington-2018",
+		"authors": "Edington C, Greening C, Kmet N, et al.",
+		"year": 2018,
+		"title": "The effect of set up position on EMG amplitude, lumbar spine kinetics, and total force output during maximal isometric conventional-stance deadlifts",
+		"journal": "Sports",
+		"doi": "10.3390/sports6030090",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "shoji-2025",
+		"authors": "Shoji K, Nakayama K, Shiouchi M, Manabe Y",
+		"year": 2025,
+		"title": "Load-dependent increase in lumbar kyphosis is associated with posterior pelvic tilt during deadlift",
+		"journal": "Frontiers in Sports and Active Living",
+		"doi": "10.3389/fspor.2025.1682991",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "saraceni-2020",
+		"authors": "Saraceni N, Kent P, Ng L, et al.",
+		"year": 2020,
+		"title": "To flex or not to flex? Is there a relationship between lumbar spine flexion during lifting and low back pain? A systematic review with meta-analysis",
+		"journal": "Journal of Orthopaedic & Sports Physical Therapy",
+		"doi": "10.2519/jospt.2020.9218",
+		"chapters": [
+			"technique-injury/04-deadlift-technique",
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "pratt-2020",
+		"authors": "Pratt J, Hoffman A, Grainger A, Ditroilo M",
+		"year": 2020,
+		"title": "Forearm electromyographic activity during the deadlift exercise is affected by grip type and sex",
+		"journal": "Journal of Electromyography and Kinesiology",
+		"doi": "10.1016/j.jelekin.2020.102428",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "kapicioglu-2021",
+		"authors": "Kapicioglu M, Bilgin E, Guven N, et al.",
+		"year": 2021,
+		"title": "The role of deadlifts in distal biceps brachii tendon ruptures: an alternative mechanism described with YouTube videos",
+		"journal": "Orthopaedic Journal of Sports Medicine",
+		"doi": "10.1177/2325967121991811",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "valenzuela-2021",
+		"authors": "Valenzuela KA, Walters KA, Avila EL, et al.",
+		"year": 2021,
+		"title": "Footwear affects conventional and sumo deadlift performance",
+		"journal": "Sports",
+		"doi": "10.3390/sports9020027",
+		"chapters": [
+			"technique-injury/04-deadlift-technique"
+		]
+	},
+	{
+		"id": "bakhshinejad-2025",
+		"authors": "Bakhshinejad JA, Ramer JD, Dunsmore KA, et al.",
+		"year": 2025,
+		"title": "Effects of intensity and fatigue on the kinetics and kinematics of the barbell squat, bench press, and deadlift in experienced lifters: a systematic review",
+		"journal": "Sports Medicine – Open",
+		"doi": "10.1186/s40798-025-00921-x",
+		"chapters": [
+			"technique-injury/05-technical-faults",
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "weakley-2023",
+		"authors": "Weakley J, Cowley N, Schoenfeld BJ, et al.",
+		"year": 2023,
+		"title": "The effect of feedback on resistance training performance and adaptations: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-023-01877-2",
+		"chapters": [
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "grgic-2021",
+		"authors": "Grgic J, Mikulic I, Mikulic P",
+		"year": 2021,
+		"title": "Acute and long-term effects of attentional focus strategies on muscular strength: a meta-analysis",
+		"journal": "Sports",
+		"doi": "10.3390/sports9110153",
+		"chapters": [
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "hebling-campos-2017",
+		"authors": "Hebling Campos M, Furtado Alaman LI, Seffrin-Neto AA, et al.",
+		"year": 2017,
+		"title": "The geometric curvature of the lumbar spine during restricted and unrestricted squats",
+		"journal": "Journal of Sports Medicine and Physical Fitness",
+		"doi": "10.23736/S0022-4707.16.06184-3",
+		"chapters": [
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "charlton-2017",
+		"authors": "Charlton JM, Hammond CA, Cochrane CK, et al.",
+		"year": 2017,
+		"title": "The effects of a heel wedge on hip, pelvis and trunk biomechanics during squatting in resistance trained individuals",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001655",
+		"chapters": [
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "reece-2020",
+		"authors": "Reece MB, Arnold GP, Nasir S, et al.",
+		"year": 2020,
+		"title": "Barbell back squat: how do resistance bands affect muscle activation and knee kinematics?",
+		"journal": "BMJ Open Sport & Exercise Medicine",
+		"doi": "10.1136/bmjsem-2019-000610",
+		"chapters": [
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "bartolomei-2024",
+		"authors": "Bartolomei S, Caroli E, Coloretti V, et al.",
+		"year": 2024,
+		"title": "Flat-back vs. arched-back bench press: examining the different techniques performed by power athletes",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004778",
+		"chapters": [
+			"technique-injury/05-technical-faults"
+		]
+	},
+	{
+		"id": "neumann-2010",
+		"authors": "Neumann DA",
+		"year": 2010,
+		"title": "Kinesiology of the hip: a focus on muscular actions",
+		"journal": "Journal of Orthopaedic & Sports Physical Therapy",
+		"doi": "10.2519/jospt.2010.3025",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "liao-2022",
+		"authors": "Liao KF, Nassis GP, Bishop C, et al.",
+		"year": 2022,
+		"title": "Effects of unilateral vs. bilateral resistance training interventions on measures of strength, jump, linear and change of direction speed: a systematic review and meta-analysis",
+		"journal": "Biology of Sport",
+		"doi": "10.5114/biolsport.2022.107024",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "appleby-2019",
+		"authors": "Appleby BB, Cormack SJ, Newton RU",
+		"year": 2019,
+		"title": "Specificity and transfer of lower-body strength: influence of bilateral or unilateral lower-body resistance training",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000002923",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "mccurdy-2005",
+		"authors": "McCurdy KW, Langford GA, Doscher MW, et al.",
+		"year": 2005,
+		"title": "The effects of short-term unilateral and bilateral lower-body resistance training on measures of strength and power",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/14173.1",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "eliassen-2018",
+		"authors": "Eliassen W, Saeterbakken AH, van den Tillaar R",
+		"year": 2018,
+		"title": "Comparison of bilateral and unilateral squat exercises on barbell kinematics and muscle activation",
+		"journal": "International Journal of Sports Physical Therapy",
+		"doi": "10.26603/ijspt20180871",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "bishop-2018",
+		"authors": "Bishop C, Turner A, Read P",
+		"year": 2018,
+		"title": "Effects of inter-limb asymmetries on physical and sports performance: a systematic review",
+		"journal": "Journal of Sports Sciences",
+		"doi": "10.1080/02640414.2017.1361894",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "flanagan-2007",
+		"authors": "Flanagan SP, Salem GJ",
+		"year": 2007,
+		"title": "Bilateral differences in the net joint torques during the squat exercise",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/R-21156.1",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "sato-2012",
+		"authors": "Sato K, Heise GD",
+		"year": 2012,
+		"title": "Influence of weight distribution asymmetry on the biomechanics of a barbell back squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e318220e0a3",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "lynch-2023",
+		"authors": "Lynch AE, Davies RW, Allardyce JM, Carson BP",
+		"year": 2023,
+		"title": "The effect of unilateral versus bilateral strength training on isometric-squat peak force and interlimb asymmetry in young, recreationally strength-trained men",
+		"journal": "International Journal of Sports Physiology and Performance",
+		"doi": "10.1123/ijspp.2022-0299",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "dix-2019",
+		"authors": "Dix J, Marsh S, Dingenen B, Malliaras P",
+		"year": 2019,
+		"title": "The relationship between hip muscle strength and dynamic knee valgus in asymptomatic females: a systematic review",
+		"journal": "Physical Therapy in Sport",
+		"doi": "10.1016/j.ptsp.2018.05.015",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "lima-2018",
+		"authors": "Lima YL, Ferreira VMLM, de Paula Lima PO, et al.",
+		"year": 2018,
+		"title": "The association of ankle dorsiflexion and dynamic knee valgus: a systematic review and meta-analysis",
+		"journal": "Physical Therapy in Sport",
+		"doi": "10.1016/j.ptsp.2017.07.003",
+		"chapters": [
+			"technique-injury/06-planes-of-motion",
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "herman-2008",
+		"authors": "Herman DC, Weinhold PS, Guskiewicz KM, et al.",
+		"year": 2008,
+		"title": "The effects of strength training on the lower extremity biomechanics of female recreational athletes during a stop-jump task",
+		"journal": "American Journal of Sports Medicine",
+		"doi": "10.1177/0363546507311602",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "sahabuddin-2021",
+		"authors": "Sahabuddin FNA, Jamaludin NI, Amir NH, Shaharudin S",
+		"year": 2021,
+		"title": "The effects of hip- and ankle-focused exercise intervention on dynamic knee valgus: a systematic review",
+		"journal": "PeerJ",
+		"doi": "10.7717/peerj.11731",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "distefano-2009",
+		"authors": "Distefano LJ, Blackburn JT, Marshall SW, Padua DA",
+		"year": 2009,
+		"title": "Gluteal muscle activation during common therapeutic exercises",
+		"journal": "Journal of Orthopaedic & Sports Physical Therapy",
+		"doi": "10.2519/jospt.2009.2796",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "ishoi-2016",
+		"authors": "Ishøi L, Sørensen CN, Kaae NM, et al.",
+		"year": 2016,
+		"title": "Large eccentric strength increase using the Copenhagen Adduction exercise in football: a randomized controlled trial",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.12585",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "haroy-2019",
+		"authors": "Harøy J, Clarsen B, Wiger EG, et al.",
+		"year": 2019,
+		"title": "The Adductor Strengthening Programme prevents groin problems among male football players: a cluster-randomised controlled trial",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2017-098937",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "andersson-2017",
+		"authors": "Andersson SH, Bahr R, Clarsen B, Myklebust G",
+		"year": 2017,
+		"title": "Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2016-096226",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "achenbach-2022",
+		"authors": "Achenbach L, Huppertz G, Zeman F, et al.",
+		"year": 2022,
+		"title": "Multicomponent stretching and rubber band strengthening exercises do not reduce overuse shoulder injuries: a cluster randomised controlled trial with 579 handball athletes",
+		"journal": "BMJ Open Sport & Exercise Medicine",
+		"doi": "10.1136/bmjsem-2021-001270",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "reed-2012",
+		"authors": "Reed CA, Ford KR, Myer GD, Hewett TE",
+		"year": 2012,
+		"title": "The effects of isolated and integrated 'core stability' training on athletic performance measures: a systematic review",
+		"journal": "Sports Medicine",
+		"doi": "10.2165/11633450-000000000-00000",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "mcgill-2009",
+		"authors": "McGill SM, McDermott A, Fenwick CM",
+		"year": 2009,
+		"title": "Comparison of different strongman events: trunk muscle activation and lumbar spine motion, load, and stiffness",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e318198f8f7",
+		"chapters": [
+			"technique-injury/06-planes-of-motion"
+		]
+	},
+	{
+		"id": "larsen-2022",
+		"authors": "Larsen S, Haugen M, van den Tillaar R",
+		"year": 2022,
+		"title": "Comparison of kinematics and electromyographic activity in the last repetition during different repetition maximums in the bench press exercise",
+		"journal": "International Journal of Environmental Research and Public Health",
+		"doi": "10.3390/ijerph192114238",
+		"chapters": [
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "andersen-2026",
+		"authors": "Andersen V, Petushek EJ, Saeterbakken AH, et al.",
+		"year": 2026,
+		"title": "Squat performance in elite powerlifters: biomechanical analyses of maximal and near maximal lifts",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000005532",
+		"chapters": [
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "purzel-2025",
+		"authors": "Pürzel A, Kaufmann P, Koller W, et al.",
+		"year": 2025,
+		"title": "Muscle force dynamics across increasing squat intensity conditions in elite powerlifters",
+		"journal": "Scandinavian Journal of Medicine & Science in Sports",
+		"doi": "10.1111/sms.70058",
+		"chapters": [
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "flanagan-2015",
+		"authors": "Flanagan SP, Kulik JB, Salem GJ",
+		"year": 2015,
+		"title": "The limiting joint during a failed squat: a biomechanics case series",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000000979",
+		"chapters": [
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "elliott-1989",
+		"authors": "Elliott BC, Wilson GJ, Kerr GK",
+		"year": 1989,
+		"title": "A biomechanical analysis of the sticking region in the bench press",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-198908000-00018",
+		"chapters": [
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "evangelista-2025",
+		"authors": "Evangelista P, Rum L, Picerno P, Biscarini A",
+		"year": 2025,
+		"title": "Decoding the contribution of shoulder and elbow mechanics to barbell kinematics and the sticking region in bench and overhead press exercises: a link-chain model with single- and two-joint muscles",
+		"journal": "Journal of Functional Morphology and Kinesiology",
+		"doi": "10.3390/jfmk10030322",
+		"chapters": [
+			"technique-injury/07-sticking-points"
+		]
+	},
+	{
+		"id": "weppler-2010",
+		"authors": "Weppler CH, Magnusson SP",
+		"year": 2010,
+		"title": "Increasing muscle extensibility: a matter of increasing length or modifying sensation?",
+		"journal": "Physical Therapy",
+		"doi": "10.2522/ptj.20090012",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "opplert-2018",
+		"authors": "Opplert J, Babault N",
+		"year": 2018,
+		"title": "Acute effects of dynamic stretching on muscle flexibility and performance: an analysis of the current literature",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-017-0797-9",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "warneke-2024",
+		"authors": "Warneke K, Lohmann LH, Behm DG, et al.",
+		"year": 2024,
+		"title": "Effects of chronic static stretching on maximal strength and muscle hypertrophy: a systematic review and meta-analysis with meta-regression",
+		"journal": "Sports Medicine - Open",
+		"doi": "10.1186/s40798-024-00706-8",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "konrad-2022",
+		"authors": "Konrad A, Nakamura M, Tilp M, et al.",
+		"year": 2022,
+		"title": "Foam rolling training effects on range of motion: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01699-8",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "konrad-2024",
+		"authors": "Konrad A, Alizadeh S, Anvar SH, et al.",
+		"year": 2024,
+		"title": "Static stretch training versus foam rolling training effects on range of motion: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-024-02041-0",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "alizadeh-2023",
+		"authors": "Alizadeh S, Daneshjoo A, Zahiri A, et al.",
+		"year": 2023,
+		"title": "Resistance training induces improvements in range of motion: a systematic review and meta-analysis",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-022-01804-x",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "afonso-2021",
+		"authors": "Afonso J, Ramirez-Campillo R, Moscão J, et al.",
+		"year": 2021,
+		"title": "Strength training versus stretching for improving range of motion: a systematic review and meta-analysis",
+		"journal": "Healthcare",
+		"doi": "10.3390/healthcare9040427",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "kim-2015",
+		"authors": "Kim SH, Kwon OY, Park KN, et al.",
+		"year": 2015,
+		"title": "Lower extremity strength and the range of motion in relation to squat depth",
+		"journal": "Journal of Human Kinetics",
+		"doi": "10.1515/hukin-2015-0007",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "macrum-2012",
+		"authors": "Macrum E, Bell DR, Boling M, et al.",
+		"year": 2012,
+		"title": "Effect of limiting ankle-dorsiflexion range of motion on lower extremity kinematics and muscle-activation patterns during a squat",
+		"journal": "Journal of Sport Rehabilitation",
+		"doi": "10.1123/jsr.21.2.144",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "lee-2019",
+		"authors": "Lee SP, Gillis CB, Ibarra JJ, et al.",
+		"year": 2019,
+		"title": "Heel-raised foot posture does not affect trunk and lower extremity biomechanics during a barbell back squat in recreational weight lifters",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000001938",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "moran-2017",
+		"authors": "Moran RW, Schneiders AG, Mason J, Sullivan SJ",
+		"year": 2017,
+		"title": "Do Functional Movement Screen (FMS) composite scores predict subsequent injury? A systematic review with meta-analysis",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2016-096938",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "powden-2015",
+		"authors": "Powden CJ, Hoch JM, Hoch MC",
+		"year": 2015,
+		"title": "Reliability and minimal detectable change of the weight-bearing lunge test: a systematic review",
+		"journal": "Manual Therapy",
+		"doi": "10.1016/j.math.2015.01.004",
+		"chapters": [
+			"technique-injury/08-mobility-movement-prep"
+		]
+	},
+	{
+		"id": "keogh-2017",
+		"authors": "Keogh JWL, Winwood PW",
+		"year": 2017,
+		"title": "The epidemiology of injuries across the weight-training sports",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-016-0575-0",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "raske-2002",
+		"authors": "Raske Å, Norlin R",
+		"year": 2002,
+		"title": "Injury incidence and prevalence among elite weight and power lifters",
+		"journal": "American Journal of Sports Medicine",
+		"doi": "10.1177/03635465020300021701",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "bengtsson-2018",
+		"authors": "Bengtsson V, Berglund L, Aasa U",
+		"year": 2018,
+		"title": "Narrative review of injuries in powerlifting with special reference to their association to the squat, bench press and deadlift",
+		"journal": "BMJ Open Sport & Exercise Medicine",
+		"doi": "10.1136/bmjsem-2018-000382",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "raja-2020",
+		"authors": "Raja SN, Carr DB, Cohen M, et al.",
+		"year": 2020,
+		"title": "The revised International Association for the Study of Pain definition of pain: concepts, challenges, and compromises",
+		"journal": "Pain",
+		"doi": "10.1097/j.pain.0000000000001939",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "woolf-2011",
+		"authors": "Woolf CJ",
+		"year": 2011,
+		"title": "Central sensitization: implications for the diagnosis and treatment of pain",
+		"journal": "Pain",
+		"doi": "10.1016/j.pain.2010.09.030",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "moseley-2015",
+		"authors": "Moseley GL, Butler DS",
+		"year": 2015,
+		"title": "Fifteen years of explaining pain: the past, present, and future",
+		"journal": "Journal of Pain",
+		"doi": "10.1016/j.jpain.2015.05.005",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "louw-2016",
+		"authors": "Louw A, Zimney K, Puentedura EJ, Diener I",
+		"year": 2016,
+		"title": "The efficacy of pain neuroscience education on musculoskeletal pain: a systematic review of the literature",
+		"journal": "Physiotherapy Theory and Practice",
+		"doi": "10.1080/09593985.2016.1194646",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "brinjikji-2015",
+		"authors": "Brinjikji W, Luetmer PH, Comstock B, et al.",
+		"year": 2015,
+		"title": "Systematic literature review of imaging features of spinal degeneration in asymptomatic populations",
+		"journal": "American Journal of Neuroradiology",
+		"doi": "10.3174/ajnr.A4173",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "teunis-2014",
+		"authors": "Teunis T, Lubberts B, Reilly BT, Ring D",
+		"year": 2014,
+		"title": "A systematic review and pooled analysis of the prevalence of rotator cuff disease with increasing age",
+		"journal": "Journal of Shoulder and Elbow Surgery",
+		"doi": "10.1016/j.jse.2014.08.001",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "culvenor-2019",
+		"authors": "Culvenor AG, Øiestad BE, Hart HF, et al.",
+		"year": 2019,
+		"title": "Prevalence of knee osteoarthritis features on magnetic resonance imaging in asymptomatic uninjured adults: a systematic review and meta-analysis",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2018-099257",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "oliveira-2018",
+		"authors": "Oliveira CB, Maher CG, Pinto RZ, et al.",
+		"year": 2018,
+		"title": "Clinical practice guidelines for the management of non-specific low back pain in primary care: an updated overview",
+		"journal": "European Spine Journal",
+		"doi": "10.1007/s00586-018-5673-2",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries",
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "dahm-2010",
+		"authors": "Dahm KT, Brurberg KG, Jamtvedt G, Hagen KB",
+		"year": 2010,
+		"title": "Advice to rest in bed versus advice to stay active for acute low-back pain and sciatica",
+		"journal": "Cochrane Database of Systematic Reviews",
+		"doi": "10.1002/14651858.CD007612.pub2",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries",
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "finucane-2020",
+		"authors": "Finucane LM, Downie A, Mercer C, et al.",
+		"year": 2020,
+		"title": "International framework for red flags for potential serious spinal pathologies",
+		"journal": "Journal of Orthopaedic & Sports Physical Therapy",
+		"doi": "10.2519/jospt.2020.9971",
+		"chapters": [
+			"technique-injury/09-pain-and-injuries"
+		]
+	},
+	{
+		"id": "silbernagel-2007",
+		"authors": "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J",
+		"year": 2007,
+		"title": "Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study",
+		"journal": "American Journal of Sports Medicine",
+		"doi": "10.1177/0363546506298279",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "manca-2017",
+		"authors": "Manca A, Dragone D, Dvir Z, Deriu F",
+		"year": 2017,
+		"title": "Cross-education of muscular strength following unilateral resistance training: a meta-analysis",
+		"journal": "European Journal of Applied Physiology",
+		"doi": "10.1007/s00421-017-3720-z",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "malliaras-2013",
+		"authors": "Malliaras P, Barton CJ, Reeves ND, Langberg H",
+		"year": 2013,
+		"title": "Achilles and patellar tendinopathy loading programmes: a systematic review comparing clinical outcomes and identifying potential mechanisms for effectiveness",
+		"journal": "Sports Medicine",
+		"doi": "10.1007/s40279-013-0019-z",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "beyer-2015",
+		"authors": "Beyer R, Kongsgaard M, Hougs Kjær B, et al.",
+		"year": 2015,
+		"title": "Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial",
+		"journal": "American Journal of Sports Medicine",
+		"doi": "10.1177/0363546515584760",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "rio-2015",
+		"authors": "Rio E, Kidgell D, Purdam C, et al.",
+		"year": 2015,
+		"title": "Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2014-094386",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "clifford-2020",
+		"authors": "Clifford C, Challoumas D, Paul L, et al.",
+		"year": 2020,
+		"title": "Effectiveness of isometric exercise in the management of tendinopathy: a systematic review and meta-analysis of randomised trials",
+		"journal": "BMJ Open Sport & Exercise Medicine",
+		"doi": "10.1136/bmjsem-2020-000760",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "hayden-2021",
+		"authors": "Hayden JA, Ellis J, Ogilvie R, et al.",
+		"year": 2021,
+		"title": "Exercise therapy for chronic low back pain",
+		"journal": "Cochrane Database of Systematic Reviews",
+		"doi": "10.1002/14651858.CD009790.pub2",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "steuri-2017",
+		"authors": "Steuri R, Sattelmayer M, Elsig S, et al.",
+		"year": 2017,
+		"title": "Effectiveness of conservative interventions including exercise, manual therapy and medical management in adults with shoulder impingement: a systematic review and meta-analysis of RCTs",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2016-096515",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "ardern-2016",
+		"authors": "Ardern CL, Glasgow P, Schneiders A, et al.",
+		"year": 2016,
+		"title": "2016 consensus statement on return to sport from the First World Congress in Sports Physical Therapy, Bern",
+		"journal": "British Journal of Sports Medicine",
+		"doi": "10.1136/bjsports-2016-096278",
+		"chapters": [
+			"technique-injury/10-programming-around-injury"
+		]
+	},
+	{
+		"id": "harman-1989",
+		"authors": "Harman EA, Rosenstein RM, Frykman PN, Nigro GA",
+		"year": 1989,
+		"title": "Effects of a belt on intra-abdominal pressure during weight lifting",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-198904000-00012",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "lander-1990",
+		"authors": "Lander JE, Simonton RL, Giacobbe JKF",
+		"year": 1990,
+		"title": "The effectiveness of weight-belts during the squat exercise",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-199002000-00019",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "lander-1992",
+		"authors": "Lander JE, Hundley JR, Simonton RL",
+		"year": 1992,
+		"title": "The effectiveness of weight-belts during multiple repetitions of the squat exercise",
+		"journal": "Medicine & Science in Sports & Exercise",
+		"doi": "10.1249/00005768-199205000-00015",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "miyamoto-1999",
+		"authors": "Miyamoto K, Iinuma N, Maeda M, et al.",
+		"year": 1999,
+		"title": "Effects of abdominal belts on intra-abdominal pressure, intramuscular pressure in the erector spinae muscles and myoelectrical activities of trunk muscles",
+		"journal": "Clinical Biomechanics",
+		"doi": "10.1016/S0268-0033(98)00070-9",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "huang-2026",
+		"authors": "Huang Y, García-Ramos A, Chen Z, et al.",
+		"year": 2026,
+		"title": "The effect of weightlifting belt on the relative load–velocity relationship and one-repetition maximum prediction accuracy in the free-weight back squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000005523",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "zink-2001",
+		"authors": "Zink AJ, Whiting WC, Vincent WJ, McLaine AJ",
+		"year": 2001,
+		"title": "The effects of a weight belt on trunk and leg muscle activity and joint kinematics during the squat exercise",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/00124278-200105000-00013",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "fong-2022",
+		"authors": "Fong SSM, Chung LMY, Gao Y, et al.",
+		"year": 2022,
+		"title": "The influence of weightlifting belts and wrist straps on deadlift kinematics, time to complete a deadlift and rating of perceived exertion in male recreational weightlifters: an observational study",
+		"journal": "Medicine",
+		"doi": "10.1097/MD.0000000000028918",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "ammendolia-2005",
+		"authors": "Ammendolia C, Kerr MS, Bombardier C",
+		"year": 2005,
+		"title": "Back belt use for prevention of occupational low back pain: a systematic review",
+		"journal": "Journal of Manipulative and Physiological Therapeutics",
+		"doi": "10.1016/j.jmpt.2005.01.009",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "machek-2021",
+		"authors": "Machek SB, Cardaci TD, Wilburn DT, et al.",
+		"year": 2021,
+		"title": "Neoprene knee sleeves of varying tightness augment barbell squat one repetition maximum performance without improving other indices of muscular strength, power, or endurance",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000003869",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "lake-2012",
+		"authors": "Lake JP, Carden PJC, Shorter KA",
+		"year": 2012,
+		"title": "Wearing knee wraps affects mechanical output and performance characteristics of back squat exercise",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e3182429840",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "harris-2024",
+		"authors": "Harris DR, Harris DR, Cardaci TD, et al.",
+		"year": 2024,
+		"title": "Wrist wraps do not affect barbell bench press muscular strength, power, or endurance in resistance-trained men and women",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0000000000004930",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "sato-2012b",
+		"authors": "Sato K, Fortenbaugh D, Hydock DS",
+		"year": 2012,
+		"title": "Kinematic changes using weightlifting shoes on barbell back squat",
+		"journal": "Journal of Strength and Conditioning Research",
+		"doi": "10.1519/JSC.0b013e318218dd64",
+		"chapters": [
+			"technique-injury/11-equipment"
+		]
+	},
+	{
+		"id": "southwell-2016",
+		"authors": "Southwell DJ, Petersen SA, Beach TAC, Graham RB",
+		"year": 2016,
+		"title": "The effects of squatting footwear on three-dimensional lower limb and spine kinetics",
+		"journal": "Journal of Electromyography and Kinesiology",
+		"doi": "10.1016/j.jelekin.2016.10.005",
+		"chapters": [
+			"technique-injury/11-equipment"
 		]
 	}
 ]
