@@ -66,6 +66,13 @@ header.header {
 	color: #ffffff;
 }
 
+/* "In plain words" boxes (tip asides) use the red accent, distinct from the evidence-label colours. */
+.starlight-aside--tip {
+	--sl-color-asides-text-accent: var(--sl-color-accent-high);
+	--sl-color-asides-border: var(--sl-color-accent);
+	background-color: var(--sl-color-accent-low);
+}
+
 /* Primary buttons: solid red with white text in both modes. */
 .sl-link-button.primary,
 .sl-link-button.primary:hover {

@@ -11,7 +11,10 @@
 		"edition": null,
 		"category": "programming",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"foundations/02-stress-recovery-adaptation",
+			"foundations/03-core-training-principles",
+			"foundations/04-training-variables"
 		]
 	},
 	{
@@ -24,7 +27,8 @@
 		"edition": null,
 		"category": "programming",
 		"chapters": [
-			"building-programs/06-block-periodization"
+			"building-programs/06-block-periodization",
+			"foundations/02-stress-recovery-adaptation"
 		]
 	},
 	{
@@ -38,7 +42,8 @@
 		"edition": "3rd ed.",
 		"category": "programming",
 		"chapters": [
-			"foundations/05-measuring-intensity"
+			"foundations/05-measuring-intensity",
+			"foundations/03-core-training-principles"
 		]
 	},
 	{
@@ -61,7 +66,9 @@
 		"year": 2003,
 		"edition": "6th ed.",
 		"category": "technique",
-		"chapters": []
+		"chapters": [
+			"foundations/03-core-training-principles"
+		]
 	},
 	{
 		"id": "tuchscherer-2008",
