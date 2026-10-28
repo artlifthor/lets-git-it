@@ -11,11 +11,15 @@ export default defineConfig({
 		starlight({
 			title: 'Powerlifting Programming Manual',
 			plugins: [starlightLinksValidator()],
-			components: { PageTitle: './src/components/PageTitle.astro' },
+			components: {
+				PageTitle: './src/components/PageTitle.astro',
+				SocialIcons: './src/components/SocialIcons.astro',
+			},
 			customCss: ['@fontsource/montserrat/400.css', '@fontsource/montserrat/600.css', './src/styles/theme.css'],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/artlifthor/lets-git-it' }],
 			sidebar: [
 				{ label: 'Home', link: '/' },
+				{ label: 'Updates', link: '/updates/' },
 				{ label: 'Part 1 · Foundations (Beginner)', items: [{ autogenerate: { directory: 'foundations' } }] },
 				{ label: 'Part 2 · Building Programs (Intermediate)', items: [{ autogenerate: { directory: 'building-programs' } }] },
 				{ label: 'Part 3 · Advanced Programming (Advanced)', items: [{ autogenerate: { directory: 'advanced' } }] },

@@ -10,6 +10,9 @@ export const collections = {
 				// Required on chapters (enforced by scripts/check-chapters.mjs), absent on other pages.
 				level: z.enum(['beginner', 'intermediate', 'advanced', 'competition', 'technique']).optional(),
 				lastReviewed: z.coerce.date().optional(),
+				// Update posts (src/content/docs/updates/) only.
+				date: z.coerce.date().optional(),
+				updateType: z.enum(['research', 'coaching', 'site']).optional(),
 			}),
 		}),
 	}),

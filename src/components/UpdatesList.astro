@@ -1,0 +1,65 @@
+---
+// Every update post, newest first.
+import { getCollection } from 'astro:content';
+import { UPDATE_TYPES, listUpdates } from '../lib/updates.mjs';
+import { formatReviewed } from '../lib/levels.mjs';
+
+const updates = listUpdates(await getCollection('docs'));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+{
+	updates.length === 0 ? (
+		<p>No updates yet.</p>
+	) : (
+		<ul class="updates">
+			{updates.map((u) => (
+				<li>
+					<span class={`type type--${u.data.updateType}`}>{UPDATE_TYPES[u.data.updateType] ?? 'Update'}</span>
+					<span class="date">{formatReviewed(u.data.date)}</span>
+					<a href={`${base}/${u.id}/`}>{u.data.title}</a>
+					{u.data.description && <p>{u.data.description}</p>}
+				</li>
+			))}
+		</ul>
+	)
+}
+
+<style>
+	.updates {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		gap: 1.25rem;
+	}
+	.updates li {
+		padding-bottom: 1.25rem;
+		border-bottom: 1px solid var(--sl-color-hairline);
+	}
+	.updates a {
+		display: block;
+		margin-top: 0.25rem;
+		font-weight: 600;
+		font-size: var(--sl-text-lg);
+	}
+	.updates p {
+		margin-top: 0.25rem;
+		color: var(--sl-color-gray-3);
+	}
+	.type {
+		display: inline-block;
+		margin-right: 0.75rem;
+		padding: 0.05rem 0.5rem;
+		border-radius: 0.25rem;
+		font-size: var(--sl-text-xs);
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: var(--sl-color-accent-high);
+		background: var(--sl-color-accent-low);
+	}
+	.date {
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+</style>

@@ -259,7 +259,7 @@ The site **refuses to build** if a chapter is missing `level` or `lastReviewed`.
 
 ## 8. Research updater (sub-project 3)
 
-A **scheduled cloud agent** (Claude Code routine) runs **monthly**.
+A **scheduled cloud agent** (Claude Code routine) runs **every 2 months** (15th of Jan, Mar, May, Jul, Sep, Nov at 09:00 Manila time). Each run: (1) checks every cited study for retraction notices; (2) searches new research for one Part in rotation (Jan Part 1, Mar Part 2, May Part 3, Jul Part 4, Sep Part 5, Nov whole-manual scan for major new meta-analyses); (3) writes a **Coaching Trends Report** on what the owner's followed coaches are publicly discussing (podcasts, YouTube, articles, social media), with an evidence check per practice and fair-critique rules (critique practices not people; link and date every source; never invent quotes). Both the research update and the coaching report are posted as pages in the site's **Updates** section (bell icon in the top bar), inside the same pull request, so nothing is published until the owner merges it. Followed coaches (owner's list, 2026-10-28): Steve DeNovi, Marcellus Williams, Sean Noriega, Matt Gary, Mike Tuchscherer, Dr. Mike Zourdos, Bryce Lewis, Jason Tremblay, Dr. Eric Helms, Greg Nuckols, Matt Vena.
 
 ### What it does
 1. For each chapter, searches for research published since the chapter's `lastReviewed` date.
